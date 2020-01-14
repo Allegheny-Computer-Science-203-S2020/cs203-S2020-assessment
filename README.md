@@ -76,7 +76,7 @@ members would not write Python source code that also manifests this red flag.
 A software engineer demonstrates the mastery of this technical skill at the E
 level by providing an excerpt from their terminal window showing that they can
 install the project's dependencies using `pipenv`, pick a version of Python
-using `pyenv, show the selected version of Python with `pyenv`, and run either
+using `pyenv`, show the selected version of Python with `pyenv`, and run either
 the program or the test suite through the use of `pyenv` and `pipenv`.
 
 ## Problems with the Assessment

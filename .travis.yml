@@ -16,11 +16,7 @@ notifications:
     on_failure: always
 
 # Lint the README.md file with mdl
-# Lint the README.md file with proselint
 # Lint the assessment.md file with mdl
-# Lint the assessment.md file with proselint
 script:
   - mdl README.md
-  - proselint README.md
   - mdl assessment.md
-  - proselint assessment.md

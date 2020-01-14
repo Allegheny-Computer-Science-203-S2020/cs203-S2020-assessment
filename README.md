@@ -46,6 +46,15 @@ finished with the assessment, please update the README as necessary.
 
 ## Example of a Professional Skill
 
+* Understanding and avoiding red flags like shallow modules,
+  information leakage, and conjoined methods
+  * N = Ignores all red flags in the code
+  * I = Identifies red flags in the code, but does not fix them
+  * A = Identifies red flags in the code, but only fixes some of them
+  * G = Identifies red flags in the code, and fixes most or all of them
+  * E = Identifies, understands, and fixes all red flags, while providing
+    documentation, tools, and advice that helps team members find and fix them
+
 ## Example of a Technical Skill
 
 * Running Python programs with `pyenv` and `pipenv`
@@ -58,16 +67,16 @@ finished with the assessment, please update the README as necessary.
     and flags to streamline workflow, while being able to provide assistance and
     troubleshooting to other students using `pyenv` and `pipenv`
 
-A software engineer could demonstrate mastery of this technical skill at the E
-level by providing an excerpt from their terminal window to show that they can
+A software engineer can demonstrate the mastery of this technical skill at the E
+level by providing an excerpt from their terminal window showing that they can
 install the project's dependencies using `pipenv`, pick a version of Python
-using `pyenv, show the selected version of Python with `pyenv`, and then run
-either the program or the test suite through the use of `pyenv` and `pipenv`.
+using `pyenv, show the selected version of Python with `pyenv`, and run either
+the program or the test suite through the use of `pyenv` and `pipenv`.
 
 ## Problems with the Assessment
 
 If you have any problems with this assessment sheet, then please create an issue
 in this repository using the "Issues" link at the top of this site. Before this
-assignment is submitted by the due date, all of the issues in this repository
+assignment is submitted by the due date, all the issues in this repository
 should have been assigned to a team member, discussed, handled, marked as
 resolved, and then closed.

@@ -5,7 +5,9 @@ This repository contains the assessment sheet for [Computer Science 203 Spring
 will add this assessment sheet to a new GitHub Classroom repository each when
 the software engineering team is completing an assignment. The instructor
 invites each student in the course to master the technical and professional
-skills listed on this assignment sheet.
+skills listed on this assignment sheet. More details about how the course will
+use this assessment sheet and how you will enhance it as part of this
+assignment are provided in the following subsections of the README.
 
 ## Improving the Assessment
 

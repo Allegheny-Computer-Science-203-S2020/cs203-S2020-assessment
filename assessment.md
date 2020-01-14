@@ -31,6 +31,8 @@
 
 ### Project Management with GitHub
 
+Project Management is Covered by Team 2
+
 * Using the GitHub Flow model
 * Using the GitHub issue tracker
 * Assigning team members to issues in the GitHub issue tracker

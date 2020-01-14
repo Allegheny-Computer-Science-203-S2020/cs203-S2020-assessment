@@ -55,6 +55,12 @@ finished with the assessment, please update the README as necessary.
   * E = Identifies, understands, and fixes all red flags, while also providing
     documentation, tools, and advice that help team members develop this skill
 
+A software engineer demonstrates the mastery of this professional skill at the E
+level by first providing a realistic source code segment that exhibits a red
+flag. The engineer should then explain how the source code was fixed to avoid
+the red flag and then finally document the steps taken to ensure that other team
+members would not write Python source code that also manifests this red flag.
+
 ## Example of a Technical Skill
 
 * Running Python programs with `pyenv` and `pipenv`

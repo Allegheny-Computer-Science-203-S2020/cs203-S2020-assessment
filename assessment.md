@@ -43,12 +43,13 @@
 
 ### Continuous Integration with Travis
 
-* Setup and configure Travis CI
+* Setup and configuration of Travis CI
 * Perform secure releases of project deliverables
 * Create third-party integrations with Travis CI (e.g., codecov.io)
 * Add README badges that show status of Travis CI builds
 * Add README badges that show project characteristics (e.g., coverage and
   language)
+* Identify and resolve problems with failing builds in Travis CI
 
 ### Foundations of Software Engineering
 

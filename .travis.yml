@@ -7,7 +7,6 @@ jdk: oraclejdk8
 # install mdl for checking Markdown
 before_install:
   - gem install mdl
-  - pip install proselint --user
 
 # Send emails when there is a change or failure
 notifications:

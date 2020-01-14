@@ -31,8 +31,8 @@
 
 ### Project Management with GitHub
 
-* Using the issue tracker
-* Using the GitHub flow model
+* Using the GitHub issue tracker
+* Using the GitHub Flow model
 * Creating and using a repository branch
 * Creating and using a repository fork
 * Merging a branch or a fork to another branch or fork

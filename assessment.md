@@ -60,6 +60,8 @@
 * Programming styles
 * Managing software complexity
 * Mitigating software risk
+* Software testing
+* Software refactoring
 
 ## Professional Skills
 

@@ -26,6 +26,8 @@
 * Refactoring a Python program to improve its characteristics
 * Debugging Python programs using logging and other methods
 * Adopting and using appropriate Python language constructs
+* Adopting and using appropriate Python packages
+* Adhering to industry best practices for programming in Python
 
 ### Project Management with GitHub
 

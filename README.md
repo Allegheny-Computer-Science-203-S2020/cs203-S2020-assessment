@@ -52,8 +52,8 @@ finished with the assessment, please update the README as necessary.
   * I = Identifies red flags in the code, but does not fix them
   * A = Identifies red flags in the code, but only fixes some of them
   * G = Identifies red flags in the code, and fixes most or all of them
-  * E = Identifies, understands, and fixes all red flags, while providing
-    documentation, tools, and advice that helps team members find and fix them
+  * E = Identifies, understands, and fixes all red flags, while also providing
+    documentation, tools, and advice that help team members develop this skill
 
 ## Example of a Technical Skill
 

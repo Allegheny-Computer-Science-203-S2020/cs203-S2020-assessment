@@ -58,6 +58,11 @@ finished with the assessment, please update the README as necessary.
     and flags to streamline workflow, while being able to provide assistance and
     troubleshooting to other students using `pyenv` and `pipenv`
 
+A software engineer could demonstrate mastery of this technical skill at the E
+level by providing an excerpt from their terminal window to show that they can
+install the project's dependencies using `pipenv`, pick a version of Python
+using `pyenv, show the selected version of Python with `pyenv`, and then run
+either the program or the test suite through the use of `pyenv` and `pipenv`.
 
 ## Problems with the Assessment
 

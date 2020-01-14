@@ -67,10 +67,11 @@
 
 ### Individual
 
-* Continuous learning about
+* Continuous learning about:
   * Python software development
+  * Python software testing
   * Project management with GitHub
-  * Continuous integration with Travis
+  * Continuous integration with Travis CI
   * Foundations of software engineering
 * Understanding and avoiding red flags
 * Understanding and adopting best practices
@@ -92,9 +93,9 @@
 * Interaction with the customer
 * Interaction with the team leaders
 * Interaction with the course instructor
-* Interaction with the teaching assistants
+* Interaction with the student technical leaders
 
 ## Revision of Guides
 
-* Revising the assessment form
-* Revising the code of conduct
+* Policies for revising the assessment form
+* Policies for revising the code of conduct

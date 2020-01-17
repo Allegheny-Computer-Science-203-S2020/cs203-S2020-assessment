@@ -93,9 +93,29 @@ Project Management is Covered by Team 2
 ### Interactions
 
 * Interaction with the customer
+  * :disappointed:
+  * :confused:
+  * :neutral_face:
+  * :smiley:
+  * :sunglasses:
 * Interaction with the team leaders
+  * :disappointed:
+  * :confused:
+  * :neutral_face:
+  * :smiley:
+  * :sunglasses:
 * Interaction with the course instructor
+  * :disappointed:
+  * :confused:
+  * :neutral_face:
+  * :smiley:
+  * :sunglasses:
 * Interaction with the student technical leaders
+  * :disappointed:
+  * :confused:
+  * :neutral_face:
+  * :smiley:
+  * :sunglasses:
 
 ## Revision of Guides
 

@@ -31,6 +31,7 @@
 * Adopting and using appropriate Python language constructs
 * Adopting and using appropriate Python packages
 * Adhering to industry best practices for programming in Python
+* N
 
 ### Project Management with GitHub
 

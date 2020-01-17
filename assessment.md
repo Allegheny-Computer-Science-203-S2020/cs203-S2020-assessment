@@ -73,7 +73,13 @@
   * Project management with GitHub
   * Continuous integration with Travis CI
   * Foundations of software engineering
+
 * Understanding and avoiding red flags
+😞 = Ignores all red flags in code and does not make attempts to fix them.
+😕 = Identifies red flags, but does not attempt to fix them.
+😐 = Identifies red flags and fixes some of them.
+😃 = Identifies red flags and fixes the majority of them.
+😎 = Identifies red flags, fixes all of them and helps others to fix theirs as well.
 * Understanding and adopting best practices
 
 ### Group

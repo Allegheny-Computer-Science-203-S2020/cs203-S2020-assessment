@@ -93,7 +93,8 @@ Project Management is Covered by Team 2
 ### Interactions
 
 * Interaction with the customer
-  * :disappointed: Disregards the customer's feelings and fails to take their ideas and needs into account
+  * :disappointed: Disregards the customer's feelings and
+  refuses to take their needs into account
   * :confused: Regards some of the customer's feelings but fails to take their ideas and needs into account
   * :neutral_face: Regards most of the customer's feelings and takes some of their ideas and needs into account
   * :smiley: Regards all of the customer's feelings and incorporates most of their ideas and needs while also communicating challenges

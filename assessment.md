@@ -93,29 +93,29 @@ Project Management is Covered by Team 2
 ### Interactions
 
 * Interaction with the customer
-  * :disappointed:
-  * :confused:
-  * :neutral_face:
-  * :smiley:
-  * :sunglasses:
+  * :disappointed: Disregards the customer's feelings and fails to take their ideas and needs into account
+  * :confused: Regards some of the customer's feelings but fails to take their ideas and needs into account
+  * :neutral_face: Regards most of the customer's feelings and takes some of their ideas and needs into account
+  * :smiley: Regards all of the customer's feelings and incorporates most of their ideas and needs while also communicating challenges
+  * :sunglasses: Regards all of the customer's feelings, improves ideas, incorporates all of their needs, clearly communicates challenges and provides updates on progress
 * Interaction with the team leaders
-  * :disappointed:
-  * :confused:
-  * :neutral_face:
-  * :smiley:
-  * :sunglasses:
+  * :disappointed: Impolite, impatient and does not respond to team leaders 
+  * :confused: Polite yet impatient and is partially responsive to team leaders but does not communicate clearly
+  * :neutral_face: Polite, patient and is mostly responsive to team leaders with moderate communication 
+  * :smiley: Polite, patient and is responsive to team leaders with clear communication
+  * :sunglasses: Polite, patient and is responsive to team leaders with clear communication, providing multiple progress updates
 * Interaction with the course instructor
-  * :disappointed:
-  * :confused:
-  * :neutral_face:
-  * :smiley:
-  * :sunglasses:
+  * :disappointed: Impolite, impatient and does not communicate with the course instructor 
+  * :confused: Impolite, impatient and only communicates with the course instructor when personally addressed 
+  * :neutral_face: Polite yet impatient and does not communicate clearly with the course instructor 
+  * :smiley: Polite, patient and communicates with the course instructor 
+  * :sunglasses: Polite, patient and communicates with the course instructor to engage in helpful learning experiences 
 * Interaction with the student technical leaders
-  * :disappointed:
-  * :confused:
-  * :neutral_face:
-  * :smiley:
-  * :sunglasses:
+  * :disappointed: Impolite, impatient and does not communicate with the technical leaders 
+  * :confused: Impolite, imparient, did not speak to the technical leaders when necessary and poorly communicates 
+  * :neutral_face: Polite yet impatient and moderately communicated with the technical leaders
+  * :smiley: Polite, patient and effectively communicated with technical leaders 
+  * :sunglasses: Polite, patient and effectively communicated with technical leaders, seeking advice and help when necessary
 
 ## Revision of Guides
 

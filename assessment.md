@@ -128,11 +128,15 @@ Project Management is Covered by Team 2
   engage in helpful learning experiences
 
 * Interaction with the student technical leaders
-  * :disappointed: Impolite, impatient and does not communicate with the technical leaders
-  * :confused: Impolite, impatient, did not speak to the technical leaders when necessary and communicates poorly
-  * :neutral_face: Polite yet impatient and moderately communicated with the technical leaders
+  * :disappointed: Impolite, impatient and does not communicate with the technical
+  leaders
+  * :confused: Impolite, impatient, did not speak to the technical leaders when
+  necessary and communicates poorly
+  * :neutral_face: Polite yet impatient and moderately communicated with the
+  technical leaders
   * :smiley: Polite, patient and effectively communicated with technical leaders
-  * :sunglasses: Polite, patient and effectively communicated with technical leaders, seeking advice and help when necessary
+  * :sunglasses: Polite, patient and effectively communicated with technical
+  leaders, seeking advice and help when necessary
 
 ## Revision of Guides
 

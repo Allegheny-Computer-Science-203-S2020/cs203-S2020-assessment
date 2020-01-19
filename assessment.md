@@ -107,10 +107,14 @@ Project Management is Covered by Team 2
 
 * Interaction with the team leaders
   * :disappointed: Impolite, impatient and does not respond to team leaders
-  * :confused: Polite yet impatient and is partially responsive to team leaders but does not communicate clearly
-  * :neutral_face: Polite, patient and is mostly responsive to team leaders with moderate communication
-  * :smiley: Polite, patient and is responsive to team leaders with clear communication
-  * :sunglasses: Polite, patient and is responsive to team leaders with clear communication, providing multiple progress updates
+  * :confused: Polite yet impatient and is partially responsive to
+  team leaders but does not communicate clearly
+  * :neutral_face: Polite, patient and is mostly responsive to team leaders
+  with moderate communication
+  * :smiley: Polite, patient and is responsive to team leaders with clear
+  communication
+  * :sunglasses: Polite, patient and is responsive to team leaders with clear
+  communication, providing multiple progress updates
 
 * Interaction with the course instructor
   * :disappointed: Impolite, impatient and does not communicate with the course instructor

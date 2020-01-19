@@ -112,10 +112,9 @@ Project Management is Covered by Team 2
   * :neutral_face: Polite yet impatient and does not communicate clearly with the course instructor
   * :smiley: Polite, patient and communicates with the course instructor
   * :sunglasses: Polite, patient and communicates with the course instructor to engage in helpful learning experiences
-
 * Interaction with the student technical leaders
   * :disappointed: Impolite, impatient and does not communicate with the technical leaders
-  * :confused: Impolite, impatient, did not speak to the technical leaders when necessary and communicates poorly
+  * :confused: Impolite, imparient, did not speak to the technical leaders when necessary and poorly communicates
   * :neutral_face: Polite yet impatient and moderately communicated with the technical leaders
   * :smiley: Polite, patient and effectively communicated with technical leaders
   * :sunglasses: Polite, patient and effectively communicated with technical leaders, seeking advice and help when necessary

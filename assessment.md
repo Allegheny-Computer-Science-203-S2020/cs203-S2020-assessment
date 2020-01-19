@@ -41,7 +41,16 @@ Project Management is Covered by Team 2
 * Creating and using a repository fork
 * Merging a branch or a fork to another branch or fork
 * Creating and reviewing a pull request
+
 * Using appropriate commit messages
+  * N = **No commits** are made or commit messages are **blank**
+  * I = Commit messages are **arbitrary** and/or **vague**
+  * A = Commit messages contain **relevant actions** and **content** associated with the commit files
+  * G = Commit messages contain **relevant actions** and **content** as well as a **brief description** or list of changes if a commit contains a large volume of changes
+  * E = Commit messages contain **relevant actions** and **content** as well as a **brief description** or list of changes if a commit contains a large volume of changes. Additionally, **guidance** is provided to the group ensuring members are following a consistent and uniform commit structure.
+
+A software engineer demonstrates the mastery of this technical skill at the E
+level by engaging with the team to determine an appropriate commit scheme and structure (e.g. action-content-file or equally descriptive format), consistently adhering to said structure, and adding commit descriptions if deemed necessary (e.g. Adding a list of feature additions / changes / removals or rationale for said actions).
 
 ### Continuous Integration with Travis
 

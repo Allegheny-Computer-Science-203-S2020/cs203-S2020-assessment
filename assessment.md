@@ -59,8 +59,10 @@ Project Management is Covered by Team 2
   * N = No effort to change, refine, or contribute to documentation.
   * I = Very short or vague description of documentation
   * A = Conveys information accurately and descriptively enough for everyone to understand
-  * G = Well thought-out and descriptive documentation and definitions so everyone can be well informed
-  * E = A very structured and detailed outlining of all of the elements in the software system.
+  * G = Well thought-out and descriptive documentation and definitions so
+        everyone can be well informed
+  * E = A very structured and detailed outlining of all of the elements in
+        a software system.
 * Software architecture
   * N = No carefully thought-out contribution to the layout of the Project
   * I = Very little amount of shape to the architecture to the Project
@@ -72,13 +74,16 @@ Project Management is Covered by Team 2
   * I = Small effort made to put in place a layout of a design system
   * A = Some small designs are able to be seen so a solution is visible
   * G = A solution that is rich in coding layout but architectural design
-  * E = All expectations have been exceeded with a well thought-out high level software solution with both extremely detailed algorithmic and architectural designs.
+  * E = All expectations have been exceeded with a well thought-out high level
+        software solution with both extremely detailed algorithmic and
+        architectural designs.
 * Software documentation
   * N = No written communication of how the software works.
   * I = Very little or unclear comments in the code
   * A = Software documentation has a decent bit of detail of the program
   * G = Detailed documentation within the project with ample details of the program
-  * E = Very detailed explanation of how to use the software with reasons of why certain methods used.
+  * E = Very detailed explanation of how to use the software with reasons of
+        why certain methods used.
 * Programming styles
   * N = No specific style is expressed
   * I = programming style is not clear
@@ -86,12 +91,13 @@ Project Management is Covered by Team 2
     :disappointed: No complexity managements techniques utilized
     :confused: Code is frequently non-obvious and complex
     :neutral_face: Some basic code management is used such as simplicity or simplification
-    :smiley: Most of code is managed using complexity reduction techniques such as abstraction
-    :sunglasses: Majority of code effectively uses complexity reduction techniques such as modular design
+    :smiley: Most of code is managed using complexity reduction techniques like abstraction
+    :sunglasses: Majority of code effectively uses complexity reduction techniques
+                 such as modular design
 * Mitigating software risk
     :disappointed: No risk identified
     :confused: Minimal risk identified
-    :neutral_face: Some risk identified and very basic risk mitigation techniques used
+    :neutral_face: Some risk identified and basic risk mitigation techniques used
     :smiley: Most risk identified and some risk mitigation techniques used
     :sunglasses: Majority risk identified and mitigation techniques used
 * Software testing

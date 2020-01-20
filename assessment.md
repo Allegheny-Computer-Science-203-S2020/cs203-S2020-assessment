@@ -38,6 +38,26 @@ Project Management is Covered by Team 2
 * Assigning team members to issues in the GitHub issue tracker
 * Creating and assigning labels to issues in the GitHub issue tracker
 * Creating and using a repository branch
+  * N = **No branches** (other than master) are used, and commits are made
+    directly to the master branch.
+  * I = A branch is used, but its **name** is **not relevant** to its purpose
+    or its function is unnecessary.
+  * A = Branch **name** is **relevant** to its function and its function is
+    necessary.
+  * G = Branch is **properly created** and necessary, and a **pull request** is
+    created once work is completed on the branch.
+  * E = Branch is **properly created**, and a **pull request** is created once
+    work is completed on the branch. **Guidance** is provided to group members
+    who need assistance, ensuring that use of branches is **consistent** across
+    team members.
+
+A software engineer demonstrates mastery of this technical skill at the E level
+by communicating with their team to determine a naming scheme for branches, and
+the plan is executed as agreed upon. The branch(es) being used should be named
+according to their role (i.e. team2-project-management-with-github), and once
+that role is complete/no longer necessary, a pull request should be created to
+merge the branch with the main branch.
+
 * Creating and using a repository fork
 * Merging a branch or a fork to another branch or fork
 * Creating and reviewing a pull request

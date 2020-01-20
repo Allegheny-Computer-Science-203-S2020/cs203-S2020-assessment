@@ -20,8 +20,12 @@
 * Running Python programs with `pyenv` and `pipenv`
   * N = `pyenv` and `pipenv` not installed or setup on laptop.
   * I = Program will not run with `pyenv` and `pipenv`.
-  * A = Program is able to run with `pyenv` and `pipenv`.
-  * G =
+  * A = Programs are able to run with `pyenv` and `pipenv`.
+  * G = Programs are able to run with `pyenv` and `pipenv` and additional flags
+  and commands have been incorporated.
+  * E = Programs are able to run with `pyenv` and `pipenv` with additional flags
+  and commands to improve testing while also providing assistance to other students
+  in their use of `pyenv` and `pipenv`.
 * Linting Python programs with `pylint` and `flake8`
   * N =
   * I =

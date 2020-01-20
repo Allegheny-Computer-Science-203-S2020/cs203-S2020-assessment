@@ -46,12 +46,42 @@ Project Management is Covered by Team 2
 ### Continuous Integration with Travis
 
 * Setup and config of Travis CI
+  * :disappointed: =
+  * :confused: =
+  * :neutral_face: =
+  * :smiley: =
+  * :sunglasses: =
 * Performing secure releases of project deliverables
+  * :disappointed: =
+  * :confused: =
+  * :neutral_face: =
+  * :smiley: =
+  * :sunglasses: =
 * Creating third-party integrations with Travis CI (e.g., codecov.io)
+  * :disappointed: =
+  * :confused: =
+  * :neutral_face: =
+  * :smiley: =
+  * :sunglasses: =
 * Adding README badges that show status of Travis CI builds
+  * :disappointed: =
+  * :confused: =
+  * :neutral_face: =
+  * :smiley: =
+  * :sunglasses: =
 * Adding README badges that show project characteristics (e.g., coverage and
   language)
+  * :disappointed: =
+  * :confused: =
+  * :neutral_face: =
+  * :smiley: =
+  * :sunglasses: =
 * Identifying and resolving problems with failing builds in Travis CI
+  * :disappointed: =
+  * :confused: =
+  * :neutral_face: =
+  * :smiley: =
+  * :sunglasses: =
 
 ### Foundations of Software Engineering
 

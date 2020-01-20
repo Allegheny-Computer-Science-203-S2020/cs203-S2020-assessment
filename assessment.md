@@ -53,13 +53,18 @@
 * Reporting code coverage through an online provider
   * :disappointed: = Did not check coverage
   * :neutral_face: = Checked code coverage using an online provider
-  * :sunglasses: = Checked code coverage through an online provider and documentation provided
+  * :sunglasses: = Checked code coverage through an online provider and
+  documentation provided.
 * Using docstrings to document a Python program
   * :disappointed: = Did not use docstrings
-  * :confused: = Incorrectly use of docstrings which are unidentifiable to the compiler
-  * :neutral_face: = Added docstrings, but they do not fully describe the functions'/methods' effect as a command
-  * :smiley: = Successfully added docstrings with useful description, but they lack some proper syntax
-  * :sunglasses: = Successfully added docstring with useful description and proper syntax
+  * :confused: = Incorrectly use of docstrings which are unidentifiable to the
+  compiler.
+  * :neutral_face: = Added docstrings, but they do not fully describe the
+  functions'/methods' effect as a command.
+  * :smiley: = Successfully added docstrings with useful description, but they
+  lack some proper syntax.
+  * :sunglasses: = Successfully added docstring with useful description and
+  proper syntax.
 * Adopting and applying appropriate naming conventions
 * Using exception handling to create a robust Python program
 * Refactoring a Python program to improve its characteristics

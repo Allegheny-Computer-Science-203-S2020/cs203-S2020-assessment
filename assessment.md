@@ -2,11 +2,11 @@
 
 ## Assessment Key
 
-* N = None
-* I = Inadequate
-* A = Adequate
-* G = Good
-* E = Excellent
+* :disappointed: = None
+* :confused: = Inadequate
+* :neutral_face: = Adequate
+* :smiley: = Good
+* :sunglasses: = Excellent
 
 ## Technical Skills
 

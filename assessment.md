@@ -127,6 +127,11 @@ will effectively communicate their intentions and abilities in order to
 maximize productivity.
 
 * Conduct
+  * :disappointed: = Never treats teammates with respect
+  * :confused: = Sometimes treats teammates with respect
+  * :neutral_face: = Often times treats teammates with respect
+  * :smiley: = Treats teammates with respect and controls their behavior around others
+  * :sunglasses: = Always acknowledges teammates and treats with the upmost respect
 * Decisions
 * Postmortems
 * Conflicts

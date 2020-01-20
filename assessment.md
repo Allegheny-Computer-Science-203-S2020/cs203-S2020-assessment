@@ -78,8 +78,10 @@ Project Management is Covered by Team 2
   * I = Very little or unclear comments in the code
   * A = Software documentation has a decent bit of detail of the program
   * G = Detailed documentation within the project with ample details of the program
-  * E = Very detailed explanation of how to use the software with reasons of why certain methods used. 
+  * E = Very detailed explanation of how to use the software with reasons of why certain methods used.
 * Programming styles
+  * N = No specific style is expressed
+  * I = programming style is not clear
 * Managing software complexity
 * Mitigating software risk
 * Software testing

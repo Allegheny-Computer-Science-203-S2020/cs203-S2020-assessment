@@ -36,6 +36,12 @@ Project Management is Covered by Team 2
 * Using the GitHub Flow model
 * Using the GitHub issue tracker
 * Assigning team members to issues in the GitHub issue tracker
+  * N = No team member was assigned to issue.
+  * I = Team member was assigned to issue but no response was given.
+  * A = Team member was assigned to issue and team member tried to assist
+    but no change was made.
+  * G = Team member was assigned to issue and issue was resolved.
+  * E = Team member was assigned to issue and issue was resolved and understood.
 * Creating and assigning labels to issues in the GitHub issue tracker
 * Creating and using a repository branch
   * N = **No branches** (other than master) are used, and commits are made

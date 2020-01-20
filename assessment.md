@@ -71,7 +71,7 @@ Project Management is Covered by Team 2
   * :disappointed: No effort to make a design
   * :confused: Small effort made to put in place a layout of a design system
   * :neutral_face: Some small designs are able to be seen so a solution is visible
-  * :smiley: A solution that is rich in coding layout but architectural design
+  * :smiley: A solution that is rich in coding layout and architectural design
   * :sunglasses: All expectations have been exceeded with a well thought-out high level software solution with both extremely detailed algorithmic and architectural designs.
 * Software documentation
   * :disappointed: No written communication of how the software works.

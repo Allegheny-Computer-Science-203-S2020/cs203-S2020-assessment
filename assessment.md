@@ -84,10 +84,10 @@ Project Management is Covered by Team 2
   * I = programming style is not clear
 * Managing software complexity
     :disappointed: No complexity managements techniques utilized
-    :confused:
-    :neutral_face:
-    :smiley:
-    :sunglasses:
+    :confused: Code is frequently non-obvious and complex
+    :neutral_face: Some basic code management is used such as simplicity or simplification
+    :smiley: Most of code is managed using complexity reduction techniques such as abstraction
+    :sunglasses: Majority of code effectively uses complexity reduction techniques such as modular design
 * Mitigating software risk
     :disappointed: No risk identified
     :confused: Minimal risk identified

@@ -36,12 +36,12 @@ Project Management is Covered by Team 2
 * Using the GitHub Flow model
 * Using the GitHub issue tracker
 * Assigning team members to issues in the GitHub issue tracker
-  * N = No team member was assigned to issue.
-  * I = Team member was assigned to issue but no response was given.
-  * A = Team member was assigned to issue and team member tried to assist
+  * :disappointed: = No team member was assigned to issue.
+  * :confused: = Team member was assigned to issue but no response was given.
+  * :neutral_face: = Team member was assigned to issue and team member tried to assist
   but no change was made.
-  * G = Team member was assigned to issue and issue was resolved.
-  * E = Team member was assigned to issue and issue was resolved and understood.
+  * :smiley: = Team member was assigned to issue and issue was resolved.
+  * :sunglasses: = Team member was assigned to issue and issue was resolved and understood.
 * Creating and assigning labels to issues in the GitHub issue tracker
 * Creating and using a repository branch
 * Creating and using a repository fork
@@ -99,6 +99,11 @@ Project Management is Covered by Team 2
 * Attendance
 * Deadlines
 * Communication
+  * :disappointed: = No communication to group
+  * :confused: = little to none communication
+  * :neutral_face: communication is low and some questions are asked.
+  * :smiley: communication is used; asks questions and checks slack.
+  * :sunglasses: communication through slack and email and always check up on group
 * Participation
 * Conduct
   * :disappointed: = Never treats teammates with respect

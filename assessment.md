@@ -73,7 +73,7 @@
   * :confused: = Python packages created and/or used incorrectly
   * :neutral_face: = Python packages created/used correctly
   * :smiley: = Python packages created/used correctly and efficiently
-  * :sunglasses: Python packages created/used correctly and efficiently
+  * :sunglasses: = Python packages created/used correctly and efficiently
   and the reason is well documented
 * Adhering to industry best practices for programming in Python
   * :disappointed: = Does not follow any of the industry best practices for

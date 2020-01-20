@@ -95,11 +95,11 @@ Project Management is Covered by Team 2
     :smiley: Most risk identified and some risk mitigation techniques used
     :sunglasses: Majority risk identified and mitigation techniques used
 * Software testing
-    :disappointed:
-    :confused:
-    :neutral_face:
-    :smiley:
-    :sunglasses:
+    :disappointed: No softwares tested
+    :confused: Minimal softwares tested
+    :neutral_face: Some softwares tested and basic recordings of quality
+    :smiley: Most softwares tested and some recordings of overall quality
+    :sunglasses: Majority softwares tested and recordings of overall quality
 * Software refactoring
     :disappointed:
     :confused:

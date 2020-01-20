@@ -46,23 +46,18 @@ Project Management is Covered by Team 2
 ### Continuous Integration with Travis
 
 * Setup and config of Travis CI
-  * :disappointed: =
-  * :confused: =
-  * :neutral_face: =
-  * :smiley: =
-  * :sunglasses: =
+  * :disappointed: = Does not perform any type of setup or configuration of Travis CI
+  * :confused: = Sets up and configures Travis CI, but does not perform any checks
+  * :neutral_face: = Partially sets up and configures Travis CI to a less relevant extent to perform checks
+  * :smiley: = Sufficiently sets up and configures Travis CI to a more sufficient extent to perform checks
+  * :sunglasses: = Correctly performing the setup and configuration for Travis CI t
 * Performing secure releases of project deliverables
-  * :disappointed: =
-  * :confused: =
-  * :neutral_face: =
-  * :smiley: =
-  * :sunglasses: =
+  * :disappointed: = Does not use Travis CI to perform secure releases of project deliverables
+  * :confused: = Performs unsecured releases of all project deliverables through Travis CI
+  * :neutral_face: = Performs unsecured releases of some project deliverables through Travis CI
+  * :smiley: = Performs secured releases of most project deliverables through Travis CI
+  * :sunglasses: = Performs secured releases of all project deliverables using Travis CI
 * Creating third-party integrations with Travis CI (e.g., codecov.io)
-  * :disappointed: =
-  * :confused: =
-  * :neutral_face: =
-  * :smiley: =
-  * :sunglasses: =
 * Adding README badges that show status of Travis CI builds
   * :disappointed: =
   * :confused: =

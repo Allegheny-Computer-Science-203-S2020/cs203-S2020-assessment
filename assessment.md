@@ -130,7 +130,7 @@ Project Management is Covered by Team 2
 * Interaction with the student technical leaders
   * :disappointed: Impolite, impatient and does not communicate with the technical
   leaders
-  * :confused: Impolite, impatient, did not speak to the technical leaders when
+  * :confused: Impolite, impatient, does not speak to the technical leaders when
   necessary and communicates poorly
   * :neutral_face: Polite yet impatient and moderately communicated with the
   technical leaders

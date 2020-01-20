@@ -16,9 +16,17 @@
   * N =
   * I =
   * A =
-  * G =
+  * G =...
 * Running Python programs with `pyenv` and `pipenv`
+  * N = `pyenv` and `pipenv` not installed or setup on laptop.
+  * I = Program will not run with `pyenv` and `pipenv`.
+  * A = Program is able to run with `pyenv` and `pipenv`.
+  * G =
 * Linting Python programs with `pylint` and `flake8`
+  * N =
+  * I =
+  * A =
+  * G =
 * Formatting Python programs with `black`
 * Basic testing of Python programs with `pytest`
 * Advanced testing of Python programs with `pytest`

@@ -54,12 +54,12 @@
 * Using exception handling to create a robust Python program
 * Refactoring a Python program to improve its characteristics
 * Debugging Python programs using logging and other methods
-  * :disappointed: No fault-localization and no debugging
-  * :confused: Identifies some of the bugs
-  * :neutral_face: Identifies and fixes some of the bugs using logging and other
+  * :disappointed: = No fault-localization and no debugging
+  * :confused: = Identifies some of the bugs
+  * :neutral_face: = Identifies and fixes some of the bugs using logging and other
   methods
-  * :smiley: Identifies and fixes most of the bugs using logging and other methods
-  * :sunglasses: Identifies and fixes most of the bugs using logging and other
+  * :smiley: = Identifies and fixes most of the bugs using logging and other methods
+  * :sunglasses: = Identifies and fixes most of the bugs using logging and other
   methods, and documents them
 * Adopting and using appropriate Python language constructs
   * :disappointed: No Python language constructs used

@@ -82,6 +82,25 @@ Project Management is Covered by Team 2
 
 * Attendance
 * Deadlines
+  * N = Team member has **poor time management** skills and appears unaware of
+    deadlines
+  * I = Team member demonstrates a **lack of urgency** as deadline approaches and
+    misses work as a result
+  * A = Team member **completes** their **required work**, but adheres only to
+    technical time constraints and does not leave time for testing or
+    correction of errors
+  * G = Team member **completes** their **required work** with enough time
+    before the deadline to properly test their code/work and enough time to fix
+    any errors that may have arisen
+  * E = Team member **completes work on time** and encourages others to
+    also complete their work with enough time to test it and fix errors.
+
+A software engineer demonstrates the mastery of this professional skill at the
+E level by completing their assigned work for the project with enough time
+remaining to properly test and document it, and enough time to fix any errors.
+Additionally, they should encourage others to complete their work in
+a similar time frame such that the project flows as smoothly as possible.
+
 * Communication
 
 * Participation

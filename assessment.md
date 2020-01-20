@@ -56,44 +56,38 @@ Project Management is Covered by Team 2
 ### Foundations of Software Engineering
 
 * Requirements engineering
-  * N = No effort to change, refine, or contribute to documentation.
-  * I = Very short or vague description of documentation
-  * A = Conveys information accurately and descriptively enough for everyone to understand
-  * G = Well thought-out and descriptive documentation and definitions so
-        everyone can be well informed
-  * E = A very structured and detailed outlining of all of the elements in
-        a software system.
+  * :disappointed: No effort to change, refine, or contribute to documentation.
+  * :confused: Very short or vague description of documentation
+  * :neutral_face: Conveys information accurately and descriptively enough for everyone to understand
+  * :smiley: Well thought-out and descriptive documentation and definitions so everyone can be well informed
+  * :sunglasses: A very structured and detailed outlining of all of the elements in a software system.
 * Software architecture
-  * N = No carefully thought-out contribution to the layout of the Project
-  * I = Very little amount of shape to the architecture to the Project
-  * A = There is some sort of plan for the system
-  * G = There is a well thought-out plan for the system
-  * E = There is a very detailed and complete plan laid out for the system
+  * :disappointed: No carefully thought-out contribution to the layout of the Project
+  * :confused: Very little amount of shape to the architecture to the Project
+  * :neutral_face: There is some sort of plan for the system
+  * :smiley: There is a well thought-out plan for the system
+  * :sunglasses: There is a very detailed and complete plan laid out for the system
 * Software design
-  * N = No effort to make a design
-  * I = Small effort made to put in place a layout of a design system
-  * A = Some small designs are able to be seen so a solution is visible
-  * G = A solution that is rich in coding layout but architectural design
-  * E = All expectations have been exceeded with a well thought-out high level
-        software solution with both extremely detailed algorithmic and
-        architectural designs.
+  * :disappointed: No effort to make a design
+  * :confused: Small effort made to put in place a layout of a design system
+  * :neutral_face: Some small designs are able to be seen so a solution is visible
+  * :smiley: A solution that is rich in coding layout but architectural design
+  * :sunglasses: All expectations have been exceeded with a well thought-out high level software solution with both extremely detailed algorithmic and architectural designs.
 * Software documentation
-  * N = No written communication of how the software works.
-  * I = Very little or unclear comments in the code
-  * A = Software documentation has a decent bit of detail of the program
-  * G = Detailed documentation within the project with ample details of the program
-  * E = Very detailed explanation of how to use the software with reasons of
-        why certain methods used.
+  * :disappointed: No written communication of how the software works.
+  * :confused: Very little or unclear comments in the code
+  * :neutral_face: Software documentation has a decent bit of detail of the program
+  * :smiley: Detailed documentation within the project with ample details of the program
+  * :sunglasses: Very detailed explanation of how to use the software with reasons of why certain methods used.
 * Programming styles
-  * N = No specific style is expressed
-  * I = programming style is not clear
+  * :disappointed: No specific style is expressed
+  * :confused: programming style is not clear
 * Managing software complexity
     * :disappointed: No complexity managements techniques utilized
     * :confused: Code is frequently non-obvious and complex
     * :neutral_face: Some basic code management is used such as simplicity or simplification
     * :smiley: Most of code is managed using complexity reduction techniques like abstraction
-    * :sunglasses: Majority of code effectively uses complexity reduction techniques
-                 such as modular design
+    * :sunglasses: Majority of code effectively uses complexity reduction techniques such as modular design
 * Mitigating software risk
     * :disappointed: No risk identified
     * :confused: Minimal risk identified

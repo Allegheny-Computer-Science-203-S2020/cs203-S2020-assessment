@@ -74,6 +74,11 @@ Project Management is Covered by Team 2
   * G = A solution that is rich in coding layout but architectural design
   * E = All expectations have been exceeded with a well thought-out high level software solution with both extremely detailed algorithmic and architectural designs.
 * Software documentation
+  * N = No written communication of how the software works.
+  * I = Very little or unclear comments in the code
+  * A = Software documentation has a decent bit of detail of the program
+  * G = Detailed documentation within the project with ample details of the program
+  * E = Very detailed explanation of how to use the software with reasons of why certain methods used. 
 * Programming styles
 * Managing software complexity
 * Mitigating software risk

@@ -58,9 +58,12 @@ Project Management is Covered by Team 2
 * Requirements engineering
   * :disappointed: No effort to change, refine, or contribute to documentation.
   * :confused: Very short or vague description of documentation
-  * :neutral_face: Conveys information accurately and descriptively enough for everyone to understand
-  * :smiley: Well thought-out and descriptive documentation and definitions so everyone can be well informed
-  * :sunglasses: A very structured and detailed outlining of all of the elements in a software system.
+  * :neutral_face: Conveys information accurately and descriptively enough for
+  everyone to understand
+  * :smiley: Well thought-out and descriptive documentation and definitions so
+  everyone can be well informed
+  * :sunglasses: A very structured and detailed outlining of all of the elements
+  in a software system.
 * Software architecture
   * :disappointed: No carefully thought-out contribution to the layout of the Project
   * :confused: Very little amount of shape to the architecture to the Project
@@ -72,13 +75,17 @@ Project Management is Covered by Team 2
   * :confused: Small effort made to put in place a layout of a design system
   * :neutral_face: Some small designs are able to be seen so a solution is visible
   * :smiley: A solution that is rich in coding layout and architectural design
-  * :sunglasses: All expectations have been exceeded with a well thought-out high level software solution with both extremely detailed algorithmic and architectural designs.
+  * :sunglasses: All expectations have been exceeded with a well thought-out high
+  level software solution with both extremely detailed algorithmic and architectural
+  designs.
 * Software documentation
   * :disappointed: No written communication of how the software works.
   * :confused: Very little or unclear comments in the code
   * :neutral_face: Software documentation has a decent bit of detail of the program
-  * :smiley: Detailed documentation within the project with ample details of the program
-  * :sunglasses: Very detailed explanation of how to use the software with reasons of why certain methods used.
+  * :smiley: Detailed documentation within the project with ample details of the
+  program
+  * :sunglasses: Very detailed explanation of how to use the software with reasons
+  of why certain methods used.
 * Programming styles
   * :disappointed: No specific style is expressed
   * :confused: programming style is not clear
@@ -87,7 +94,8 @@ Project Management is Covered by Team 2
   * :confused: Code is frequently non-obvious and complex
   * :neutral_face: Some basic code management is used such as simplicity or simplification
   * :smiley: Most of code is managed using complexity reduction techniques like abstraction
-  * :sunglasses: Majority of code effectively uses complexity reduction techniques such as modular design
+  * :sunglasses: Majority of code effectively uses complexity reduction techniques
+  such as modular design
 * Mitigating software risk
   * :disappointed: No risk identified
   * :confused: Minimal risk identified

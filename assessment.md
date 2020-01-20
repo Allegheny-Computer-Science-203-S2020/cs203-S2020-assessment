@@ -68,6 +68,11 @@ Project Management is Covered by Team 2
   * G = There is a well thought-out plan for the system
   * E = There is a very detailed and complete plan laid out for the system
 * Software design
+  * N = No effort to make a design
+  * I = Small effort made to put in place a layout of a design system
+  * A = Some small designs are able to be seen so a solution is visible
+  * G = A solution that is rich in coding layout but architectural design
+  * E = All expectations have been exceeded with a well thought-out high level software solution with both extremely detailed algorithmic and architectural designs.
 * Software documentation
 * Programming styles
 * Managing software complexity

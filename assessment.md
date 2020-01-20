@@ -62,6 +62,11 @@ Project Management is Covered by Team 2
   * G = Well thought-out and descriptive documentation and definitions so everyone can be well informed
   * E = A very structured and detailed outlining of all of the elements in the software system.
 * Software architecture
+  * N = No carefully thought-out contribution to the layout of the Project
+  * I = Very little amount of shape to the architecture to the Project
+  * A = There is some sort of plan for the system
+  * G = There is a well thought-out plan for the system
+  * E = There is a very detailed and complete plan laid out for the system
 * Software design
 * Software documentation
 * Programming styles

@@ -2,30 +2,30 @@
 
 ## Assessment Key
 
-* N = None
-* I = Inadequate
-* A = Adequate
-* G = Good
-* E = Excellent
+* :disappointed: = None
+* :confused: = Inadequate
+* :neutral_face: = Adequate
+* :smiley: = Good
+* :sunglasses: = Excellent
 
 ## Technical Skills
 
 ### Software Development with Python
 
 * Configuring a development environment for Python
-  * N = Development environment not set up.
-  * I = Development environment configured without all required dependencies and tools.
-  * A = Development environment configured with required dependencies and tools.
-  * G = Development environment configured with requirements plus additional tools.
-  * E = Development environment configured with requirements plus additional tools, and
+  * :disappointed: = Development environment not set up.
+  * :confused: = Development environment configured without all required dependencies and tools.
+  * :neutral_face: = Development environment configured with required dependencies and tools.
+  * :smiley: = Development environment configured with requirements plus additional tools.
+  * :sunglasses: = Development environment configured with requirements plus additional tools, and
     assistance to other students with configuration has been provided.
 * Running Python programs with `pyenv` and `pipenv`
-  * N = `pyenv` and `pipenv` not installed or setup on laptop.
-  * I = Program will not run with `pyenv` and `pipenv`.
-  * A = Programs are able to run with `pyenv` and `pipenv`.
-  * G = Programs are able to run with `pyenv` and `pipenv` and additional flags
+  * :disappointed: = `pyenv` and `pipenv` not installed or setup on laptop.
+  * :confused: = Program will not run with `pyenv` and `pipenv`.
+  * :neutral_face: = Programs are able to run with `pyenv` and `pipenv`.
+  * :smiley: = Programs are able to run with `pyenv` and `pipenv` and additional flags
   and commands have been incorporated.
-  * E = Programs are able to run with `pyenv` and `pipenv` with additional flags
+  * :sunglasses: = Programs are able to run with `pyenv` and `pipenv` with additional flags
   and commands to improve testing while also providing assistance to other students
   in their use of `pyenv` and `pipenv`.
 * Linting Python programs with `pylint` and `flake8`

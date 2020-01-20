@@ -83,9 +83,29 @@ Project Management is Covered by Team 2
   * N = No specific style is expressed
   * I = programming style is not clear
 * Managing software complexity
+    :disappointed: No complexity managements techniques utilized
+    :confused:
+    :neutral_face:
+    :smiley:
+    :sunglasses:
 * Mitigating software risk
+    :disappointed: No risk identified
+    :confused: Minimal risk identified
+    :neutral_face: Some risk identified and very basic risk mitigation techniques used
+    :smiley: Most risk identified and some risk mitigation techniques used
+    :sunglasses: Majority risk identified and mitigation techniques used
 * Software testing
+    :disappointed: No softwares tested
+    :confused: Minimal softwares tested
+    :neutral_face: Some softwares tested and basic recordings of quality
+    :smiley: Most softwares tested and some recordings of overall quality
+    :sunglasses: Majority softwares tested and recordings of overall quality
 * Software refactoring
+    :disappointed:
+    :confused:
+    :neutral_face:
+    :smiley:
+    :sunglasses:
 
 ## Professional Skills
 

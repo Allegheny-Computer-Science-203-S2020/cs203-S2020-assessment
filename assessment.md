@@ -46,59 +46,96 @@ Project Management is Covered by Team 2
 ### Continuous Integration with Travis
 
 * Setup and config of Travis CI
-  * :disappointed: = Does not perform any type of setup or configuration of Travis CI
-  * :confused: = Sets up and configures Travis CI, but does not perform any checks
-  * :neutral_face: = Partially sets up and configures Travis CI to a less relevant extent to perform checks
-  * :smiley: = Sufficiently sets up and configures Travis CI to a more sufficient extent to perform checks
-  * :sunglasses: = Correctly performing the setup and configuration for Travis CI to perform checks for all project deliverables
+  * :disappointed: = Does not perform any type of setup or configuration of
+   Travis CI
+  * :confused: = Sets up and configures Travis CI, but does not perform any
+   checks
+  * :neutral_face: = Partially sets up and configures Travis CI to a less
+   relevant extent to perform checks
+  * :smiley: = Sufficiently sets up and configures Travis CI to a more
+  sufficient extent to perform checks
+  * :sunglasses: = Correctly performing the setup and configuration for Travis
+   CI to perform checks for all project deliverables
 
-A software engineer demonstrates mastery of this technical skill at the :sunglasses: level by providing an excerpt from their GitHub repository showing that Travis CI is properly setup and configured.
+A software engineer demonstrates mastery of this technical skill at the
+:sunglasses: level by providing an excerpt from their GitHub repository
+showing that Travis CI is properly setup and configured.
 
 * Performing secure releases of project deliverables
-  * :disappointed: = Does not use Travis CI to perform secure releases of project deliverables
-  * :confused: = Performs unsecured releases of all project deliverables through Travis CI
-  * :neutral_face: = Performs unsecured releases of some project deliverables through Travis CI
-  * :smiley: = Performs secured releases of most project deliverables through Travis CI
-  * :sunglasses: = Performs secured releases of all project deliverables using Travis CI
+  * :disappointed: = Does not use Travis CI to perform secure releases of
+   project deliverables
+  * :confused: = Performs unsecured releases of all project deliverables
+   through Travis CI
+  * :neutral_face: = Performs unsecured releases of some project deliverables
+   through Travis CI
+  * :smiley: = Performs secured releases of most project deliverables through
+   Travis CI
+  * :sunglasses: = Performs secured releases of all project deliverables using
+   Travis CI
 
-A software engineer demonstrates mastery of this technical skill at the :sunglasses: level by performing releases of project deliverables that are always secure.
+A software engineer demonstrates mastery of this technical skill at the
+:sunglasses: level by performing releases of project deliverables that are
+always secure.
 
 * Creating third-party integrations with Travis CI (e.g., codecov.io)
   * :disappointed: = Does not create third-party integrations with Travis CI
-  * :confused: = Creates partially implemented third-party integrations with Travis CI
-  * :neutral_face: = Fully implements some third-party integrations with Travis CI
+  * :confused: = Creates partially implemented third-party integrations with
+  Travis CI
+  * :neutral_face: = Fully implements some third-party integrations with Travis
+  CI
   * :smiley: = Fully implements most third-party integrations with Travis CI
-  * :sunglasses: = Fully implements useful and relevant third-party integrations with Travis CI
+  * :sunglasses: = Fully implements useful and relevant third-party
+  integrations with Travis CI
 
-A software engineer demonstrates mastery of this technical skill at the :sunglasses: level by providing excerpts from their GitHub repository or Travis CI dashboard that show successful and relevant third-party integrations between the project and Travis CI.
+A software engineer demonstrates mastery of this technical skill at the
+:sunglasses: level by providing excerpts from their GitHub repository or Travis
+CI dashboard that show successful and relevant third-party integrations between
+the project and Travis CI.
 
 * Adding README badges that show status of Travis CI builds
   * :disappointed: = Does not add README status badges to the project
   * :confused: = Adds README status badges but does not work correctly
   * :neutral_face: = Adds README status badges but is not appropriately located
-  * :smiley: = Adds README status badges in the correct location but not related to any other badges in the section
-  * :sunglasses: = Adds README status badges in the correct location and in relation to all other status badges
+  * :smiley: = Adds README status badges in the correct location but not
+  related to any other badges in the section
+  * :sunglasses: = Adds README status badges in the correct location and in
+  relation to all other status badges
 
-A software engineer demonstrates mastery of this technical skill at the :sunglasses: level by providing a README in their GitHub repository with README badges that show the status of Travis CI builds.
+A software engineer demonstrates mastery of this technical skill at the
+:sunglasses: level by providing a README in their GitHub repository with README
+badges that show the status of Travis CI builds.
 
 * Adding README badges that show project characteristics (e.g., coverage and
   language)
   * :disappointed: = Does not add README badges to the project
   * :confused: = Does not add README badges that show project characteristics
-  * :neutral_face: = Adds improperly located README badges that show project characteristics
-  * :smiley: = Adds properly located README badges that show project characteristics but that are not relevant to the project
-  * :sunglasses: = Adds relevant and properly located README badges that show project characteristics
+  * :neutral_face: = Adds improperly located README badges that show project
+  characteristics
+  * :smiley: = Adds properly located README badges that show project
+  characteristics but that are not relevant to the project
+  * :sunglasses: = Adds relevant and properly located README badges that show
+  project characteristics
 
-A software engineer demonstrates mastery of this technical skill at the :sunglasses: level by providing a README in their GitHub repository with README badges that show characteristics relevant to the project such as code coverage, programming language, and more.
+A software engineer demonstrates mastery of this technical skill at the
+:sunglasses: level by providing a README in their GitHub repository with README
+badges that show characteristics relevant to the project such as code coverage,
+programming language, and more.
 
 * Identifying and resolving problems with failing builds in Travis CI
-  * :disappointed: = Does not identify or resolve problems with failing builds in Travis CI
+  * :disappointed: = Does not identify or resolve problems with failing builds
+  in Travis CI
   * :confused: = Partially identifies problems with failing builds in Travis CI
-  * :neutral_face: = Identifies but does not resolve problems with failing builds in Travis CI
-  * :smiley: = Identifies and partially resolves problems with failing builds in Travis CI
-  * :sunglasses: = Fully identifies and resolves problems with failing builds in Travis CI
+  * :neutral_face: = Identifies but does not resolve problems with failing
+  builds in Travis CI
+  * :smiley: = Identifies and partially resolves problems with failing builds
+  in Travis CI
+  * :sunglasses: = Fully identifies and resolves problems with failing builds
+  in Travis CI
 
-A software engineer demonstrates mastery of this technical skill at the :sunglasses: level by identifying and resolving problems with failing builds in Travis CI whether it be through the Travis CI dashboard or setup related problems or via code implementations of fixes.
+A software engineer demonstrates mastery of this technical skill at the
+:sunglasses: level by identifying and resolving problems with failing builds in
+Travis CI whether it be through the Travis CI dashboard or setup related
+problems or via code implementations of fixes.
 
 ### Foundations of Software Engineering
 

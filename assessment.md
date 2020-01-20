@@ -132,10 +132,10 @@ Project Management is Covered by Team 2
   leaders
   * :confused: Impolite, impatient, does not speak to the technical leaders when
   necessary and communicates poorly
-  * :neutral_face: Polite yet impatient and moderately communicated with the
+  * :neutral_face: Polite yet impatient and moderately communicates with the
   technical leaders
-  * :smiley: Polite, patient and effectively communicated with technical leaders
-  * :sunglasses: Polite, patient and effectively communicated with technical
+  * :smiley: Polite, patient and effectively communicates with technical leaders
+  * :sunglasses: Polite, patient and effectively communicates with technical
   leaders, seeking advice and help when necessary
 
 ## Revision of Guides

@@ -83,9 +83,29 @@ Project Management is Covered by Team 2
   * N = No specific style is expressed
   * I = programming style is not clear
 * Managing software complexity
+    :disappointed:
+    :confused:
+    :neutral_face:
+    :smiley:
+    :sunglasses:
 * Mitigating software risk
+    :disappointed:
+    :confused:
+    :neutral_face:
+    :smiley:
+    :sunglasses:
 * Software testing
+    :disappointed:
+    :confused:
+    :neutral_face:
+    :smiley:
+    :sunglasses:
 * Software refactoring
+    :disappointed:
+    :confused:
+    :neutral_face:
+    :smiley:
+    :sunglasses:
 
 ## Professional Skills
 

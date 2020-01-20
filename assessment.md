@@ -130,8 +130,15 @@ maximize productivity.
 * Decisions
 * Postmortems
 * Conflicts
+N = Never addresses conflicts with anyone
+I = Sometimes addresses conflicts with teammates
+A = Addresses conflicts with teammates through communication
+G = Addresses conflicts with teammates through mature communication while
+involving leaders
+E = Addresses conflicts with teammates through mature communication
+(slack or the issue tracker in GitHub) while involving leaders and referencing
+conduct guide
 * Infractions
-
 ### Interactions
 
 * Interaction with the customer

@@ -144,6 +144,12 @@ maximize productivity.
   (slack or the issue tracker in GitHub) while involving leaders and referencing
   conduct guide
 * Infractions
+  * N = Never follows the guidelines of the conduct guide.
+  * I = Rarely follows the guidelines of the conduct guide.
+  * A = Sometimes follows the guidelines of the conduct guide.
+  * G = Always follow the guidelines of the conduct guide.
+  * E = Always follow the guidelines of the conduct guide, but also makes sure that
+  team members are also following the guidelines.
 
 ### Interactions
 

@@ -56,6 +56,11 @@ Project Management is Covered by Team 2
 ### Foundations of Software Engineering
 
 * Requirements engineering
+  * N = No effort to change, refine, or contribute to documentation.
+  * I = Very short or vague description of documentation
+  * A = Conveys information accurately and descriptively enough for everyone to understand
+  * G = Well thought-out and descriptive documentation and definitions so everyone can be well informed
+  * E = A very structured and detailed outlining of all of the elements in the software system.
 * Software architecture
 * Software design
 * Software documentation

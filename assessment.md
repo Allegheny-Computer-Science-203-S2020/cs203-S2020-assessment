@@ -109,6 +109,12 @@ Project Management is Covered by Team 2
 * Decisions
 * Postmortems
 * Conflicts
+  * N = Never talks to teammates about conflicts
+  * I = Only sometimes talks to teammates about conflicts
+  * A = Addresses conflicts with team members
+  * G = Addresses conflicts with team members as well as involving the leaders
+  * E = Is in constant communication with team members and leaders but also looks
+  at the conduct guide.
 * Infractions
 
 ### Interactions

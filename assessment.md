@@ -83,29 +83,29 @@ Project Management is Covered by Team 2
   * :disappointed: No specific style is expressed
   * :confused: programming style is not clear
 * Managing software complexity
-    * :disappointed: No complexity managements techniques utilized
-    * :confused: Code is frequently non-obvious and complex
-    * :neutral_face: Some basic code management is used such as simplicity or simplification
-    * :smiley: Most of code is managed using complexity reduction techniques like abstraction
-    * :sunglasses: Majority of code effectively uses complexity reduction techniques such as modular design
+  * :disappointed: No complexity managements techniques utilized
+  * :confused: Code is frequently non-obvious and complex
+  * :neutral_face: Some basic code management is used such as simplicity or simplification
+  * :smiley: Most of code is managed using complexity reduction techniques like abstraction
+  * :sunglasses: Majority of code effectively uses complexity reduction techniques such as modular design
 * Mitigating software risk
-    * :disappointed: No risk identified
-    * :confused: Minimal risk identified
-    * :neutral_face: Some risk identified and basic risk mitigation techniques used
-    * :smiley: Most risk identified and some risk mitigation techniques used
-    * :sunglasses: Majority risk identified and mitigation techniques used
+  * :disappointed: No risk identified
+  * :confused: Minimal risk identified
+  * :neutral_face: Some risk identified and basic risk mitigation techniques used
+  * :smiley: Most risk identified and some risk mitigation techniques used
+  * :sunglasses: Majority risk identified and mitigation techniques used
 * Software testing
-    * :disappointed: No softwares tested
-    * :confused: Minimal softwares tested
-    * :neutral_face: Some softwares tested and basic recordings of quality
-    * :smiley: Most softwares tested and some recordings of overall quality
-    * :sunglasses: Majority softwares tested and recordings of overall quality
+  * :disappointed: No softwares tested
+  * :confused: Minimal softwares tested
+  * :neutral_face: Some softwares tested and basic recordings of quality
+  * :smiley: Most softwares tested and some recordings of overall quality
+  * :sunglasses: Majority softwares tested and recordings of overall quality
 * Software refactoring
-    * :disappointed:
-    * :confused:
-    * :neutral_face:
-    * :smiley:
-    * :sunglasses:
+  * :disappointed:
+  * :confused:
+  * :neutral_face:
+  * :smiley:
+  * :sunglasses:
 
 ## Professional Skills
 

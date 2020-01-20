@@ -61,7 +61,6 @@
   * :smiley: Identifies and fixes most of the bugs using logging and other methods
   * :sunglasses: Identifies and fixes most of the bugs using logging and other
   methods, and documents them
-
 * Adopting and using appropriate Python language constructs
   * :disappointed: No Python language constructs used
   * :confused: Incorrect implementation of Python language constructs
@@ -69,7 +68,6 @@
   * :smiley: Correct and efficient implementation of Python language constructs
   * :sunglasses: Correct and efficient implementation of Python language
   constructs, documentation provided
-
 * Adopting and using appropriate Python packages
   * :disappointed: No Python packages created or used
   * :confused: Python packages created and/or used incorrectly
@@ -77,7 +75,6 @@
   * :smiley: Python packages created/used correctly and efficiently
   * :sunglasses: Python packages created/used correctly and efficiently
   and the reason is well documented
-
 * Adhering to industry best practices for programming in Python
   * :disappointed: Does not follow any of the industry best practices for
   programming in Python

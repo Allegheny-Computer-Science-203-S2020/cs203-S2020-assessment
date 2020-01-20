@@ -48,8 +48,23 @@
 * Basic testing of Python programs with `pytest`
 * Advanced testing of Python programs with `pytest`
 * Calculating code coverage of a `pytest` test suite
+  * :disappointed: =
+  * :confused: =
+  * :neutral_face: =
+  * :smiley: =
+  * :sunglasses: =
 * Reporting code coverage through an online provider
+  * :disappointed: =
+  * :confused: =
+  * :neutral_face: =
+  * :smiley: =
+  * :sunglasses: =
 * Using docstrings to document a Python program
+  * :disappointed: =  
+  * :confused: =
+  * :neutral_face: =
+  * :smiley: =
+  * :sunglasses: = 
 * Adopting and applying appropriate naming conventions
 * Using exception handling to create a robust Python program
 * Refactoring a Python program to improve its characteristics

@@ -64,18 +64,18 @@ Project Management is Covered by Team 2
   * :smiley: = Fully implements most third-party integrations with Travis CI
   * :sunglasses: = Fully implements useful and relevant third-party integrations with Travis CI
 * Adding README badges that show status of Travis CI builds
-  * :disappointed: =
-  * :confused: =
-  * :neutral_face: =
-  * :smiley: =
+  * :disappointed: = Does not add README status badges to the project
+  * :confused: = Adds README status badges but does not work correctly
+  * :neutral_face: = Adds README status badges but is not appropriately located
+  * :smiley: = Adds README status badges in the correct location but not related to any other badges
   * :sunglasses: =
 * Adding README badges that show project characteristics (e.g., coverage and
   language)
-  * :disappointed: =
-  * :confused: =
-  * :neutral_face: =
-  * :smiley: =
-  * :sunglasses: =
+  * :disappointed: = Does not add README badges to the project
+  * :confused: = Does not add README badges that show project characteristics
+  * :neutral_face: = Adds improperly located README badges that show project characteristics
+  * :smiley: = Adds properly located README badges that show project characteristics but that are not relevant to the project
+  * :sunglasses: = Adds relevant and properly located README badges that show project characteristics
 * Identifying and resolving problems with failing builds in Travis CI
   * :disappointed: =
   * :confused: =

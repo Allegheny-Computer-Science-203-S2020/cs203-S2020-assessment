@@ -83,7 +83,30 @@ Project Management is Covered by Team 2
 * Attendance
 * Deadlines
 * Communication
+
 * Participation
+  * N = Team member is completely **uninvolved** or otherwise provides **no
+    significant contribution** to projects
+  * I = Team member is **involved** and **contributes** to the project, but
+    **does not cooperate** or **communicate** with their team and/or **fulfill
+    their role**
+  * A = Team member **actively contributes** to the project and **effectively
+    communicates** with their team
+  * G = Team member **actively contributes** to the project by **fulfilling
+    their role / position** and **effectively communicates** with their team,
+    especially concerning matters of which their role / position is responsible
+    for
+  * E = Team member **actively contributes** to the project by **fulfilling
+    their role / position** and **effectively communicates** with their team.
+    The team member **actively seeks to resolve issues** and **guide** other
+    team members in matters concerning their role / position.
+
+A software engineer demonstrates the mastery of this professional skill at the
+E level by understanding their role / position within the group and handling
+aspects of the project that concern this role / position. Furthermore, they
+will effectively communicate their intentions and abilities in order to
+maximize productivity.
+
 * Conduct
 * Decisions
 * Postmortems

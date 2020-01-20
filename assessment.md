@@ -50,7 +50,7 @@ Project Management is Covered by Team 2
   * :confused: = Sets up and configures Travis CI, but does not perform any checks
   * :neutral_face: = Partially sets up and configures Travis CI to a less relevant extent to perform checks
   * :smiley: = Sufficiently sets up and configures Travis CI to a more sufficient extent to perform checks
-  * :sunglasses: = Correctly performing the setup and configuration for Travis CI t
+  * :sunglasses: = Correctly performing the setup and configuration for Travis CI to perform checks for all project deliverables
 * Performing secure releases of project deliverables
   * :disappointed: = Does not use Travis CI to perform secure releases of project deliverables
   * :confused: = Performs unsecured releases of all project deliverables through Travis CI
@@ -58,6 +58,11 @@ Project Management is Covered by Team 2
   * :smiley: = Performs secured releases of most project deliverables through Travis CI
   * :sunglasses: = Performs secured releases of all project deliverables using Travis CI
 * Creating third-party integrations with Travis CI (e.g., codecov.io)
+  * :disappointed: = Does not create third-party integrations with Travis CI
+  * :confused: = Creates partially implemented third-party integrations with Travis CI
+  * :neutral_face: = Fully implements some third-party integrations with Travis CI
+  * :smiley: = Fully implements most third-party integrations with Travis CI
+  * :sunglasses: = Fully implements useful and relevant third-party integrations with Travis CI
 * Adding README badges that show status of Travis CI builds
   * :disappointed: =
   * :confused: =

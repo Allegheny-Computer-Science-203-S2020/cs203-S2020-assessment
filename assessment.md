@@ -14,25 +14,33 @@
 
 * Configuring a development environment for Python
   * :disappointed: = Development environment not set up.
-  * :confused: = Development environment configured without all required dependencies and tools.
-  * :neutral_face: = Development environment configured with required dependencies and tools.
-  * :smiley: = Development environment configured with requirements plus additional tools.
-  * :sunglasses: = Development environment configured with requirements plus additional tools, and
-    assistance to other students with configuration has been provided.
+  * :confused: = Development environment configured without all required dependencies
+  and tools.
+  * :neutral_face: = Development environment configured with required dependencies
+  and tools.
+  * :smiley: = Development environment configured with requirements plus additional
+  tools.
+  * :sunglasses: = Development environment configured with requirements plus additional
+  tools, and assistance to other students with configuration has been provided.
 * Running Python programs with `pyenv` and `pipenv`
   * :disappointed: = `pyenv` and `pipenv` not installed or setup on laptop.
   * :confused: = Program will not run with `pyenv` and `pipenv`.
   * :neutral_face: = Programs are able to run with `pyenv` and `pipenv`.
-  * :smiley: = Programs are able to run with `pyenv` and `pipenv` and additional flags
+  * :smiley: = Programs are able to run with `pyenv` and `pipenv` and additional
+  flags
   and commands have been incorporated.
-  * :sunglasses: = Programs are able to run with `pyenv` and `pipenv` with additional flags
+  * :sunglasses: = Programs are able to run with `pyenv` and `pipenv` with additional
+  flags
   and commands to improve testing while also providing assistance to other students
   in their use of `pyenv` and `pipenv`.
 * Linting Python programs with `pylint` and `flake8`
-  * N =
-  * I =
-  * A =
-  * G =
+  * N = `pylint` and `flake8` not installed or setup whatsoever.
+  * I = `pylint` and `flake8` installed but incorrectly configured and unable to
+  run.
+  * A = `pylint` and `flake8` able to lint programs but program returns significant
+  linting errors.
+  * G = `pyling` and `flake8` able to lint programs successfully, programs contain
+  minimal linting errors.
 * Formatting Python programs with `black`
 * Basic testing of Python programs with `pytest`
 * Advanced testing of Python programs with `pytest`

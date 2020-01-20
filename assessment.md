@@ -13,10 +13,12 @@
 ### Software Development with Python
 
 * Configuring a development environment for Python
-  * N =
-  * I =
-  * A =
-  * G =...
+  * N = Development environment not set up.
+  * I = Development environment configured without all required dependencies and tools.
+  * A = Development environment configured with required dependencies and tools.
+  * G = Development environment configured with requirements plus additional tools.
+  * E = Development environment configured with requirements plus additional tools, and
+    assistance to other students with configuration has been provided.
 * Running Python programs with `pyenv` and `pipenv`
   * N = `pyenv` and `pipenv` not installed or setup on laptop.
   * I = Program will not run with `pyenv` and `pipenv`.

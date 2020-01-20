@@ -89,6 +89,9 @@ Project Management is Covered by Team 2
 * Programming styles
   * :disappointed: No specific style is expressed
   * :confused: programming style is not clear
+  * :neutral_face: Some programming styles are shown
+  * :smiley: Most of program has clear styles being displayed
+  * :sunglasses: Majority of program has styles being displayed
 * Managing software complexity
   * :disappointed: No complexity managements techniques utilized
   * :confused: Code is frequently non-obvious and complex
@@ -109,11 +112,12 @@ Project Management is Covered by Team 2
   * :smiley: Most softwares tested and some recordings of overall quality
   * :sunglasses: Majority softwares tested and recordings of overall quality
 * Software refactoring
-  * :disappointed:
-  * :confused:
-  * :neutral_face:
-  * :smiley:
-  * :sunglasses:
+  * :disappointed: No software refactoring takes place
+  * :confused: Minimal changes are made to software systems
+  * :neutral_face: Some changes to software systems and some internal improvement
+  * :smiley: Many changes made to software systems and internal improvement
+  * :sunglasses: Majority of changes made to software system and good improvement
+  in the internal structure
 
 ## Professional Skills
 

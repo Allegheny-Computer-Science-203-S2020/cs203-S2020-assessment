@@ -83,7 +83,7 @@ Project Management is Covered by Team 2
   * N = No specific style is expressed
   * I = programming style is not clear
 * Managing software complexity
-    :disappointed:
+    :disappointed: No complexity managements techniques utilized
     :confused:
     :neutral_face:
     :smiley:

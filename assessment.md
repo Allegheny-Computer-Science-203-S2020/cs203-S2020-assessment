@@ -34,16 +34,16 @@
   and commands to improve testing while also providing assistance to other students
   in their use of `pyenv` and `pipenv`.
 * Linting Python programs with `pylint` and `flake8`
-  * :disappointed: = `pylint` and `flake8` not installed or setup whatsoever.
-  * :confused: = `pylint` and `flake8` installed but incorrectly configured and unable to
-  run.
-  * :neutral_face: = `pylint` and `flake8` able to lint programs but program returns linting
-  errors.
-  * :smiley: = `pyling` and `flake8` able to lint programs successfully, programs contain
-  no linting errors.
-  * :sunglasses: = `pylint` and `flake8` able to lint programs, programs contain no linting
-  errors, troubleshooting assistance provided for installation and configuring of
-  `pylint` and `flake8` to other students.
+  * :disappointed: = `pylint` and `flake8` not installed or setup.
+  * :confused: = `pylint` and `flake8` installed but incorrectly configured and
+  unable to run.
+  * :neutral_face: = `pylint` and `flake8` able to lint programs but program returns
+  linting errors.
+  * :smiley: = `pyling` and `flake8` able to lint programs successfully, programs
+  contain no linting errors.
+  * :sunglasses: = `pylint` and `flake8` able to lint programs, programs contain
+  no linting errors, troubleshooting assistance provided for installation and configuring
+  of `pylint` and `flake8` to other students.
 * Formatting Python programs with `black`
 * Basic testing of Python programs with `pytest`
 * Advanced testing of Python programs with `pytest`

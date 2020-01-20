@@ -62,29 +62,29 @@
   * :sunglasses: = Identifies and fixes most of the bugs using logging and other
   methods, and documents them
 * Adopting and using appropriate Python language constructs
-  * :disappointed: No Python language constructs used
-  * :confused: Incorrect implementation of Python language constructs
-  * :neutral_face: Correct implementation of Python language constructs
-  * :smiley: Correct and efficient implementation of Python language constructs
-  * :sunglasses: Correct and efficient implementation of Python language
+  * :disappointed: = No Python language constructs used
+  * :confused: = Incorrect implementation of Python language constructs
+  * :neutral_face: = Correct implementation of Python language constructs
+  * :smiley: = Correct and efficient implementation of Python language constructs
+  * :sunglasses: = Correct and efficient implementation of Python language
   constructs, documentation provided
 * Adopting and using appropriate Python packages
-  * :disappointed: No Python packages created or used
-  * :confused: Python packages created and/or used incorrectly
-  * :neutral_face: Python packages created/used correctly
-  * :smiley: Python packages created/used correctly and efficiently
+  * :disappointed: = No Python packages created or used
+  * :confused: = Python packages created and/or used incorrectly
+  * :neutral_face: = Python packages created/used correctly
+  * :smiley: = Python packages created/used correctly and efficiently
   * :sunglasses: Python packages created/used correctly and efficiently
   and the reason is well documented
 * Adhering to industry best practices for programming in Python
-  * :disappointed: Does not follow any of the industry best practices for
+  * :disappointed: = Does not follow any of the industry best practices for
   programming in Python
-  * :confused: Correctly implements a few of the industry best practices for
+  * :confused: = Correctly implements a few of the industry best practices for
   programming in Python
-  * :neutral_face: Correctly and efficiently implements some of the industry
+  * :neutral_face: = Correctly and efficiently implements some of the industry
   best practices for programming in Python
-  * :smiley: Correctly and efficiently implements most of the industry best
+  * :smiley: = Correctly and efficiently implements most of the industry best
   practices for programming in Python
-  * :sunglasses:  Correctly and efficiently implements most of the industry
+  * :sunglasses: = Correctly and efficiently implements most of the industry
   best practices for programming in Python, and documents their experience
 
 ### Project Management with GitHub

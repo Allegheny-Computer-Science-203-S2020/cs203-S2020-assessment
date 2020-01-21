@@ -160,8 +160,8 @@
   instructor
   * :confused: = Impolite, impatient, and only communicates with the course
   instructor when personally addressed
-  * :neutral_face: = Polite yet impatient, and does not communicate clearly with the
-  course instructor
+  * :neutral_face: = Polite yet impatient, and does not communicate clearly with
+  the course instructor
   * :smiley: = Polite, patient, and communicates with the course instructor
   * :sunglasses: = Polite, patient, and communicates with the course instructor to
   engage in helpful learning experiences

@@ -138,6 +138,8 @@ Project Management is Covered by Team 2
   * :sunglasses: Polite, patient and effectively communicates with technical
   leaders, seeking advice and help when necessary
 
+  Communication with customers, team leaders, the course instructor and student technical leaders can be done in-person, through GitHub and Slack. The most comprehensive form of communication includes forms of all three of these methods.
+
 ## Revision of Guides
 
 * Policies for revising the assessment form

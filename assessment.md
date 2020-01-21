@@ -58,8 +58,8 @@
   * :smiley: = Checked up to 75% code coverage with `pytest`.
   * :sunglasses: = Checked 100% code coverage with `pytest`.
 * Reporting code coverage through an online provider
-  * :disappointed: = Did not check coverage
-  * :neutral_face: = Checked code coverage using an online provider
+  * :disappointed: = Did not check coverage.
+  * :neutral_face: = Checked code coverage using an online provider.
   * :sunglasses: = Checked code coverage through an online provider and
   documentation provided.
 * Using docstrings to document a Python program.
@@ -94,34 +94,34 @@
   * :smiley: = Refactored code contains easy to understand functions and documentation.
   * :sunglasses: = Refactored code is clean, efficient, well documented, and maintainable.
 * Debugging Python programs using logging and other methods
-  * :disappointed: = No fault-localization and no debugging
-  * :confused: = Identifies some of the bugs
+  * :disappointed: = No fault-localization and no debugging.
+  * :confused: = Identifies some of the bugs.
   * :neutral_face: = Identifies and fixes some of the bugs using logging and other
-  methods
-  * :smiley: = Identifies and fixes most of the bugs using logging and other methods
+  methods.
+  * :smiley: = Identifies and fixes most of the bugs using logging and other methods.
   * :sunglasses: = Identifies and fixes most of the bugs using logging and other
-  methods, and documents them
+  methods, and documents them.
 * Adopting and using appropriate Python language constructs
-  * :disappointed: = No Python language constructs used
-  * :confused: = Incorrect implementation of Python language constructs
-  * :neutral_face: = Correct implementation of Python language constructs
-  * :smiley: = Correct and efficient implementation of Python language constructs
+  * :disappointed: = No Python language constructs used.
+  * :confused: = Incorrect implementation of Python language constructs.
+  * :neutral_face: = Correct implementation of Python language constructs.
+  * :smiley: = Correct and efficient implementation of Python language constructs.
   * :sunglasses: = Correct and efficient implementation of Python language
-  constructs, documentation provided
+  constructs, documentation provided.
 * Adopting and using appropriate Python packages
-  * :disappointed: = No Python packages created or used
-  * :confused: = Python packages created and/or used incorrectly
-  * :neutral_face: = Python packages created/used correctly
-  * :smiley: = Python packages created/used correctly and efficiently
+  * :disappointed: = No Python packages created or used.
+  * :confused: = Python packages created and/or used incorrectly.
+  * :neutral_face: = Python packages created/used correctly.
+  * :smiley: = Python packages created/used correctly and efficiently.
   * :sunglasses: = Python packages created/used correctly and efficiently
-  and the reason is well documented
+  and the reason is well documented.
 * Adhering to industry best practices for programming in Python
   * :disappointed: = Does not follow any of the industry best practices for
-  programming in Python
+  programming in Python.
   * :neutral_face: = Correctly and efficiently implements some of the industry
-  best practices for programming in Python
+  best practices for programming in Python.
   * :sunglasses: = Correctly and efficiently implements some of the industry
-  best practices for programming in Python, and documents their experience
+  best practices for programming in Python, and documents their experience.
 
 ### Project Management with GitHub
 

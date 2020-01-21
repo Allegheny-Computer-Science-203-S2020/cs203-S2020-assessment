@@ -2,11 +2,11 @@
 
 ## Assessment Key
 
-* N = None
-* I = Inadequate
-* A = Adequate
-* G = Good
-* E = Excellent
+* :disappointed: = None
+* :confused: = Inadequate
+* :neutral_face: = Adequate
+* :smiley: = Good
+* :sunglasses: = Excellent
 
 ## Technical Skills
 
@@ -43,7 +43,7 @@
 
 ### Continuous Integration with Travis
 
-* Setup and config of Travis CI
+* Setup and configuration of Travis CI
 * Performing secure releases of project deliverables
 * Creating third-party integrations with Travis CI (e.g., codecov.io)
 * Adding README badges that show status of Travis CI builds

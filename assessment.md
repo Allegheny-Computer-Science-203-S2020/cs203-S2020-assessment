@@ -83,7 +83,7 @@ Project Management is Covered by Team 2
   * :confused: Very little or unclear documentation or docstrings in the code of how the code works
   * :neutral_face: Software documentation or docstrings have a decent bit of detail describing the code and how the program will run
   * :smiley: In-depth detailed documentation or docstrings within the project that explain the reasoning behind the code
-  * :sunglasses: Very in-depth detailed explanation of code with use of documentation or docstrings to show and explain how the code will be used 
+  * :sunglasses: Very in-depth detailed explanation of code with use of documentation or docstrings to show and explain how the code will be used
 * Programming styles
   * :disappointed: No specific style is expressed
   * :confused: programming style is not clear
@@ -104,11 +104,12 @@ Project Management is Covered by Team 2
   * :smiley: Most risk identified and some risk mitigation techniques used
   * :sunglasses: Majority risk identified and mitigation techniques used
 * Software testing
-  * :disappointed: No softwares tested
-  * :confused: Minimal softwares tested
-  * :neutral_face: Some softwares tested and basic recordings of quality
-  * :smiley: Most softwares tested and some recordings of overall quality
-  * :sunglasses: Majority softwares tested and recordings of overall quality
+  * :disappointed: No code is tested
+  * :confused: Minimal code is tested
+  * :neutral_face: Some individual code is tested and minimal changes made to
+  improve quality
+  * :smiley: Most of individuals code is tested and changes made to improve quality
+  * :sunglasses: Code is tested and changes made to improve overall quality
 * Software refactoring
   * :disappointed: No software refactoring takes place
   * :confused: Minimal changes are made to software systems

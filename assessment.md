@@ -61,10 +61,10 @@
   documentation provided.
 * Using docstrings to document a Python program
   * :disappointed: = Did not use docstrings
-  * :confused: = Incorrectly use of docstrings which are unidentifiable to the
+  * :confused: = Incorrect use of docstrings which are unidentifiable to the
   compiler.
   * :neutral_face: = Added docstrings, but they do not fully describe the
-  functions'/methods' effect as a command.
+  functions/methods effect as a command.
   * :smiley: = Successfully added docstrings with useful description, but they
   lack some proper syntax.
   * :sunglasses: = Successfully added docstring with useful description and

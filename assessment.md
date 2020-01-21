@@ -63,12 +63,13 @@ Project Management is Covered by Team 2
     group members who need assistance, ensuring that use of branches is
     **consistent** across team members.
 
-A software engineer demonstrates mastery of this technical skill at the E level
-by communicating with their team to determine a naming scheme for branches, and
-the plan is executed as agreed upon. The branch(es) being used should be named
-according to their role (i.e. team2-project-management-with-github), and once
-that role is complete/no longer necessary, a pull request should be created to
-merge the branch with the main branch.
+A software engineer demonstrates mastery of this technical skill at the
+:sunglasses: level by communicating with their team to determine a naming scheme
+for branches, and the plan is executed as agreed upon. The branch(es) being used
+should be named according to their role (i.e.
+team2-project-management-with-github), and once that role is complete/no longer
+necessary, a pull request should be created to merge the branch with the main
+branch.
 
 * Creating and using a repository fork
 
@@ -110,9 +111,9 @@ merge the branch with the main branch.
     large volume of changes. Additionally, **guidance** is provided to the group
     ensuring members are following a consistent and uniform commit structure.
 
-A software engineer demonstrates the mastery of this technical skill at the E
-level by engaging with the team to determine an appropriate commit scheme and
-structure (e.g. action-content-file or equally descriptive format),
+A software engineer demonstrates the mastery of this technical skill at the
+:sunglasses: level by engaging with the team to determine an appropriate commit
+scheme and structure (e.g. action-content-file or equally descriptive format),
 consistently adhering to said structure, and adding commit descriptions if
 deemed necessary (e.g. Adding a list of feature additions / changes / removals
 or rationale for said actions).

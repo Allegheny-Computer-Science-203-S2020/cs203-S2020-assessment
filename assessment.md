@@ -97,7 +97,13 @@ Project Management is Covered by Team 2
 * Interaction with the course instructor
 * Interaction with the student technical leaders
 
-## Revision of Guides
+### Revision of Guides
+
+This section describes the policies for revising the assessment form and Code of
+Conduct. Revision on either of these two repositories must be approved by
+project leader and follow the GitHub Flow Model. Additionally, Pull requests for
+revision of either guide must tag multiple TL's, a project leader, and another
+classmate.
 
 * Policies for revising the assessment form
   * 😞 = Revision on unassigned and assigned sections of the assessment form

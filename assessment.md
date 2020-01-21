@@ -53,7 +53,7 @@ Project Management is Covered by Team 2
 * Using the GitHub issue tracker
   * 😞 = do not use the issue tracker
   * 😕 = occasionally use the issue tracker, issue descriptions are confusing
-  * 😐 = use the issue tracker, but will still **occasionally** use slack or
+  * 😐 = use the issue tracker, but will still occasionally use slack or
   other communication, issue descriptions occasionally confusing
   * 😃 = use the issue tracker, issue descriptions not as in depth as they
   should be
@@ -79,18 +79,18 @@ Project Management is Covered by Team 2
 
 * Creating and using a repository branch
 
-  * :disappointed: = **No branches** (other than master) are used, and commits
+  * :disappointed: = No branches (other than master) are used, and commits
     are made directly to the master branch.
-  * :confused: = A branch is used, but its **name** is **not relevant** to its
+  * :confused: = A branch is used, but its name is not relevant to its
     purpose or its function is unnecessary.
-  * :neutral_face: = Branch **name** is **relevant** to its function and its
+  * :neutral_face: = Branch name is relevant to its function and its
     function is necessary.
-  * :smiley: = Branch is **properly created** and necessary, and a **pull
-    request** is created once work is completed on the branch.
-  * :sunglasses: = Branch is **properly created**, and a **pull request** is
-    created once work is completed on the branch. **Guidance** is provided to
+  * :smiley: = Branch is properly created and necessary, and a pull
+    request is created once work is completed on the branch.
+  * :sunglasses: = Branch is properly created, and a pull request is
+    created once work is completed on the branch. Guidance is provided to
     group members who need assistance, ensuring that use of branches is
-    **consistent** across team members.
+    consistent across team members.
 
 A software engineer demonstrates mastery of this technical skill at the
 :sunglasses: level by communicating with their team to determine a naming scheme
@@ -133,16 +133,16 @@ branch.
 
 * Using appropriate commit messages
 
-  * :disappointed: = **No commits** are made or commit messages are **blank**
-  * :confused: = Commit messages are **arbitrary** and/or **vague**
-  * :neutral_face: = Commit messages contain **relevant actions** and
-    **content** associated with the commit files
-  * :smiley: = Commit messages contain **relevant actions** and **content** as
-    well as a **brief description** or list of changes if a commit contains a
+  * :disappointed: = No commits are made or commit messages are blank
+  * :confused: = Commit messages are arbitrary and/or vague
+  * :neutral_face: = Commit messages contain relevant actions and
+    content associated with the commit files
+  * :smiley: = Commit messages contain relevant actions and content as
+    well as a brief description or list of changes if a commit contains a
     large volume of changes
-  * :sunglasses: = Commit messages contain **relevant actions** and **content**
-    as well as a **brief description** or list of changes if a commit contains a
-    large volume of changes. Additionally, **guidance** is provided to the group
+  * :sunglasses: = Commit messages contain relevant actions and content
+    as well as a brief description or list of changes if a commit contains a
+    large volume of changes. Additionally, guidance is provided to the group
     ensuring members are following a consistent and uniform commit structure.
 
 A software engineer demonstrates the mastery of this technical skill at the

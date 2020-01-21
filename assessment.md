@@ -66,9 +66,8 @@ Project Management is Covered by Team 2
    through Travis CI
   * :smiley: = Performs secured releases of most project deliverables through
    Travis CI
-  * :sunglasses: = Performs secured releases of all project deliverables using
-   Travis CI
-   
+  * :sunglasses: = Performs secured releases of all project deliverables using Travis CI
+
 * Creating third-party integrations with Travis CI (e.g., codecov.io)
   * :disappointed: = Does not create third-party integrations with Travis CI
   * :confused: = Creates partially implemented third-party integrations with
@@ -96,9 +95,8 @@ Project Management is Covered by Team 2
   characteristics
   * :smiley: = Adds properly located README badges that show project
   characteristics but that are not relevant to the project
-  * :sunglasses: = Adds relevant and properly located README badges that show
-  project characteristics
-  
+  * :sunglasses: = Adds relevant and properly located README badges that show project characteristics
+
 * Identifying and resolving problems with failing builds in Travis CI
   * :disappointed: = Does not identify or resolve problems with failing builds
   in Travis CI

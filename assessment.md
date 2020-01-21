@@ -95,7 +95,8 @@ Project Management is Covered by Team 2
   characteristics
   * :smiley: = Adds properly located README badges that show project
   characteristics but that are not relevant to the project
-  * :sunglasses: = Adds relevant and properly located README badges that show project characteristics
+  * :sunglasses: = Adds relevant and properly located README badges that show
+  project characteristics
 
 * Identifying and resolving problems with failing builds in Travis CI
   * :disappointed: = Does not identify or resolve problems with failing builds

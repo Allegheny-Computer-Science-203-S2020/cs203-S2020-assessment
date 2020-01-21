@@ -148,8 +148,8 @@ maximize productivity.
   * I = Rarely follows the guidelines of the conduct guide.
   * A = Sometimes follows the guidelines of the conduct guide.
   * G = Always follow the guidelines of the conduct guide.
-  * E = Always follow the guidelines of the conduct guide, but also makes sure that
-  team members are also following the guidelines.
+  * E = Always follow the guidelines of the conduct guide, but also makes sure
+  that team members are also following the guidelines.
 
 ### Interactions
 

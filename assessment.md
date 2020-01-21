@@ -79,13 +79,11 @@ Project Management is Covered by Team 2
   level software solution with both extremely detailed algorithmic and architectural
   designs
 * Software documentation
-  * :disappointed: No written documentation or docstrings of how the software works
-  * :confused: Very little or unclear documentation or docstrings in the code
-  * :neutral_face: Software documentation or docstrings have a decent bit of detail of the program
-  * :smiley: Detailed documentation or docstrings within the project with ample details of the
-  program
-  * :sunglasses: Very detailed explanation of how to use the software with reasons
-  of why certain methods used
+  * :disappointed: No written documentation or docstrings of how the code works
+  * :confused: Very little or unclear documentation or docstrings in the code of how the code works
+  * :neutral_face: Software documentation or docstrings have a decent bit of detail describing the code and how the program will run
+  * :smiley: In-depth detailed documentation or docstrings within the project that explain the reasoning behind the code
+  * :sunglasses: Very in-depth detailed explanation of code with use of documentation or docstrings to show and explain how the code will be used 
 * Programming styles
   * :disappointed: No specific style is expressed
   * :confused: programming style is not clear

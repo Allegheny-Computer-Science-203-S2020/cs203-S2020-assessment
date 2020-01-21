@@ -81,9 +81,12 @@ Project Management is Covered by Team 2
 * Software documentation
   * :disappointed: No written documentation of how the code works
   * :confused: Very little or unclear documentation in the code of how the code works
-  * :neutral_face: Software documentation has a decent bit of detail describing the code and how the program will run
-  * :smiley: In-depth detailed documentation within the project that explain the reasoning behind the code
-  * :sunglasses: Very in-depth detailed explanation of code with use of documentation to show and explain how the code will be used
+  * :neutral_face: Software documentation has a decent bit of detail describing
+  the code and how the program will run
+  * :smiley: In-depth detailed documentation within the project that explain the
+  reasoning behind the code
+  * :sunglasses: Very in-depth detailed explanation of code with use of documentation
+  to show and explain how the code will be used
 * Programming styles
   * :disappointed: Program is messy, confusing, and has no organized style
   * :confused: Programming is easier to read, but still unclear and disorganized

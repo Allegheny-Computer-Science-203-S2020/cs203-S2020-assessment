@@ -34,21 +34,21 @@
 Project Management is Covered by Team 2
 
 * Using the GitHub Flow model
- * Students should receive an '😞' if any work is done in the master branch
- instead of the team branch, and/or if there is no discussion or review of the
- code with the team, and/or if no relevant commit messages are used
- * Students should receive an '😕' if all work is done in the team branch but no
- relevant commit messages are used, and/or if there is no collaborative
- discussion and review.
- * Students should receive an '😐' if all work is done in the team branch,
- commit messages are relevant but not sufficiently descriptive and/or are
- confusing, and engage somewhat in a team review and discussion session.
- * Students should receive a '😃'if all work is done in the team branch, commit
- messages provide more detail but still may leave room for confusion, and the
- student engages in a team review and discussion session.
- * Students should receive an '😎' if all work is done in the team branch,
- commit messages provide extensive depth regarding changes, and the student
- actively engages in and/or initiates a team review and discussion.
+  * Students should receive an '😞' if any work is done in the master branch
+  instead of the team branch, and/or if there is no discussion or review of the
+  code with the team, and/or if no relevant commit messages are used
+  * Students should receive an '😕' if all work is done in the team branch but
+  no relevant commit messages are used, and/or if there is no collaborative
+  discussion and review.
+  * Students should receive an '😐' if all work is done in the team branch,
+  commit messages are relevant but not sufficiently descriptive and/or are
+  confusing, and engage somewhat in a team review and discussion session.
+  * Students should receive a '😃'if all work is done in the team branch, commit
+  messages provide more detail but still may leave room for confusion, and the
+  student engages in a team review and discussion session.
+  * Students should receive an '😎' if all work is done in the team branch,
+  commit messages provide extensive depth regarding changes, and the student
+  actively engages in and/or initiates a team review and discussion.
 
 * Using the GitHub issue tracker
   * 😞 = do not use the issue tracker

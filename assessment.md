@@ -93,54 +93,55 @@ Project Management is Covered by Team 2
 ### Interactions
 
 * Interaction with the customer
-  * :disappointed: Disregards the customer's feelings and
+  * :disappointed: Disregards the customer's feelings, and
   refuses to take their needs into account
-  * :confused: Regards some of the customer's feelings
+  * :confused: Regards some of the customer's feelings,
   but fails to take their ideas and needs into account
-  * :neutral_face: Regards most of the customer's feelings
+  * :neutral_face: Regards most of the customer's feelings,
   and takes some of their ideas and needs into account
-  * :smiley: Regards all of the customer's feelings and
+  * :smiley: Regards all of the customer's feelings, and
   incorporates most of their ideas and needs while also communicating challenges
   * :sunglasses: Regards all of the customer's feelings, improves ideas,
-  incorporates all of their needs, clearly communicates challenges and
+  incorporates all of their needs, clearly communicates challenges, and
   provides updates on progress
 
 * Interaction with the team leaders
-  * :disappointed: Impolite, impatient and does not respond to team leaders
-  * :confused: Polite yet impatient and is partially responsive to
+  * :disappointed: Impolite, impatient, and does not respond to team leaders
+  * :confused: Polite yet impatient, and is partially responsive to
   team leaders but does not communicate clearly
-  * :neutral_face: Polite, patient and is mostly responsive to team leaders
+  * :neutral_face: Polite, patient, and is mostly responsive to team leaders
   with moderate communication
-  * :smiley: Polite, patient and is responsive to team leaders with clear
+  * :smiley: Polite, patient, and is responsive to team leaders with clear
   communication
-  * :sunglasses: Polite, patient and is responsive to team leaders with clear
+  * :sunglasses: Polite, patient, and is responsive to team leaders with clear
   communication, providing multiple progress updates
 
 * Interaction with the course instructor
-  * :disappointed: Impolite, impatient and does not communicate with the course
+  * :disappointed: Impolite, impatient, and does not communicate with the course
   instructor
-  * :confused: Impolite, impatient and only communicates with the course
+  * :confused: Impolite, impatient, and only communicates with the course
   instructor when personally addressed
-  * :neutral_face: Polite yet impatient and does not communicate clearly with the
+  * :neutral_face: Polite yet impatient, and does not communicate clearly with the
   course instructor
-  * :smiley: Polite, patient and communicates with the course instructor
-  * :sunglasses: Polite, patient and communicates with the course instructor to
+  * :smiley: Polite, patient, and communicates with the course instructor
+  * :sunglasses: Polite, patient, and communicates with the course instructor to
   engage in helpful learning experiences
 
 * Interaction with the student technical leaders
-  * :disappointed: Impolite, impatient and does not communicate with the technical
+  * :disappointed: Impolite, impatient, and does not communicate with the technical
   leaders
   * :confused: Impolite, impatient, does not speak to the technical leaders when
-  necessary and communicates poorly
-  * :neutral_face: Polite yet impatient and moderately communicates with the
+  necessary, and communicates poorly
+  * :neutral_face: Polite yet impatient, and moderately communicates with the
   technical leaders
-  * :smiley: Polite, patient and effectively communicates with technical leaders
-  * :sunglasses: Polite, patient and effectively communicates with technical
+  * :smiley: Polite, patient, and effectively communicates with technical leaders
+  * :sunglasses: Polite, patient, and effectively communicates with technical
   leaders, seeking advice and help when necessary
 
-  Communication with customers, team leaders, the course instructor and student
+  Communication with customers, team leaders, the course instructor, and student
   technical leaders can be done in-person, through GitHub and Slack. The most
-  comprehensive form of communication includes forms of all three of these methods.
+  comprehensive form of communication includes all three of these forms of
+  communication.
 
 ## Revision of Guides
 

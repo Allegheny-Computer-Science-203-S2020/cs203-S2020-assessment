@@ -56,14 +56,14 @@ Project Management is Covered by Team 2
 ### Foundations of Software Engineering
 
 * Requirements engineering
-  * :disappointed: No effort to change, refine, or contribute to documentation.
+  * :disappointed: No effort to change refine or contribute to documentation
   * :confused: Very short or vague description of documentation
   * :neutral_face: Conveys information accurately and descriptively enough for
   everyone to understand
   * :smiley: Well thought-out and descriptive documentation and definitions so
   everyone can be well informed
   * :sunglasses: A very structured and detailed outlining of all of the elements
-  in a software system.
+  in a software system
 * Software architecture
   * :disappointed: No carefully thought-out contribution to the layout of the Project
   * :confused: Very little amount of shape to the architecture to the Project
@@ -77,15 +77,15 @@ Project Management is Covered by Team 2
   * :smiley: A solution that is rich in coding layout and architectural design
   * :sunglasses: All expectations have been exceeded with a well thought-out high
   level software solution with both extremely detailed algorithmic and architectural
-  designs.
+  designs
 * Software documentation
-  * :disappointed: No written communication of how the software works.
+  * :disappointed: No written communication of how the software works
   * :confused: Very little or unclear comments in the code
   * :neutral_face: Software documentation has a decent bit of detail of the program
   * :smiley: Detailed documentation within the project with ample details of the
   program
   * :sunglasses: Very detailed explanation of how to use the software with reasons
-  of why certain methods used.
+  of why certain methods used
 * Programming styles
   * :disappointed: No specific style is expressed
   * :confused: programming style is not clear

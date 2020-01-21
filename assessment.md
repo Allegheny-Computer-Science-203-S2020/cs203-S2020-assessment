@@ -47,7 +47,7 @@ Project Management is Covered by Team 2
 * Creating and using a repository fork
 * Merging a branch or a fork to another branch or fork
   * N = Not making a branch when it your job
-  * I = when merging a branch or a fork to another branch or fork does not work 
+  * I = when merging a branch or a fork to another branch or fork does not work
   * A = when merging a branch or a fork to another branch or fork works only
   sometimes
   * G = when merging a branch or a fork to another branch or fork works most of
@@ -56,10 +56,14 @@ Project Management is Covered by Team 2
   time
 * Creating and reviewing a pull request
   * :disappointed: = Not creating a pull request
-  * :confused: = Does not mention the issues it is trying to close with a subpar description
-  * :neutral_face: = Mentions related issues it is trying to close and describes the changes
-  * :smiley: = Mentions most related issues it is trying to close, describes most changes and the purpose of the pull request
-  * :sunglasses: = Mentions all related issues it is trying to close, describes all changes made and passes Travis CI
+  * :confused: = Does not mention the issues it is trying to close with a subpar
+  description
+  * :neutral_face: = Mentions related issues it is trying to close and describes
+  the changes
+  * :smiley: = Mentions most related issues it is trying to close, describes
+  most changes and the purpose of the pull request
+  * :sunglasses: = Mentions all related issues it is trying to close, describes
+  all changes made and passes Travis CI
 * Using appropriate commit messages
 
 ### Continuous Integration with Travis

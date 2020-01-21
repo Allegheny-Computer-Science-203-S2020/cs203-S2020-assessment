@@ -98,10 +98,10 @@ Project Management is Covered by Team 2
     to also complete their work with enough time to test it and fix errors.
 
 A software engineer demonstrates the mastery of this professional skill at the
-E level by completing their assigned work for the project with enough time
-remaining to properly test and document it, and enough time to fix any errors.
-Additionally, they should encourage others to complete their work in
-a similar time frame such that the project flows as smoothly as possible.
+:sunglasses: level by completing their assigned work for the project with enough
+time remaining to properly test and document it, and enough time to fix any
+errors. Additionally, they should encourage others to complete their work in a
+similar time frame such that the project flows as smoothly as possible.
 
 * Communication
 
@@ -124,9 +124,9 @@ a similar time frame such that the project flows as smoothly as possible.
     **guide** other team members in matters concerning their role / position.
 
 A software engineer demonstrates the mastery of this professional skill at the
-E level by understanding their role / position within the group and handling
-aspects of the project that concern this role / position. Furthermore, they
-will effectively communicate their intentions and abilities in order to
+:sunglasses: level by understanding their role / position within the group and
+handling aspects of the project that concern this role / position. Furthermore,
+they will effectively communicate their intentions and abilities in order to
 maximize productivity.
 
 * Conduct

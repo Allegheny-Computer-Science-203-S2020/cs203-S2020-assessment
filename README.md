@@ -32,11 +32,11 @@ professional skills on which you want to be assessed during the Spring 2020
 semester. Then, you should describe the student behaviors that would lead to an
 assessment at one of the following levels:
 
-* N = None
-* I = Inadequate
-* A = Adequate
-* G = Good
-* E = Excellent
+* :disappointed: = None
+* :confused: = Inadequate
+* :neutral_face: = Adequate
+* :smiley: = Good
+* :sunglasses: = Excellent
 
 For each skill and its assessment levels, you should also clearly explain what a
 student must do to demonstrate mastery at the level of "Excellent". You should
@@ -48,11 +48,11 @@ finished with the assessment, please update the README as necessary.
 
 * Understanding and avoiding red flags like shallow modules,
   information leakage, and conjoined methods
-  * N = Ignores all red flags in the code
-  * I = Identifies red flags in the code, but does not fix them
-  * A = Identifies red flags in the code, but only fixes some of them
-  * G = Identifies red flags in the code, and fixes most or all of them
-  * E = Identifies, understands, and fixes all red flags, while also providing
+  * :disappointed: = Ignores all red flags in the code
+  * :confused: = Identifies red flags in the code, but does not fix them
+  * :neutral_face: = Identifies red flags in the code, but only fixes some of them
+  * :smiley: = Identifies red flags in the code, and fixes most or all of them
+  * :sunglasses: = Identifies, understands, and fixes all red flags, while also providing
     documentation, tools, and advice that help team members develop this skill
 
 A software engineer demonstrates the mastery of this professional skill at the E
@@ -64,12 +64,12 @@ members would not write Python source code that also manifests this red flag.
 ## Example of a Technical Skill
 
 * Running Python programs with `pyenv` and `pipenv`
-  * N = `pyenv` and `pipenv` not installed or setup on laptop
-  * I = Unable to run programs with `pyenv` and `pipenv`
-  * A = Able to run programs with `pyenv` and `pipenv`
-  * G = Able to run programs with `pyenv` and `pipenv` using additional commands
+  * :disappointed: = `pyenv` and `pipenv` not installed or setup on laptop
+  * :confused: = Unable to run programs with `pyenv` and `pipenv`
+  * :neutral_face: = Able to run programs with `pyenv` and `pipenv`
+  * :smiley: = Able to run programs with `pyenv` and `pipenv` using additional commands
     and flags as necessary
-  * E = Able to run programs with `pyenv` and `pipenv` using additional commands
+  * :sunglasses: = Able to run programs with `pyenv` and `pipenv` using additional commands
     and flags to streamline workflow, while being able to provide assistance and
     troubleshooting to other students using `pyenv` and `pipenv`
 

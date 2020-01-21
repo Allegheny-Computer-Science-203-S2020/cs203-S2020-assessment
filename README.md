@@ -69,9 +69,9 @@ members would not write Python source code that also manifests this red flag.
   * :neutral_face: = Able to run programs with `pyenv` and `pipenv`
   * :smiley: = Able to run programs with `pyenv` and `pipenv` using additional commands
     and flags as necessary
-  * :sunglasses: = Able to run programs with `pyenv` and `pipenv` using additional commands
-    and flags to streamline workflow, while being able to provide assistance and
-    troubleshooting to other students using `pyenv` and `pipenv`
+  * :sunglasses: = Able to run programs with `pyenv` and `pipenv` using additional
+    commands and flags to streamline workflow, while being able to provide
+    assistance and troubleshooting to other students using `pyenv` and `pipenv`
 
 A software engineer demonstrates the mastery of this technical skill at the E
 level by providing an excerpt from their terminal window showing that they can

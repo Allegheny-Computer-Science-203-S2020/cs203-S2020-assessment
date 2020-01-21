@@ -35,17 +35,44 @@ Project Management is Covered by Team 2
 
 * Using the GitHub Flow model
 * Using the GitHub issue tracker
+
 * Assigning team members to issues in the GitHub issue tracker
+
   * N = No team member was assigned to issue.
   * I = Team member was assigned to issue but no response was given.
   * A = Team member was assigned to issue and team member tried to assist
   but no change was made.
   * G = Team member was assigned to issue and issue was resolved.
   * E = Team member was assigned to issue and issue was resolved and understood.
+
 * Creating and assigning labels to issues in the GitHub issue tracker
+
 * Creating and using a repository branch
+
+  * N = **No branches** (other than master) are used, and commits are made
+    directly to the master branch.
+  * I = A branch is used, but its **name** is **not relevant** to its purpose
+    or its function is unnecessary.
+  * A = Branch **name** is **relevant** to its function and its function is
+    necessary.
+  * G = Branch is **properly created** and necessary, and a **pull request** is
+    created once work is completed on the branch.
+  * E = Branch is **properly created**, and a **pull request** is created once
+    work is completed on the branch. **Guidance** is provided to group members
+    who need assistance, ensuring that use of branches is **consistent** across
+    team members.
+
+A software engineer demonstrates mastery of this technical skill at the E level
+by communicating with their team to determine a naming scheme for branches, and
+the plan is executed as agreed upon. The branch(es) being used should be named
+according to their role (i.e. team2-project-management-with-github), and once
+that role is complete/no longer necessary, a pull request should be created to
+merge the branch with the main branch.
+
 * Creating and using a repository fork
+
 * Merging a branch or a fork to another branch or fork
+
   * N = Not making a branch when it your job
   * I = when merging a branch or a fork to another branch or fork does not work
   * A = when merging a branch or a fork to another branch or fork works only
@@ -54,7 +81,9 @@ Project Management is Covered by Team 2
   the time
   * E = when merging a branch or a fork to another branch or fork works all the
   time
+
 * Creating and reviewing a pull request
+
   * :disappointed: = Not creating a pull request
   * :confused: = Does not mention the issues it is trying to close with a subpar
   description
@@ -64,7 +93,27 @@ Project Management is Covered by Team 2
   most changes and the purpose of the pull request
   * :sunglasses: = Mentions all related issues it is trying to close, describes
   all changes made and passes Travis CI
+
 * Using appropriate commit messages
+
+  * N = **No commits** are made or commit messages are **blank**
+  * I = Commit messages are **arbitrary** and/or **vague**
+  * A = Commit messages contain **relevant actions** and **content** associated
+    with the commit files
+  * G = Commit messages contain **relevant actions** and **content** as well as
+    a **brief description** or list of changes if a commit contains a large
+    volume of changes
+  * E = Commit messages contain **relevant actions** and **content** as well as
+    a **brief description** or list of changes if a commit contains a large
+    volume of changes. Additionally, **guidance** is provided to the group
+    ensuring members are following a consistent and uniform commit structure.
+
+A software engineer demonstrates the mastery of this technical skill at the E
+level by engaging with the team to determine an appropriate commit scheme and
+structure (e.g. action-content-file or equally descriptive format),
+consistently adhering to said structure, and adding commit descriptions if
+deemed necessary (e.g. Adding a list of feature additions / changes / removals
+or rationale for said actions).
 
 ### Continuous Integration with Travis
 

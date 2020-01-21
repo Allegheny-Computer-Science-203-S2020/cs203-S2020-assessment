@@ -54,7 +54,7 @@ Project Management is Covered by Team 2
    relevant extent to perform checks
   * :smiley: = Sufficiently sets up and configures Travis CI to a more
   sufficient extent to perform checks
-  * :sunglasses: = Correctly performing the setup and configuration for Travis
+  * :sunglasses: = Correctly performs the setup and configuration of Travis
    CI to perform checks for all project deliverables
 
 A software engineer demonstrates mastery of this technical skill at the
@@ -66,7 +66,7 @@ showing that Travis CI is properly setup and configured.
    project deliverables
   * :confused: = Performs unsecured releases of all project deliverables
    through Travis CI
-  * :neutral_face: = Performs unsecured releases of some project deliverables
+  * :neutral_face: = Performs unsecured releases of most project deliverables
    through Travis CI
   * :smiley: = Performs secured releases of most project deliverables through
    Travis CI
@@ -74,7 +74,7 @@ showing that Travis CI is properly setup and configured.
    Travis CI
 
 A software engineer demonstrates mastery of this technical skill at the
-:sunglasses: level by performing releases of project deliverables that are
+:sunglasses: level by performing releases of all project deliverables that are
 always secure.
 
 * Creating third-party integrations with Travis CI (e.g., codecov.io)
@@ -102,8 +102,8 @@ the project and Travis CI.
   relation to all other status badges
 
 A software engineer demonstrates mastery of this technical skill at the
-:sunglasses: level by providing a README in their GitHub repository with README
-badges that show the status of Travis CI builds.
+:sunglasses: level by providing a README in their GitHub repository with
+properly placed README badges that show the status of Travis CI builds.
 
 * Adding README badges that show project characteristics (e.g., coverage and
   language)
@@ -117,9 +117,9 @@ badges that show the status of Travis CI builds.
   project characteristics
 
 A software engineer demonstrates mastery of this technical skill at the
-:sunglasses: level by providing a README in their GitHub repository with README
-badges that show characteristics relevant to the project such as code coverage,
-programming language, and more.
+:sunglasses: level by providing a README in their GitHub repository with
+properly placed README badges that show characteristics relevant to the project
+such as code coverage, programming language, and more.
 
 * Identifying and resolving problems with failing builds in Travis CI
   * :disappointed: = Does not identify or resolve problems with failing builds
@@ -134,7 +134,7 @@ programming language, and more.
 
 A software engineer demonstrates mastery of this technical skill at the
 :sunglasses: level by identifying and resolving problems with failing builds in
-Travis CI whether it be through the Travis CI dashboard or setup related
+Travis CI whether it be through the Travis CI dashboard for setup related
 problems or via code implementations of fixes.
 
 ### Foundations of Software Engineering

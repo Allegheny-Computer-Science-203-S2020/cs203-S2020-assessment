@@ -66,8 +66,23 @@
   * :sunglasses: = Successfully added docstring with useful description and
   proper syntax.
 * Adopting and applying appropriate naming conventions
+  * :disappointed: Used unconventional naming styles foreign to python's syntax
+  * :confused: Used appropriate naming styles that are not entirely conventional
+  * :neutral_face: Used inappropriate naming styles that are not prescriptive or descriptive
+  * :smiley: Used appropriate naming styles, but is missing syntax used with variables, function, and methods
+  * :sunglasses: Used appropriate naming styles with correct syntax used with variables, functions, and methods
 * Using exception handling to create a robust Python program
+  * :disappointed: Code crashes because of no exception handling
+  * :confused: Code crashes because of incorrect exception handling
+  * :neutral_face: Code does not handle few exceptions
+  * :smiley: Code handles most of exceptions
+  * :sunglasses: Code handles all exceptions and documents causes
 * Refactoring a Python program to improve its characteristics
+  * :disappointed: No refactoring done
+  * :confused: Little code refactored and no documentation
+  * :neutral_face: Some code refactored and changes documented
+  * :smiley: Refactored code contains easy to understand functions and documentation
+  * :sunglasses: Refactored code is clean, efficient, well documented, and maintainable
 * Debugging Python programs using logging and other methods
   * :disappointed: = No fault-localization and no debugging
   * :confused: = Identifies some of the bugs

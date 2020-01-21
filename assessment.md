@@ -74,31 +74,48 @@
   * Continuous integration with Travis CI
   * Foundations of software engineering
 
-😞 = Makes no attempt at learning any of the
-above material on a consistent basis.
-😕 = Attempts to learn some material, but does
-fully not understand the subject at hand.
-Struggles to be an
-independent worker.
-😐 = Attempts to learn all material, and has a
-beginner level grasp on the subject at hand.
-😃 = Learns materials and has a solid grasp in
-the subject at hand.
-😎 = Learns the materials, with an excellent
-knowledge of the subject
-at hand and contributes to the class by asking
-intelligent questions or providing assistance
-to help fellow colleagues learn as well.
+  * 😞 = Makes no attempt at learning any of the
+    above material on a consistent basis.
+  * 😕 = Attempts to learn some material, but does
+    fully not understand the subject at hand.
+    Struggles to be an
+    independent worker.
+  * 😐 = Attempts to learn all material, and
+    has a beginner level grasp on the subject at hand.
+  * 😃 = Learns materials and has a solid grasp in
+    the subject at hand.
+  * 😎 = Learns the materials, with an excellent
+    knowledge of the subject
+    at hand and contributes to the class by asking
+    intelligent questions or providing assistance
+    to help fellow colleagues learn as well.
 
 * Understanding and avoiding red flags
 
-😞 = Ignores all red flags in code and does not make attempts to fix them.
-😕 = Identifies red flags, but does not attempt to fix them.
-😐 = Identifies red flags and fixes some of them.
-😃 = Identifies red flags and fixes the majority of them.
-😎 = Identifies red flags, fixes all of them and helps others to fix theirs as well.
+  * 😞 = Ignores all red flags in code and does not make
+    attempts to fix them.
+  * 😕 = Identifies red flags, but does not attempt to
+    fix them.
+  * 😐 = Identifies red flags and fixes some of them.
+  * 😃 = Identifies red flags and fixes the majority of
+    them.
+  * 😎 = Identifies red flags, fixes all of them and
+    helps others to fix theirs as well.
 
 * Understanding and adopting best practices
+
+  * 😞 = Fails to understand and adopt beneficial
+    practices,
+    such as labeling commits, working efficiently and
+    utilizing resources to assist in problem solving.
+  * 😕 = Adopts a few good practices, but does not
+    understand why they are beneficial and fails to
+    adopt others.
+  * 😐 = Understands all best practices at hand, but
+    struggles to adopt all of them.
+  * 😃 = Understands and adopts all best practices.
+  * 😎 = Understands and adopts all best practices,
+    while guiding others to do the same.
 
 ### Group
 

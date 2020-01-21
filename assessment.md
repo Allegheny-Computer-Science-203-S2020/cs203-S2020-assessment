@@ -100,11 +100,11 @@ Project Management is Covered by Team 2
 ## Revision of Guides
 
 * Policies for revising the assessment form
-  * 😞 = Revision on unassigned and assigned sections of the assesment form are made without approval, a commit message, and a Pull Request
-  * 😕 = Revision on assigned sections of the assesment form are made with approval. Revisions lack an adequate commit message and a Pull Request 
-  * 😐 = Revision on assigned sections of the assesment form are made with approval, an adequate commit message, and a Pull request that tags a TD or Project-manager
-  * 😃 = Revision on assigned sections of the assesment form are made with approval, a good commit message, and a Pull request that tags a TD and Project-Manager   
-  * 😎 = Revision on assigned sections of the assesment form are made with approval, a detailed commit message, and a Pull Request that tags multiple TD, a Project-manager, and another non Project-manager classmate  
+  * 😞 = Revision on unassigned and assigned sections of the assessment form are made without approval, a commit message, and a Pull Request
+  * 😕 = Revision on assigned sections of the assessment form are made with approval. Revisions lack an adequate commit message and a Pull Request 
+  * 😐 = Revision on assigned sections of the assessment form are made with approval, an adequate commit message, and a Pull request that tags a TD or Project-manager
+  * 😃 = Revision on assigned sections of the assessment form are made with approval, a good commit message, and a Pull request that tags a TD and Project-Manager   
+  * 😎 = Revision on assigned sections of the assessment form are made with approval, a detailed commit message, and a Pull Request that tags multiple TD, a Project-manager, and another non Project-manager classmate  
 * Policies for revising the code of conduct
   * 😞 = Revision on unassigned and assigned sections of the code of conduct are made without approval, a commit message, and a Pull Request
   * 😕 = Revision on assigned sections of the code of conduct are made with approval. Revisions lack an adequate commit message and a Pull Request 

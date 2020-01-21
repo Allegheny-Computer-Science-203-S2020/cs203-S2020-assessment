@@ -156,14 +156,14 @@ maximize productivity.
 
   * :disappointed: = No conclusive thoughts
   * :confused: = Thoughts are final but most members completely disagree and no
-  group input was taken.
-  * :neutral_face: = Some members are on page, input was taken, but decision was
-  ineffective.
+    group input was taken.
+  * :neutral_face: = Some members are on page, input was taken, but decision
+    was ineffective.
   * :smiley: = Most members are on page, input was taken, and decision was
-  effective.
+    effective.
   * :sunglasses: = All member are on page, input was taken, and decision was
     effective and beneficial.
-    
+
 * Postmortems
 * Conflicts
 

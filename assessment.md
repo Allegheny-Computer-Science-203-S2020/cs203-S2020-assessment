@@ -136,11 +136,6 @@
   * :sunglasses: Polite, patient, and effectively communicates with technical
   leaders to seek advice and help when necessary
 
-  Communication with customers, team leaders, the course instructor, and student
-  technical leaders can be done in-person, through GitHub and Slack. The most
-  comprehensive form of communication includes all three of these forms of
-  communication.
-
 ## Revision of Guides
 
 * Policies for revising the assessment form

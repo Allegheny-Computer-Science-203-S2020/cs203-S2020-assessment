@@ -47,7 +47,7 @@ Project Management is Covered by Team 2
 * Creating and using a repository fork
 * Merging a branch or a fork to another branch or fork
   * N = Not making a branch when it your job
-  * I = when merging a branch or a fork to another branch or fork does not work  
+  * I = when merging a branch or a fork to another branch or fork does not work
   * A = when merging a branch or a fork to another branch or fork works only sometimes
   * G = when merging a branch or a fork to another branch or fork works most of
   the time

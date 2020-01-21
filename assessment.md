@@ -100,7 +100,7 @@
   * 😃 = Identifies red flags and fixes the majority of
     them
   * 😎 = Identifies red flags, fixes all of them and
-    helps others to fix theirs as well.
+    helps others to fix theirs as well
 
 * Understanding and adopting best practices
 
@@ -113,7 +113,7 @@
     adopt others
   * 😐 = Understands all best practices at hand, but
     struggles to adopt all of them
-  * 😃 = Understands and adopts all best practices.
+  * 😃 = Understands and adopts all best practices
   * 😎 = Understands and adopts all best practices,
     while guiding others to do the same
 

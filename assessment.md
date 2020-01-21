@@ -13,7 +13,7 @@
 ### Software Development with Python
 
 * Configuring a development environment for Python
-  * :disappointed: = Development environment not set up.
+  * :disappointed: = Development environment is not set up.
   * :confused: = Development environment configured without all required dependencies
   and tools.
   * :neutral_face: = Development environment configured with required dependencies
@@ -27,12 +27,10 @@
   * :confused: = Program will not run with `pyenv` and `pipenv`.
   * :neutral_face: = Programs are able to run with `pyenv` and `pipenv`.
   * :smiley: = Programs are able to run with `pyenv` and `pipenv` and additional
-  flags
-  and commands have been incorporated.
+  flags and commands have been incorporated.
   * :sunglasses: = Programs are able to run with `pyenv` and `pipenv` with additional
-  flags
-  and commands to improve testing while also providing assistance to other students
-  in their use of `pyenv` and `pipenv`.
+  flags and commands to improve testing while also providing assistance to other
+  students in their use of `pyenv` and `pipenv`.
 * Linting Python programs with `pylint` and `flake8`
   * :disappointed: = `pylint` and `flake8` not installed or setup.
   * :confused: = `pylint` and `flake8` installed but incorrectly configured and

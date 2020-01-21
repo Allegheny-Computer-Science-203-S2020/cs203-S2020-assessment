@@ -82,6 +82,14 @@ Project Management is Covered by Team 2
 
 * Attendance
 
+  * :disappointed: = Team member is never or rarely present
+  * :confused: = Team member is occasionally present and rarely engaged
+  * :neutral_face: = Team member is frequently present but not always engaged
+  * :smiley: = Team member has two to three unexcused absences and is frequently
+    engaged
+  * :sunglasses: = Team member has zero to one unexcused absence and is always
+    engaged
+
 * Deadlines
 
   * :disappointed: = Team member has **poor time management** skills and appears

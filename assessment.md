@@ -52,6 +52,7 @@
   * :smiley: = Thorough, adequate test cases.
   * :sunglasses: = Thorough, adequate, and documented test cases.
 * Calculating code coverage of a `pytest` test suite
+<<<<<<< Updated upstream
   * :disappointed: = Did not check code coverage at all, 0%.
   * :confused: = Checked up to 25% code coverage with `pytest`.
   * :neutral_face: = Checked up to 50% code coverage with `pytest`.
@@ -63,36 +64,53 @@
   * :sunglasses: = Checked code coverage through an online provider and
   documentation provided.
 * Using docstrings to document a Python program
+<<<<<<< HEAD
   * :disappointed: = Did not use docstring.
+=======
+  * :disappointed: = Did not check code coverage.
+  * :neutral_face: =
+  * :sunglasses: = Checked code coverage with `pytest`.
+* Reporting code coverage through an online provider.
+  * :disappointed: = Did not check coverage.
+  * :neutral_face: = Checked code coverage using an online provider.
+  * :sunglasses: = Checked code coverage through an online provider and
+  documentation provided.
+* Using docstrings to document a Python program.
+  * :disappointed: = Did not use docstrings.
+>>>>>>> Stashed changes
   * :confused: = Incorrectly use of docstrings which are unidentifiable to the
+=======
+  * :disappointed: = Did not use docstrings
+  * :confused: = Incorrect use of docstrings which are unidentifiable to the
+>>>>>>> 9c5d7a7ce7bba6c56aedcd7c337a3ceed81c68e9
   compiler.
   * :neutral_face: = Added docstrings, but they do not fully describe the
-  functions'/methods' effect as a command.
+  functions/methods effect as a command.
   * :smiley: = Successfully added docstrings with useful description, but they
   lack some proper syntax.
   * :sunglasses: = Successfully added docstring with useful description and
   proper syntax.
 * Adopting and applying appropriate naming conventions
-  * :disappointed: Used unconventional naming styles foreign to python's syntax
-  * :confused: Used appropriate naming styles that are not entirely conventional
+  * :disappointed: Used unconventional naming styles foreign to python's syntax.
+  * :confused: Used appropriate naming styles that are not entirely conventional.
   * :neutral_face: Used inappropriate naming styles that are not prescriptive or
-  descriptive
+  descriptive.
   * :smiley: Used appropriate naming styles, but is missing syntax used with
-  variables, function, and methods
+  variables, function, and methods.
   * :sunglasses: Used appropriate naming styles with correct syntax used with
-  variables, functions, and methods
+  variables, functions, and methods.
 * Using exception handling to create a robust Python program
-  * :disappointed: Code crashes because of no exception handling
-  * :confused: Code crashes because of incorrect exception handling
-  * :neutral_face: Code does not handle few exceptions
-  * :smiley: Code handles most of exceptions
-  * :sunglasses: Code handles all exceptions and documents causes
+  * :disappointed: Code crashes because of no exception handling.
+  * :confused: Code crashes because of incorrect exception handling.
+  * :neutral_face: Code does not handle few exceptions.
+  * :smiley: Code handles most of exceptions.
+  * :sunglasses: Code handles all exceptions and documents causes.
 * Refactoring a Python program to improve its characteristics
-  * :disappointed: No refactoring done
-  * :confused: Little code refactored and no documentation
-  * :neutral_face: Some code refactored and changes documented
-  * :smiley: Refactored code contains easy to understand functions and documentation
-  * :sunglasses: Refactored code is clean, efficient, well documented, and maintainable
+  * :disappointed: No refactoring done.
+  * :confused: Little code refactored and no documentation.
+  * :neutral_face: Some code refactored and changes documented.
+  * :smiley: Refactored code contains easy to understand functions and documentation.
+  * :sunglasses: Refactored code is clean, efficient, well documented, and maintainable.
 * Debugging Python programs using logging and other methods
   * :disappointed: = No fault-localization and no debugging
   * :confused: = Identifies some of the bugs

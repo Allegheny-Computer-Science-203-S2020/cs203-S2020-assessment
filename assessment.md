@@ -108,11 +108,6 @@ Project Management is Covered by Team 2
 * Communication
 * Participation
 * Conduct
-  * :disappointed: = Never treats teammates with respect
-  * :confused: = Sometimes treats teammates with respect
-  * :neutral_face: = Often times treats teammates with respect
-  * :smiley: = Treats teammates with respect and controls their behavior around others
-  * :sunglasses: = Always acknowledges teammates and treats with the upmost respect
 * Decisions
 * Postmortems
 * Conflicts

@@ -70,11 +70,11 @@ Project Management is Covered by Team 2
     understood.
 
 * Creating and assigning labels to issues in the GitHub issue tracker
-  *  :disappointed: = Doing nothing.
-  *  :confused:= Assigning but not clarifying tasks.
-  *  :neutral_face: = Assigned tasks that are clear but are useless.
-  *  :smiley: = Assigning tasks that are clear and beneficial to the group.
-  *  :sunglasses: = Assigning tasks that are clear, beneficial and given in a
+  * :disappointed: = Doing nothing.
+  * :confused:= Assigning but not clarifying tasks.
+  * :neutral_face: = Assigned tasks that are clear but are useless.
+  * :smiley: = Assigning tasks that are clear and beneficial to the group.
+  * :sunglasses: = Assigning tasks that are clear, beneficial and given in a
      timely manner.
 
 * Creating and using a repository branch

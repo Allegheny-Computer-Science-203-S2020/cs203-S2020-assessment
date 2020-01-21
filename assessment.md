@@ -2,11 +2,11 @@
 
 ## Assessment Key
 
-* N = None
-* I = Inadequate
-* A = Adequate
-* G = Good
-* E = Excellent
+* :disappointed: = None
+* :confused: = Inadequate
+* :neutral_face: = Adequate
+* :smiley: = Good
+* :sunglasses: = Excellent
 
 ## Technical Skills
 
@@ -81,19 +81,21 @@ Project Management is Covered by Team 2
 ### Group
 
 * Attendance
+
 * Deadlines
-  * N = Team member has **poor time management** skills and appears unaware of
-    deadlines
-  * I = Team member demonstrates a **lack of urgency** as deadline approaches and
-    misses work as a result
-  * A = Team member **completes** their **required work**, but adheres only to
-    technical time constraints and does not leave time for testing or
-    correction of errors
-  * G = Team member **completes** their **required work** with enough time
-    before the deadline to properly test their code/work and enough time to fix
-    any errors that may have arisen
-  * E = Team member **completes work on time** and encourages others to
-    also complete their work with enough time to test it and fix errors.
+
+  * :disappointed: = Team member has **poor time management** skills and appears
+    unaware of deadlines
+  * :confused: = Team member demonstrates a **lack of urgency** as deadline
+    approaches and misses work as a result
+  * :neutral_face: = Team member **completes** their **required work**, but
+    adheres only to technical time constraints and does not leave time for
+    testing or correction of errors
+  * :smiley: = Team member **completes** their **required work** with enough
+    time before the deadline to properly test their code/work and enough time to
+    fix any errors that may have arisen
+  * :sunglasses: = Team member **completes work on time** and encourages others
+    to also complete their work with enough time to test it and fix errors.
 
 A software engineer demonstrates the mastery of this professional skill at the
 E level by completing their assigned work for the project with enough time
@@ -104,21 +106,22 @@ a similar time frame such that the project flows as smoothly as possible.
 * Communication
 
 * Participation
-  * N = Team member is completely **uninvolved** or otherwise provides **no
-    significant contribution** to projects
-  * I = Team member is **involved** and **contributes** to the project, but
-    **does not cooperate** or **communicate** with their team and/or **fulfill
-    their role**
-  * A = Team member **actively contributes** to the project and **effectively
-    communicates** with their team
-  * G = Team member **actively contributes** to the project by **fulfilling
-    their role / position** and **effectively communicates** with their team,
-    especially concerning matters of which their role / position is responsible
-    for
-  * E = Team member **actively contributes** to the project by **fulfilling
-    their role / position** and **effectively communicates** with their team.
-    The team member **actively seeks to resolve issues** and **guide** other
-    team members in matters concerning their role / position.
+
+  * :disappointed: = Team member is completely **uninvolved** or otherwise
+    provides **no significant contribution** to projects
+  * :confused: = Team member is **involved** and **contributes** to the project,
+    but **does not cooperate** or **communicate** with their team and/or
+    **fulfill their role**
+  * :neutral_face: = Team member **actively contributes** to the project and
+    **effectively communicates** with their team
+  * :smiley: = Team member **actively contributes** to the project by
+    **fulfilling their role / position** and **effectively communicates** with
+    their team, especially concerning matters of which their role / position is
+    responsible for
+  * :sunglasses: = Team member **actively contributes** to the project by
+    **fulfilling their role / position** and **effectively communicates** with
+    their team. The team member **actively seeks to resolve issues** and
+    **guide** other team members in matters concerning their role / position.
 
 A software engineer demonstrates the mastery of this professional skill at the
 E level by understanding their role / position within the group and handling
@@ -127,29 +130,36 @@ will effectively communicate their intentions and abilities in order to
 maximize productivity.
 
 * Conduct
+
   * :disappointed: = Never treats teammates with respect
   * :confused: = Sometimes treats teammates with respect
   * :neutral_face: = Often times treats teammates with respect
-  * :smiley: = Treats teammates with respect and controls their behavior around others
-  * :sunglasses: = Always acknowledges teammates and treats with the upmost respect
+  * :smiley: = Treats teammates with respect and controls their behavior around
+    others
+  * :sunglasses: = Always acknowledges teammates and treats with the upmost
+    respect
+
 * Decisions
 * Postmortems
 * Conflicts
-  * N = Never addresses conflicts with anyone
-  * I = Sometimes addresses conflicts with teammates
-  * A = Addresses conflicts with teammates through communication
-  * G = Addresses conflicts with teammates through mature communication while
-  involving leaders
-  * E = Addresses conflicts with teammates through mature communication
-  (slack or the issue tracker in GitHub) while involving leaders and referencing
-  conduct guide
+
+  * :disappointed: = Never addresses conflicts with anyone
+  * :confused: = Sometimes addresses conflicts with teammates
+  * :neutral_face: = Addresses conflicts with teammates through communication
+  * :smiley: = Addresses conflicts with teammates through mature communication
+    while involving leaders
+  * :sunglasses: = Addresses conflicts with teammates through mature
+    communication (slack or the issue tracker in GitHub) while involving leaders
+    and referencing conduct guide
+
 * Infractions
-  * N = Never follows the guidelines of the conduct guide.
-  * I = Rarely follows the guidelines of the conduct guide.
-  * A = Sometimes follows the guidelines of the conduct guide.
-  * G = Always follow the guidelines of the conduct guide.
-  * E = Always follow the guidelines of the conduct guide, but also makes sure
-  that team members are also following the guidelines.
+
+  * :disappointed: = Never follows the guidelines of the conduct guide.
+  * :confused: = Rarely follows the guidelines of the conduct guide.
+  * :neutral_face: = Sometimes follows the guidelines of the conduct guide.
+  * :smiley: = Always follow the guidelines of the conduct guide.
+  * :sunglasses: = Always follow the guidelines of the conduct guide, but also
+    makes sure that team members are also following the guidelines.
 
 ### Interactions
 

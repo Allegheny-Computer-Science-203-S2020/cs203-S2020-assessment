@@ -114,12 +114,14 @@ Project Management is Covered by Team 2
   * :smiley: Most of individuals code is tested and changes made to improve quality
   * :sunglasses: Code is tested and changes made to improve overall quality
 * Software refactoring
-  * :disappointed: No software refactoring takes place
-  * :confused: Minimal changes are made to software systems
-  * :neutral_face: Some changes to software systems and some internal improvement
-  * :smiley: Many changes made to software systems and internal improvement
-  * :sunglasses: Majority of changes made to software system and good improvement
-  in the internal structure
+  * :disappointed: No software refactoring or internal changes take place
+  * :confused: Little to no refactoring is made to make the code organized
+  * :neutral_face: Refactoring is done to improve code structure and readability
+  monthly
+  * :smiley: Some refactoring is made to enhance readability, simplify code structure,
+  and clarify changes biweekly
+  * :sunglasses: Code is refactored and changes made to enhance the programs
+  readability, simplify code structure, and clarify changes weekly
 
 ## Professional Skills
 

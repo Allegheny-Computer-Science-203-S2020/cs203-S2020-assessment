@@ -74,17 +74,17 @@
   * Continuous integration with Travis CI
   * Foundations of software engineering
 
-  * 😞 = Makes no attempt at learning any of the
+    * 😞 = Makes no attempt at learning any of the
     above material on a consistent basis.
-  * 😕 = Attempts to learn some material, but does
+    * 😕 = Attempts to learn some material, but does
     fully not understand the subject at hand.
     Struggles to be an
     independent worker.
-  * 😐 = Attempts to learn all material, and
+    * 😐 = Attempts to learn all material, and
     has a beginner level grasp on the subject at hand.
-  * 😃 = Learns materials and has a solid grasp in
+    * 😃 = Learns materials and has a solid grasp in
     the subject at hand.
-  * 😎 = Learns the materials, with an excellent
+    * 😎 = Learns the materials, with an excellent
     knowledge of the subject
     at hand and contributes to the class by asking
     intelligent questions or providing assistance

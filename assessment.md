@@ -68,9 +68,12 @@
 * Adopting and applying appropriate naming conventions
   * :disappointed: Used unconventional naming styles foreign to python's syntax
   * :confused: Used appropriate naming styles that are not entirely conventional
-  * :neutral_face: Used inappropriate naming styles that are not prescriptive or descriptive
-  * :smiley: Used appropriate naming styles, but is missing syntax used with variables, function, and methods
-  * :sunglasses: Used appropriate naming styles with correct syntax used with variables, functions, and methods
+  * :neutral_face: Used inappropriate naming styles that are not prescriptive or
+  descriptive
+  * :smiley: Used appropriate naming styles, but is missing syntax used with
+  variables, function, and methods
+  * :sunglasses: Used appropriate naming styles with correct syntax used with
+  variables, functions, and methods
 * Using exception handling to create a robust Python program
   * :disappointed: Code crashes because of no exception handling
   * :confused: Code crashes because of incorrect exception handling

@@ -52,25 +52,25 @@
   * :smiley: = Thorough, adequate test cases.
   * :sunglasses: = Thorough, adequate, and documented test cases.
 * Calculating code coverage of a `pytest` test suite
-  * :disappointed: = Did not check code coverage at all, 0%.
-  * :confused: = Checked up to 25% code coverage with `pytest`.
-  * :neutral_face: = Checked up to 50% code coverage with `pytest`.
-  * :smiley: = Checked up to 75% code coverage with `pytest`.
-  * :sunglasses: = Checked 100% code coverage with `pytest`.
+  * :disappointed: = Does not check code coverage at all, 0%.
+  * :confused: = Checks up to 25% code coverage with `pytest`.
+  * :neutral_face: = Checks up to 50% code coverage with `pytest`.
+  * :smiley: = Checks up to 75% code coverage with `pytest`.
+  * :sunglasses: = Checks 100% code coverage with `pytest`.
 * Reporting code coverage through an online provider
-  * :disappointed: = Did not report or check coverage.
-  * :neutral_face: = Checked and reported some code coverage using an online provider.
-  * :sunglasses: = Checked and reported code coverage through an online provider
+  * :disappointed: = Does not report or check coverage.
+  * :neutral_face: = Checks and reports some code coverage using an online provider.
+  * :sunglasses: = Checks and reports code coverage through an online provider
   and documentation provided.
 * Using docstrings to document a Python program.
-  * :disappointed: = Did not use docstrings.
+  * :disappointed: = Does not use docstrings.
   * :confused: = Incorrect use of docstrings which are unidentifiable to the
   compiler.
-  * :neutral_face: = Added docstrings, but they do not fully describe the
+  * :neutral_face: = Adds docstrings, but they do not fully describe the
   functions/methods effect as a command.
-  * :smiley: = Successfully added docstrings with useful description, but they
+  * :smiley: = Successfully adds docstrings with useful description, but they
   lack some proper syntax.
-  * :sunglasses: = Successfully added docstring with useful description and
+  * :sunglasses: = Successfully adds docstring with useful description and
   proper syntax.
 * Adopting and applying appropriate naming conventions
   * :disappointed: = Use unconventional naming styles foreign to python's syntax.

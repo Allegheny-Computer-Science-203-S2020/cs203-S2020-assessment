@@ -117,13 +117,9 @@
 * Adhering to industry best practices for programming in Python
   * :disappointed: = Does not follow any of the industry best practices for
   programming in Python
-  * :confused: = Correctly implements a few of the industry best practices for
-  programming in Python
   * :neutral_face: = Correctly and efficiently implements some of the industry
   best practices for programming in Python
-  * :smiley: = Correctly and efficiently implements most of the industry best
-  practices for programming in Python
-  * :sunglasses: = Correctly and efficiently implements most of the industry
+  * :sunglasses: = Correctly and efficiently implements some of the industry
   best practices for programming in Python, and documents their experience
 
 ### Project Management with GitHub

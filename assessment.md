@@ -45,8 +45,14 @@
   no linting errors, troubleshooting assistance provided for installation and configuring
   of `pylint` and `flake8` to other students.
 * Formatting Python programs with `black`
+  * :disappointed: = `black` not installed, setup, or used.
+  * :sunglasses: = Ran `black` successfully and file was formatted.
 * Basic testing of Python programs with `pytest`
-* Advanced testing of Python programs with `pytest`
+  * :disappointed: = Did not use `pytest`.
+  * :confused: = `pytest` employed, but with inadequate test cases.
+  * :neutral_face: = Few test cases were created.
+  * :smiley: = Thorough, adequate test cases.
+  * :sunglasses: = Thorough, adequate, and documented test cases.
 * Calculating code coverage of a `pytest` test suite
   * :disappointed: = Did not check code coverage
   * :sunglasses: = Checked code coverage with `pytest`

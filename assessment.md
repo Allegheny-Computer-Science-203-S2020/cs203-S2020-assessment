@@ -104,6 +104,11 @@ errors. Additionally, they should encourage others to complete their work in a
 similar time frame such that the project flows as smoothly as possible.
 
 * Communication
+  * :disappointed: = No communication to group
+  * :confused: = little to none communication
+  * :neutral_face: communication is low and some questions are asked.
+  * :smiley: communication is used; asks questions and checks slack.
+  * :sunglasses: communication through slack and email and always check up on group
 
 * Participation
 

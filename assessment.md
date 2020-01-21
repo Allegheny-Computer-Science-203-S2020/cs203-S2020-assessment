@@ -101,29 +101,29 @@ Project Management is Covered by Team 2
 
 * Policies for revising the assessment form
   * 😞 = Revision on unassigned and assigned sections of the assessment form
-      are made without approval, a commit message, and a Pull request
+      are made without approval, do not follow the GitHub Flow model, and lack a
+      Pull request
   * 😕 = Revision on assigned sections of the assessment form are made with
-      approval. Revisions lack an adequate commit message and a Pull request
+      approval and follow the GitHub flow model, but lack a Pull request
   * 😐 = Revision on assigned sections of the assessment form are made with
-      approval, an adequate commit message, and a Pull request that tags a TL or
-      Project manager
+      approval, follow the GitHub flow model, and a Pull request that tags a TL
   * 😃 = Revision on assigned sections of the assessment form are made with
-      approval, a good commit message, and a Pull request that tags multiple
-      TL's and Project manager
+      approval, follow the GitHub flow model, and a Pull request that tags
+      multiple TLs and Project manager
   * 😎 = Revision on assigned sections of the assessment form are made with
-      approval, a detailed commit message, and a Pull request that tags multiple
-      TL's, a Project manager, and another non Project-manager classmate
+      approval, follow the GitHub flow model, and a Pull request that tags
+      multiple TLs, a Project manager, and another non Project-manager classmate
 * Policies for revising the code of conduct
   * 😞 = Revision on unassigned and assigned sections of the code of conduct
-      are made without approval, a commit message, and a Pull request
+      are made without approval, do not follow the GitHub Flow model, and lack a
+      Pull request
   * 😕 = Revision on assigned sections of the code of conduct are made with
-      approval. Revisions lack an adequate commit message and a Pull request
+      approval and follow the GitHub flow model, but lack a Pull request
   * 😐 = Revision on assigned sections of the code of conduct are made with
-      approval, an adequate commit message, and a Pull request that tags a TL or
-      Project manager
+      approval, follow the GitHub flow model, and a Pull request that tags a TL
   * 😃 = Revision on assigned sections of the code of conduct are made with
-      approval, a good commit message, and a Pull request that tags multiple
-      TL's and Project manager
+      approval, follow the GitHub flow model, and a Pull request that tags
+      multiple TLs and Project manager
   * 😎 = Revision on assigned sections of the code of conduct are made with
-      approval, a detailed commit message, and a Pull request that tags multiple
-      TL's, a Project manager, and another non Project-manager classmate
+      approval, follow the GitHub flow model, and a Pull request that tags
+      multiple TLs, a Project manager, and another non Project-manager classmate

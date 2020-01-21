@@ -58,10 +58,10 @@
   * :smiley: = Checked up to 75% code coverage with `pytest`.
   * :sunglasses: = Checked 100% code coverage with `pytest`.
 * Reporting code coverage through an online provider
-  * :disappointed: = Did not check coverage.
-  * :neutral_face: = Checked code coverage using an online provider.
-  * :sunglasses: = Checked code coverage through an online provider and
-  documentation provided.
+  * :disappointed: = Did not report or check coverage.
+  * :neutral_face: = Checked and reported some code coverage using an online provider.
+  * :sunglasses: = Checked and reported code coverage through an online provider
+  and documentation provided.
 * Using docstrings to document a Python program.
   * :disappointed: = Did not use docstrings.
   * :confused: = Incorrect use of docstrings which are unidentifiable to the

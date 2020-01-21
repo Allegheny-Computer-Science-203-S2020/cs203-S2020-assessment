@@ -66,7 +66,8 @@ Project Management is Covered by Team 2
    through Travis CI
   * :smiley: = Performs secured releases of most project deliverables through
    Travis CI
-  * :sunglasses: = Performs secured releases of all project deliverables using Travis CI
+  * :sunglasses: = Performs secured releases of all project deliverables using
+  Travis CI
 
 * Creating third-party integrations with Travis CI (e.g., codecov.io)
   * :disappointed: = Does not create third-party integrations with Travis CI

@@ -72,6 +72,11 @@ necessary, a pull request should be created to merge the branch with the main
 branch.
 
 * Creating and using a repository fork
+  * 😞 = Didn't create or utilize repository forks.
+  * 😕 = Created unclear repository forks.
+  * 😐 = Created poorly named repository forks.
+  * 😃 = Created useful named repository forks
+  * 😎 = Created useful and descriptive repository forks
 
 * Merging a branch or a fork to another branch or fork
 

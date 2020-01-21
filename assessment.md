@@ -36,33 +36,30 @@ Project Management is Covered by Team 2
 * Using the GitHub Flow model
 * Using the GitHub issue tracker
 * Assigning team members to issues in the GitHub issue tracker
-  * :disappointed: = No team member was assigned to issue.
-  * :confused: = Team member was assigned to issue but no response was given.
-  * :neutral_face: = Team member was assigned to issue and team member tried to assist
+  * N = No team member was assigned to issue.
+  * I = Team member was assigned to issue but no response was given.
+  * A = Team member was assigned to issue and team member tried to assist
   but no change was made.
-  * :smiley: = Team member was assigned to issue and issue was resolved.
-  * :sunglasses: = Team member was assigned to issue and issue was resolved and understood.
+  * G = Team member was assigned to issue and issue was resolved.
+  * E = Team member was assigned to issue and issue was resolved and understood.
 * Creating and assigning labels to issues in the GitHub issue tracker
 * Creating and using a repository branch
 * Creating and using a repository fork
 * Merging a branch or a fork to another branch or fork
   * N = Not making a branch when it your job
-  * I = when merging a branch or a fork to another branch or fork does not work
-  * A = when merging a branch or a fork to another branch or fork works only sometimes
+  * I = when merging a branch or a fork to another branch or fork does not work  
+  * A = when merging a branch or a fork to another branch or fork works only
+  sometimes
   * G = when merging a branch or a fork to another branch or fork works most of
   the time
   * E = when merging a branch or a fork to another branch or fork works all the
   time
 * Creating and reviewing a pull request
   * :disappointed: = Not creating a pull request
-  * :confused: = Does not mention the issues it is trying to close with a subpar
-   description
-  * :neutral_face: = Mentions related issues it is trying to close and describes
-   the changes
-  * :smiley: = Mentions most related issues it is trying to close, describes most
-   changes and the purpose of the pull request
-  * :sunglasses: = Mentions all related issues it is trying to close, describes
-  all changes made and passes Travis CI
+  * :confused: = Does not mention the issues it is trying to close with a subpar description
+  * :neutral_face: = Mentions related issues it is trying to close and describes the changes
+  * :smiley: = Mentions most related issues it is trying to close, describes most changes and the purpose of the pull request
+  * :sunglasses: = Mentions all related issues it is trying to close, describes all changes made and passes Travis CI
 * Using appropriate commit messages
 
 ### Continuous Integration with Travis
@@ -105,11 +102,6 @@ Project Management is Covered by Team 2
 * Attendance
 * Deadlines
 * Communication
-  * :disappointed: = No communication to group
-  * :confused: = little to none communication
-  * :neutral_face: communication is low and some questions are asked.
-  * :smiley: communication is used; asks questions and checks slack.
-  * :sunglasses: communication through slack and email and always check up on group
 * Participation
 * Conduct
   * :disappointed: = Never treats teammates with respect
@@ -120,12 +112,6 @@ Project Management is Covered by Team 2
 * Decisions
 * Postmortems
 * Conflicts
-  * N = Never talks to teammates about conflicts
-  * I = Only sometimes talks to teammates about conflicts
-  * A = Addresses conflicts with team members
-  * G = Addresses conflicts with team members as well as involving the leaders
-  * E = Is in constant communication with team members and leaders but also looks
-  at the conduct guide.
 * Infractions
 
 ### Interactions

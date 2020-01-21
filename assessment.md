@@ -114,7 +114,7 @@ Project Management is Covered by Team 2
   * :smiley: Polite, patient, and is responsive to team leaders with clear
   communication
   * :sunglasses: Polite, patient, and is responsive to team leaders with clear
-  communication, providing multiple progress updates
+  communication which provides multiple progress updates
 
 * Interaction with the course instructor
   * :disappointed: Impolite, impatient, and does not communicate with the course
@@ -130,13 +130,13 @@ Project Management is Covered by Team 2
 * Interaction with the student technical leaders
   * :disappointed: Impolite, impatient, and does not communicate with the technical
   leaders
-  * :confused: Impolite, impatient, does not speak to the technical leaders when
-  necessary, and communicates poorly
+  * :confused: Impolite, impatient, and communicates poorly with the technical
+  leaders
   * :neutral_face: Polite yet impatient, and moderately communicates with the
   technical leaders
   * :smiley: Polite, patient, and effectively communicates with technical leaders
   * :sunglasses: Polite, patient, and effectively communicates with technical
-  leaders, seeking advice and help when necessary
+  leaders to seek advice and help when necessary
 
   Communication with customers, team leaders, the course instructor, and student
   technical leaders can be done in-person, through GitHub and Slack. The most

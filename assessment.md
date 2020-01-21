@@ -85,11 +85,14 @@ Project Management is Covered by Team 2
   * :smiley: In-depth detailed documentation or docstrings within the project that explain the reasoning behind the code
   * :sunglasses: Very in-depth detailed explanation of code with use of documentation or docstrings to show and explain how the code will be used
 * Programming styles
-  * :disappointed: No specific style is expressed
-  * :confused: programming style is not clear
-  * :neutral_face: Some programming styles are shown
-  * :smiley: Most of program has clear styles being displayed
-  * :sunglasses: Majority of program has styles being displayed
+  * :disappointed: Program is messy, confusing, and has no organized style
+  * :confused: Programming is easier to read, but still unclear and disorganized
+  * :neutral_face: Program is somewhat understandable, but still lacks clarity
+  and organization
+  * :smiley: Most of program is easy to understand and read, but still lacks
+  organization
+  * :sunglasses: Code is easy to read, understand, and organized in a way
+  that makes sense
 * Managing software complexity
   * :disappointed: No complexity managements techniques utilized
   * :confused: Code is frequently non-obvious and complex

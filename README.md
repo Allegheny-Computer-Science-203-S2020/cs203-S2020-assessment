@@ -39,7 +39,7 @@ assessment at one of the following levels:
 * :sunglasses: = Excellent
 
 For each skill and its assessment levels, you should also clearly explain what a
-student must do to demonstrate mastery at the level of "Excellent". You should
+student must do to demonstrate mastery at the level of :sunglasses:. You should
 also explain how the assessment for each of the technical and professional
 skills will result in an overall assessment for a software project. Once you are
 finished with the assessment, please update the README as necessary.
@@ -55,7 +55,7 @@ finished with the assessment, please update the README as necessary.
   * :sunglasses: = Identifies, understands, and fixes all red flags, while also providing
     documentation, tools, and advice that help team members develop this skill
 
-A software engineer demonstrates the mastery of this professional skill at the E
+A software engineer demonstrates the mastery of this professional skill at the :sunglasses:
 level by first providing a realistic source code segment that exhibits a red
 flag. The engineer should then explain how the source code was fixed to avoid
 the red flag and then finally document the steps taken to ensure that other team
@@ -73,7 +73,7 @@ members would not write Python source code that also manifests this red flag.
     commands and flags to streamline workflow, while being able to provide
     assistance and troubleshooting to other students using `pyenv` and `pipenv`
 
-A software engineer demonstrates the mastery of this technical skill at the E
+A software engineer demonstrates the mastery of this technical skill at the :sunglasses:
 level by providing an excerpt from their terminal window showing that they can
 install the project's dependencies using `pipenv`, pick a version of Python
 using `pyenv`, show the selected version of Python with `pyenv`, and run either

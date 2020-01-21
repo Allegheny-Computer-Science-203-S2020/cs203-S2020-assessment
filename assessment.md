@@ -49,7 +49,15 @@ Project Management is Covered by Team 2
  * Students should receive an '😎' if all work is done in the team branch,
  commit messages provide extensive depth regarding changes, and the student
  actively engages in and/or initiates a team review and discussion.
+
 * Using the GitHub issue tracker
+  * 😞 = do not use the issue tracker
+  * 😕 = occasionally use the issue tracker, issue descriptions are confusing
+  * 😐 = use the issue tracker, but will still **occasionally** use slack or
+  other communication, issue descriptions occasionally confusing
+  * 😃 = use the issue tracker, issue descriptions not as in depth as they
+  should be
+  * 😎 = use the issue tracker, issue descriptions are in depth and clear
 
 * Assigning team members to issues in the GitHub issue tracker
 

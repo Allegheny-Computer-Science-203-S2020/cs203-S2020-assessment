@@ -92,17 +92,17 @@ Project Management is Covered by Team 2
 
 * Deadlines
 
-  * :disappointed: = Team member has **poor time management** skills and appears
+  * :disappointed: = Team member has poor time management skills and appears
     unaware of deadlines
-  * :confused: = Team member demonstrates a **lack of urgency** as deadline
+  * :confused: = Team member demonstrates a lack of urgency as deadline
     approaches and misses work as a result
-  * :neutral_face: = Team member **completes** their **required work**, but
+  * :neutral_face: = Team member completes their required work, but
     adheres only to technical time constraints and does not leave time for
     testing or correction of errors
-  * :smiley: = Team member **completes** their **required work** with enough
+  * :smiley: = Team member completes their required work with enough
     time before the deadline to properly test their code/work and enough time to
     fix any errors that may have arisen
-  * :sunglasses: = Team member **completes work on time** and encourages others
+  * :sunglasses: = Team member completes work on time and encourages others
     to also complete their work with enough time to test it and fix errors.
 
 A software engineer demonstrates the mastery of this professional skill at the
@@ -120,21 +120,21 @@ similar time frame such that the project flows as smoothly as possible.
 
 * Participation
 
-  * :disappointed: = Team member is completely **uninvolved** or otherwise
-    provides **no significant contribution** to projects
-  * :confused: = Team member is **involved** and **contributes** to the project,
-    but **does not cooperate** or **communicate** with their team and/or
-    **fulfill their role**
-  * :neutral_face: = Team member **actively contributes** to the project and
-    **effectively communicates** with their team
-  * :smiley: = Team member **actively contributes** to the project by
-    **fulfilling their role / position** and **effectively communicates** with
+  * :disappointed: = Team member is completely uninvolved or otherwise
+    provides no significant contribution to projects
+  * :confused: = Team member is involved and contributes to the project,
+    but does not cooperate or communicate with their team and/or
+    fulfill their role
+  * :neutral_face: = Team member actively contributes to the project and
+    effectively communicates with their team
+  * :smiley: = Team member actively contributes to the project by
+    fulfilling their role / position and effectively communicates with
     their team, especially concerning matters of which their role / position is
     responsible for
-  * :sunglasses: = Team member **actively contributes** to the project by
-    **fulfilling their role / position** and **effectively communicates** with
-    their team. The team member **actively seeks to resolve issues** and
-    **guide** other team members in matters concerning their role / position.
+  * :sunglasses: = Team member actively contributes to the project by
+    fulfilling their role / position and effectively communicates with
+    their team. The team member actively seeks to resolve issues and
+    guide other team members in matters concerning their role / position.
 
 A software engineer demonstrates the mastery of this professional skill at the
 :sunglasses: level by understanding their role / position within the group and

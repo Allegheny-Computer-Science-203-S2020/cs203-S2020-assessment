@@ -94,34 +94,34 @@
   * :smiley: = Refactored code contains easy to understand functions and documentation.
   * :sunglasses: = Refactored code is clean, efficient, well documented, and maintainable.
 * Debugging Python programs using logging and other methods
-  * :disappointed: = No fault-localization and no debugging.
-  * :confused: = Identifies some of the bugs.
+  * :disappointed: = No fault-localization and no debugging
+  * :confused: = Identifies some of the bugs
   * :neutral_face: = Identifies and fixes some of the bugs using logging and other
-  methods.
-  * :smiley: = Identifies and fixes most of the bugs using logging and other methods.
+  methods
+  * :smiley: = Identifies and fixes most of the bugs using logging and other methods
   * :sunglasses: = Identifies and fixes most of the bugs using logging and other
-  methods, and documents them.
+  methods, and documents them
 * Adopting and using appropriate Python language constructs
-  * :disappointed: = No Python language constructs used.
-  * :confused: = Incorrect implementation of Python language constructs.
-  * :neutral_face: = Correct implementation of Python language constructs.
-  * :smiley: = Correct and efficient implementation of Python language constructs.
-  * :sunglasses: = Correct and efficient implementation of Python language
-  constructs, documentation provided.
+  * :disappointed: = Does not use Python language constructs
+  * :confused: = Implements Python language constructs incorrectly
+  * :neutral_face: = Implements Python language constructs correctly
+  * :smiley: = Implements Python language constructs correctly and efficiently
+  * :sunglasses: = Implements Python language constructs correctly and efficiently
+  and documents the reason
 * Adopting and using appropriate Python packages
-  * :disappointed: = No Python packages created or used.
-  * :confused: = Python packages created and/or used incorrectly.
-  * :neutral_face: = Python packages created/used correctly.
-  * :smiley: = Python packages created/used correctly and efficiently.
-  * :sunglasses: = Python packages created/used correctly and efficiently
-  and the reason is well documented.
+  * :disappointed: = Does not create/use Python packages
+  * :confused: = Creates/uses Python packages incorrectly
+  * :neutral_face: = Creates/uses Python packages correctly
+  * :smiley: = Creates/uses Python packages correctly and efficiently
+  * :sunglasses: = Creates/uses Python packages correctly and efficiently
+  and documents the reason
 * Adhering to industry best practices for programming in Python
   * :disappointed: = Does not follow any of the industry best practices for
-  programming in Python.
+  programming in Python
   * :neutral_face: = Correctly and efficiently implements some of the industry
-  best practices for programming in Python.
+  best practices for programming in Python
   * :sunglasses: = Correctly and efficiently implements some of the industry
-  best practices for programming in Python, and documents their experience.
+  best practices for programming in Python, and documents their experience
 
 ### Project Management with GitHub
 

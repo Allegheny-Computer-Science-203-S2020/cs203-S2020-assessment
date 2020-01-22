@@ -109,11 +109,11 @@
   * :sunglasses: = Implements Python language constructs correctly and efficiently
   and documents the reason
 * Adopting and using appropriate Python packages
-  * :disappointed: = Does not create/use Python packages
-  * :confused: = Creates/uses Python packages incorrectly
-  * :neutral_face: = Creates/uses Python packages correctly
-  * :smiley: = Creates/uses Python packages correctly and efficiently
-  * :sunglasses: = Creates/uses Python packages correctly and efficiently
+  * :disappointed: = Does not adopt/use Python packages
+  * :confused: = Adopts/uses Python packages incorrectly
+  * :neutral_face: = Adopts/uses Python packages correctly
+  * :smiley: = Adopts/uses Python packages correctly and efficiently
+  * :sunglasses: = Adopts/uses Python packages correctly and efficiently
   and documents the reason
 * Adhering to industry best practices for programming in Python
   * :disappointed: = Does not follow any of the industry best practices for

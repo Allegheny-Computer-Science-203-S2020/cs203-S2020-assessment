@@ -32,14 +32,14 @@ professional skills on which you want to be assessed during the Spring 2020
 semester. Then, you should describe the student behaviors that would lead to an
 assessment at one of the following levels:
 
-* N = None
-* I = Inadequate
-* A = Adequate
-* G = Good
-* E = Excellent
+* :disappointed: = None
+* :confused: = Inadequate
+* :neutral_face: = Adequate
+* :smiley: = Good
+* :sunglasses: = Excellent
 
 For each skill and its assessment levels, you should also clearly explain what a
-student must do to demonstrate mastery at the level of "Excellent". You should
+student must do to demonstrate mastery at the level of :sunglasses:. You should
 also explain how the assessment for each of the technical and professional
 skills will result in an overall assessment for a software project. Once you are
 finished with the assessment, please update the README as necessary.
@@ -48,14 +48,14 @@ finished with the assessment, please update the README as necessary.
 
 * Understanding and avoiding red flags like shallow modules,
   information leakage, and conjoined methods
-  * N = Ignores all red flags in the code
-  * I = Identifies red flags in the code, but does not fix them
-  * A = Identifies red flags in the code, but only fixes some of them
-  * G = Identifies red flags in the code, and fixes most or all of them
-  * E = Identifies, understands, and fixes all red flags, while also providing
+  * :disappointed: = Ignores all red flags in the code
+  * :confused: = Identifies red flags in the code, but does not fix them
+  * :neutral_face: = Identifies red flags in the code, but only fixes some of them
+  * :smiley: = Identifies red flags in the code, and fixes most or all of them
+  * :sunglasses: = Identifies, understands, and fixes all red flags, while also providing
     documentation, tools, and advice that help team members develop this skill
 
-A software engineer demonstrates the mastery of this professional skill at the E
+A software engineer demonstrates the mastery of this professional skill at the :sunglasses:
 level by first providing a realistic source code segment that exhibits a red
 flag. The engineer should then explain how the source code was fixed to avoid
 the red flag and then finally document the steps taken to ensure that other team
@@ -64,16 +64,16 @@ members would not write Python source code that also manifests this red flag.
 ## Example of a Technical Skill
 
 * Running Python programs with `pyenv` and `pipenv`
-  * N = `pyenv` and `pipenv` not installed or setup on laptop
-  * I = Unable to run programs with `pyenv` and `pipenv`
-  * A = Able to run programs with `pyenv` and `pipenv`
-  * G = Able to run programs with `pyenv` and `pipenv` using additional commands
+  * :disappointed: = `pyenv` and `pipenv` not installed or setup on laptop
+  * :confused: = Unable to run programs with `pyenv` and `pipenv`
+  * :neutral_face: = Able to run programs with `pyenv` and `pipenv`
+  * :smiley: = Able to run programs with `pyenv` and `pipenv` using additional commands
     and flags as necessary
-  * E = Able to run programs with `pyenv` and `pipenv` using additional commands
-    and flags to streamline workflow, while being able to provide assistance and
-    troubleshooting to other students using `pyenv` and `pipenv`
+  * :sunglasses: = Able to run programs with `pyenv` and `pipenv` using additional
+    commands and flags to streamline workflow, while being able to provide
+    assistance and troubleshooting to other students using `pyenv` and `pipenv`
 
-A software engineer demonstrates the mastery of this technical skill at the E
+A software engineer demonstrates the mastery of this technical skill at the :sunglasses:
 level by providing an excerpt from their terminal window showing that they can
 install the project's dependencies using `pipenv`, pick a version of Python
 using `pyenv`, show the selected version of Python with `pyenv`, and run either

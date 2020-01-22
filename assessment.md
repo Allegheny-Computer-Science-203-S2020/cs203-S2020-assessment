@@ -43,7 +43,7 @@
 
 ### Continuous Integration with Travis
 
-* Setup and config of Travis CI
+* Setup and configuration of Travis CI
   * :disappointed: = Does not perform any type of setup or configuration of
    Travis CI
   * :confused: = Sets up and configures Travis CI, but does not perform any
@@ -130,8 +130,49 @@
   * Project management with GitHub
   * Continuous integration with Travis CI
   * Foundations of software engineering
+
+    * :disappointed: = Makes no attempt at learning any of the
+    above material on a consistent basis
+    * :confused: = Attempts to learn some material, but does
+    fully not understand the subject at hand,
+    struggles to be an
+    independent worker
+    * :neutral_face: = Attempts to learn all material, and
+    has a beginner level grasp on the subject at hand
+    * :smiley: = Learns materials and has a solid grasp in
+    the subject at hand
+    * :sunglasses: = Learns the materials, with an excellent
+    knowledge of the subject
+    at hand and contributes to the class by asking
+    intelligent questions or providing assistance
+    to help fellow colleagues learn as well
+
 * Understanding and avoiding red flags
+
+  * :disappointed: = Ignores all red flags in code and does not make
+    attempts to fix them
+  * :confused: = Identifies red flags, but does not attempt to
+    fix them
+  * :neutral_face: = Identifies red flags and fixes some of them
+  * :smiley: = Identifies red flags and fixes the majority of
+    them
+  * :sunglasses: = Identifies red flags, fixes all of them and
+    helps others to fix theirs as well
+
 * Understanding and adopting best practices
+
+  * :disappointed: = Fails to understand and adopt beneficial
+    practices,
+    such as labeling commits, working efficiently and
+    utilizing resources to assist in problem solving
+  * :confused: = Adopts a few good practices, but does not
+    understand why they are beneficial and fails to
+    adopt others
+  * :neutral_face: = Understands all best practices at hand, but
+    struggles to adopt all of them
+  * :smiley: = Understands and adopts all best practices
+  * :sunglasses: = Understands and adopts all best practices,
+    while guiding others to do the same
 
 ### Group
 

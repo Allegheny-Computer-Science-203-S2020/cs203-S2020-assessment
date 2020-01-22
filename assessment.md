@@ -138,37 +138,34 @@
 
 ### Revision of Guides
 
-This section describes the policies for revising the assessment form and Code of
-Conduct. Revision on either of these two repositories must be approved by
-project leader and follow the GitHub Flow Model. Additionally, Pull requests for
-revision of either guide must tag multiple TL's, a project leader, and another
-classmate.
-
 * Policies for revising the assessment form
-  * 😞 = Revision on unassigned and assigned sections of the assessment form
-      are made without approval, do not follow the GitHub Flow model, and lack a
-      Pull request
-  * 😕 = Revision on assigned sections of the assessment form are made with
-      approval and follow the GitHub flow model, but lack a Pull request
-  * 😐 = Revision on assigned sections of the assessment form are made with
-      approval, follow the GitHub flow model, and a Pull request that tags a TL
-  * 😃 = Revision on assigned sections of the assessment form are made with
-      approval, follow the GitHub flow model, and a Pull request that tags
+  * :disappointed: = Revision on unassigned and assigned sections of the
+      assessment form are made without approval, do not follow the GitHub Flow
+      model, and lack a Pull request
+  * :confused: = Revision on assigned sections of the assessment form are made
+      with approval and follow the GitHub flow model, but lack a Pull request
+  * :neutral_face: = Revision on assigned sections of the assessment form are
+      made with approval, follow the GitHub flow model, and a Pull request that
+      tags a TL
+  * :smiley: = Revision on assigned sections of the assessment form are made
+      with approval, follow the GitHub flow model, and a Pull request that tags
       multiple TLs and Project manager
-  * 😎 = Revision on assigned sections of the assessment form are made with
-      approval, follow the GitHub flow model, and a Pull request that tags
+  * :sunglasses: = Revision on assigned sections of the assessment form are made
+      with approval, follow the GitHub flow model, and a Pull request that tags
       multiple TLs, a Project manager, and another non Project-manager classmate
+
 * Policies for revising the code of conduct
-  * 😞 = Revision on unassigned and assigned sections of the code of conduct
-      are made without approval, do not follow the GitHub Flow model, and lack a
-      Pull request
-  * 😕 = Revision on assigned sections of the code of conduct are made with
-      approval and follow the GitHub flow model, but lack a Pull request
-  * 😐 = Revision on assigned sections of the code of conduct are made with
-      approval, follow the GitHub flow model, and a Pull request that tags a TL
-  * 😃 = Revision on assigned sections of the code of conduct are made with
-      approval, follow the GitHub flow model, and a Pull request that tags
+  * :disappointed: = Revision on unassigned and assigned sections of the code of
+      conduct are made without approval, do not follow the GitHub Flow model,
+      and lack a Pull request
+  * :confused: = Revision on assigned sections of the code of conduct are made
+      with approval and follow the GitHub flow model, but lack a Pull request
+  * :neutral_face: = Revision on assigned sections of the code of conduct are
+      made with approval, follow the GitHub flow model, and a Pull request that
+      tags a TL
+  * :smiley: = Revision on assigned sections of the code of conduct are made
+      with approval, follow the GitHub flow model, and a Pull request that tags
       multiple TLs and Project manager
-  * 😎 = Revision on assigned sections of the code of conduct are made with
-      approval, follow the GitHub flow model, and a Pull request that tags
+  * :sunglasses: = Revision on assigned sections of the code of conduct are made
+      with approval, follow the GitHub flow model, and a Pull request that tags
       multiple TLs, a Project manager, and another non Project-manager classmate

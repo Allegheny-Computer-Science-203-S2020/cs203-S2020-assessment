@@ -193,7 +193,7 @@
   * :sunglasses: = Polite, patient, and effectively communicates with technical
   leaders to seek advice and help when necessary
 
-### Revision of Guides
+## Revision of Guides
 
 * Policies for revising the assessment form
   * :disappointed: = Revision on unassigned and assigned sections of the

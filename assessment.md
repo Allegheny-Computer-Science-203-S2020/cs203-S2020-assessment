@@ -100,7 +100,7 @@
   methods
   * :smiley: = Identifies and fixes most of the bugs using logging and other methods
   * :sunglasses: = Identifies and fixes most of the bugs using logging and other
-  methods, and documents them
+  methods and documents the steps to fix the bug
 * Adopting and using appropriate Python language constructs
   * :disappointed: = Does not use Python language constructs
   * :confused: = Implements Python language constructs incorrectly
@@ -118,10 +118,10 @@
 * Adhering to industry best practices for programming in Python
   * :disappointed: = Does not follow any of the industry best practices for
   programming in Python
-  * :neutral_face: = Correctly and efficiently implements some of the industry
+  * :neutral_face: = Correctly implements some of the industry
   best practices for programming in Python
   * :sunglasses: = Correctly and efficiently implements some of the industry
-  best practices for programming in Python, and documents their experience
+  best practices for programming in Python
 
 ### Project Management with GitHub
 

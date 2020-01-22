@@ -44,12 +44,69 @@
 ### Continuous Integration with Travis
 
 * Setup and configuration of Travis CI
+  * :disappointed: = Does not perform any type of setup or configuration of
+   Travis CI
+  * :confused: = Sets up and configures Travis CI, but does not perform any
+   checks
+  * :neutral_face: = Partially sets up and configures Travis CI to a less
+   relevant extent to perform checks
+  * :smiley: = Sufficiently sets up and configures Travis CI to a more
+  sufficient extent to perform checks
+  * :sunglasses: = Correctly performs the setup and configuration of Travis
+   CI to perform checks for all project deliverables
+
 * Performing secure releases of project deliverables
+  * :disappointed: = Does not use Travis CI to perform secure releases of
+   project deliverables
+  * :confused: = Performs unsecured releases of all project deliverables
+   through Travis CI
+  * :neutral_face: = Performs unsecured releases of most project deliverables
+   through Travis CI
+  * :smiley: = Performs secured releases of most project deliverables through
+   Travis CI
+  * :sunglasses: = Performs secured releases of all project deliverables using
+  Travis CI
+
 * Creating third-party integrations with Travis CI (e.g., codecov.io)
+  * :disappointed: = Does not create third-party integrations with Travis CI
+  * :confused: = Creates partially implemented third-party integrations with
+  Travis CI
+  * :neutral_face: = Fully implements some third-party integrations with Travis
+  CI
+  * :smiley: = Fully implements most third-party integrations with Travis CI
+  * :sunglasses: = Fully implements useful and relevant third-party
+  integrations with Travis CI
+
 * Adding README badges that show status of Travis CI builds
+  * :disappointed: = Does not add README status badges to the project
+  * :confused: = Adds README status badges but does not work correctly
+  * :neutral_face: = Adds README status badges but is not appropriately located
+  * :smiley: = Adds README status badges in the correct location but not
+  related to any other badges in the section
+  * :sunglasses: = Adds README status badges in the correct location and in
+  relation to all other status badges
+
 * Adding README badges that show project characteristics (e.g., coverage and
   language)
+  * :disappointed: = Does not add README badges to the project
+  * :confused: = Does not add README badges that show project characteristics
+  * :neutral_face: = Adds improperly located README badges that show project
+  characteristics
+  * :smiley: = Adds properly located README badges that show project
+  characteristics but that are not relevant to the project
+  * :sunglasses: = Adds relevant and properly located README badges that show
+  project characteristics
+
 * Identifying and resolving problems with failing builds in Travis CI
+  * :disappointed: = Does not identify or resolve problems with failing builds
+  in Travis CI
+  * :confused: = Partially identifies problems with failing builds in Travis CI
+  * :neutral_face: = Identifies but does not resolve problems with failing
+  builds in Travis CI
+  * :smiley: = Identifies and partially resolves problems with failing builds
+  in Travis CI
+  * :sunglasses: = Fully identifies and resolves problems with failing builds
+  in Travis CI
 
 ### Foundations of Software Engineering
 

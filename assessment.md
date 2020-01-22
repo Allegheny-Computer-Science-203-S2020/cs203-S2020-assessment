@@ -52,26 +52,26 @@
   * :smiley: = Thorough, adequate test cases.
   * :sunglasses: = Thorough, adequate, and documented test cases.
 * Calculating code coverage of a `pytest` test suite
-  * :disappointed: = Does not check code coverage at all, 0%.
-  * :confused: = Checks up to 25% code coverage with `pytest`.
-  * :neutral_face: = Checks up to 50% code coverage with `pytest`.
-  * :smiley: = Checks up to 75% code coverage with `pytest`.
-  * :sunglasses: = Checks 100% code coverage with `pytest`.
+  * :disappointed: = Does not check code coverage at all, 0%
+  * :confused: = Checks up to 25% code coverage with `pytest`
+  * :neutral_face: = Checks up to 50% code coverage with `pytest`
+  * :smiley: = Checks up to 75% code coverage with `pytest`
+  * :sunglasses: = Checks 100% code coverage with `pytest`
 * Reporting code coverage through an online provider
-  * :disappointed: = Does not report or check coverage.
-  * :neutral_face: = Checks and reports some code coverage using an online provider.
+  * :disappointed: = Does not report or check coverage
+  * :neutral_face: = Checks and reports some code coverage using an online provider
   * :sunglasses: = Checks and reports code coverage through an online provider
-  and documentation provided.
-* Using docstrings to document a Python program.
-  * :disappointed: = Does not use docstrings.
+  and documentation provided
+* Using docstrings to document a Python program
+  * :disappointed: = Does not use docstrings
   * :confused: = Incorrect use of docstrings which are unidentifiable to the
-  compiler.
+  compiler
   * :neutral_face: = Adds docstrings, but they do not fully describe the
-  functions/methods effect as a command.
+  functions/methods effect as a command
   * :smiley: = Successfully adds docstrings with useful description, but they
-  lack some proper syntax.
+  lack some proper syntax
   * :sunglasses: = Successfully adds docstring with useful description and
-  proper syntax.
+  proper syntax
 * Adopting and applying appropriate naming conventions
   * :disappointed: = Use unconventional naming styles foreign to python's syntax.
   * :confused: = Use appropriate naming styles that are not entirely conventional.

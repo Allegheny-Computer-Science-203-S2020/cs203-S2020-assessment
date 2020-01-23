@@ -111,14 +111,84 @@
 ### Foundations of Software Engineering
 
 * Requirements engineering
+  * :disappointed: = No effort to change refine or contribute to documentation
+  * :confused: = Very short or vague description of documentation
+  * :neutral_face: = Conveys information accurately and descriptively enough for
+  everyone to understand
+  * :smiley: = Well thought-out and descriptive documentation and definitions so
+  everyone can be well informed
+  * :sunglasses: = A very structured and detailed outlining of all of the
+  elements in a software system
 * Software architecture
+  * :disappointed: = No carefully thought-out contribution to the layout of
+  the Project
+  * :confused: = Very little amount of shape to the architecture to the Project
+  * :neutral_face: = There is some sort of plan for the system
+  * :smiley: = There is a well thought-out plan for the system
+  * :sunglasses: = There is a very detailed and complete plan laid out for the
+  system
 * Software design
+  * :disappointed: = No effort to make a design
+  * :confused: = Small effort made to put in place a layout of a design system
+  * :neutral_face: = Some small designs are able to be seen so a solution is
+  visible
+  * :smiley: = A solution that is rich in coding layout and architectural design
+  * :sunglasses: = All expectations have been exceeded with a well thought-out
+  high level software solution with both extremely detailed algorithmic and
+  architectural designs
 * Software documentation
+  * :disappointed: = No written documentation of how the code works
+  * :confused: = Very little or unclear documentation in the code of how the
+  code works
+  * :neutral_face: = Software documentation has a decent bit of detail describing
+  the code and how the program will run
+  * :smiley: = In-depth detailed documentation within the project that explain
+  the reasoning behind the code
+  * :sunglasses: = Very in-depth detailed explanation of code with use of
+  documentation to show and explain how the code will be used
 * Programming styles
+  * :disappointed: = Program is messy, confusing, and has no organized style
+  * :confused: = Programming is easier to read, but still unclear and
+  disorganized
+  * :neutral_face: = Program is somewhat understandable, but still lacks clarity
+  and organization
+  * :smiley: = Most of program is easy to understand and read, but still lacks
+  organization
+  * :sunglasses: = Code is easy to read, understand, and organized in a way
+  that makes sense
 * Managing software complexity
+  * :disappointed: = No complexity managements techniques utilized
+  * :confused: = Code is frequently non-obvious and complex
+  * :neutral_face: = Some basic code management is used such as simplicity or
+  simplification
+  * :smiley: = Most of code is managed using complexity reduction techniques
+  like abstraction
+  * :sunglasses: = Majority of code effectively uses complexity reduction
+  techniques such as modular design
 * Mitigating software risk
+  * :disappointed: = No risk identified
+  * :confused: = Minimal risk identified
+  * :neutral_face: = Some risk identified and basic risk mitigation techniques
+  used
+  * :smiley: = Most risk identified and some risk mitigation techniques used
+  * :sunglasses: = Majority risk identified and mitigation techniques used
 * Software testing
+  * :disappointed: = No code is tested
+  * :confused: = Minimal code is tested
+  * :neutral_face: = Some individual code is tested and minimal changes made to
+  improve quality
+  * :smiley: = Most of individuals code is tested and changes made to improve
+  quality
+  * :sunglasses: = Code is tested and changes made to improve overall quality
 * Software refactoring
+  * :disappointed: = No software refactoring or internal changes take place
+  * :confused: = Little to no refactoring is made to make the code organized
+  * :neutral_face: = Refactoring is done to improve code structure and
+  readability monthly
+  * :smiley: = Some refactoring is made to enhance readability, simplify code
+  structure, and clarify changes biweekly
+  * :sunglasses: = Code is refactored and changes made to enhance the programs
+  readability, simplify code structure, and clarify changes weekly
 
 ## Professional Skills
 

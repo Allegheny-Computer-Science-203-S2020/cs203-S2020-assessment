@@ -13,44 +13,44 @@
 ### Software Development with Python
 
 * Configuring a development environment for Python
-  * :disappointed: = Development environment is not set up.
+  * :disappointed: = Development environment is not set up
   * :confused: = Development environment configured without all required dependencies
-  and tools.
+  and tools
   * :neutral_face: = Development environment configured with required dependencies
-  and tools.
+  and tools
   * :smiley: = Development environment configured with requirements plus additional
-  tools.
+  tools
   * :sunglasses: = Development environment configured with requirements plus additional
-  tools, and assistance to other students with configuration has been provided.
+  tools, and assistance to other students with configuration has been provided
 * Running Python programs with `pyenv` and `pipenv`
-  * :disappointed: = `pyenv` and `pipenv` not installed or setup on laptop.
-  * :confused: = Program will not run with `pyenv` and `pipenv`.
-  * :neutral_face: = Programs are able to run with `pyenv` and `pipenv`.
+  * :disappointed: = `pyenv` and `pipenv` not installed or setup on laptop
+  * :confused: = Program will not run with `pyenv` and `pipenv`
+  * :neutral_face: = Programs are able to run with `pyenv` and `pipenv`
   * :smiley: = Programs are able to run with `pyenv` and `pipenv` and additional
-  flags and commands have been incorporated.
+  flags and commands have been incorporated
   * :sunglasses: = Programs are able to run with `pyenv` and `pipenv` with additional
   flags and commands to improve testing while also providing assistance to other
-  students in their use of `pyenv` and `pipenv`.
+  students in their use of `pyenv` and `pipenv`
 * Linting Python programs with `pylint` and `flake8`
-  * :disappointed: = `pylint` and `flake8` not installed or setup.
+  * :disappointed: = `pylint` and `flake8` not installed or setup
   * :confused: = `pylint` and `flake8` installed but incorrectly configured and
-  unable to run.
+  unable to run
   * :neutral_face: = `pylint` and `flake8` able to lint programs but program returns
-  linting errors.
+  linting errors
   * :smiley: = `pyling` and `flake8` able to lint programs successfully, programs
-  contain no linting errors.
+  contain no linting errors
   * :sunglasses: = `pylint` and `flake8` able to lint programs, programs contain
   no linting errors, troubleshooting assistance provided for installation and configuring
-  of `pylint` and `flake8` to other students.
+  of `pylint` and `flake8` to other students
 * Formatting Python programs with `black`
-  * :disappointed: = `black` not installed, setup, or used.
-  * :sunglasses: = Ran `black` successfully and file was formatted.
+  * :disappointed: = `black` not installed, setup, or used
+  * :sunglasses: = Ran `black` successfully and file was formatted
 * Basic testing of Python programs with `pytest`
-  * :disappointed: = Did not use `pytest`.
-  * :confused: = `pytest` employed, but with inadequate test cases.
-  * :neutral_face: = Few test cases were created.
-  * :smiley: = Thorough, adequate test cases.
-  * :sunglasses: = Thorough, adequate, and documented test cases.
+  * :disappointed: = Did not use `pytest`
+  * :confused: = `pytest` employed, but with inadequate test cases
+  * :neutral_face: = Few test cases were created
+  * :smiley: = Thorough, adequate test cases
+  * :sunglasses: = Thorough, adequate, and documented test cases
 * Calculating code coverage of a `pytest` test suite
   * :disappointed: = Does not check code coverage at all, 0%
   * :confused: = Checks up to 25% code coverage with `pytest`
@@ -58,70 +58,70 @@
   * :smiley: = Checks up to 75% code coverage with `pytest`
   * :sunglasses: = Checks 100% code coverage with `pytest`
 * Reporting code coverage through an online provider
-  * :disappointed: = Does not report or check coverage.
-  * :neutral_face: = Checks and reports some code coverage using an online provider.
-  * :sunglasses: = Checks and reports code coverage through an online provider.
-  and documentation provided.
+  * :disappointed: = Does not report or check coverage
+  * :neutral_face: = Checks and reports some code coverage using an online provider
+  * :sunglasses: = Checks and reports code coverage through an online provider
+  and documentation provided
 * Using docstrings to document a Python program
-  * :disappointed: = Does not use docstrings.
+  * :disappointed: = Does not use docstrings
   * :confused: = Incorrect use of docstrings which are unidentifiable to the
-  compiler.
+  compiler
   * :neutral_face: = Adds docstrings, but they do not fully describe the
   functions/methods effect as a command
   * :smiley: = Successfully adds docstrings with useful description, but they
-  lack some proper syntax.
+  lack some proper syntax
   * :sunglasses: = Successfully adds docstring with useful description and
-  proper syntax.
+  proper syntax
 * Adopting and applying appropriate naming conventions
-  * :disappointed: = Use unconventional naming styles foreign to python's syntax.
-  * :confused: = Use appropriate naming styles that are not entirely conventional.
+  * :disappointed: = Use unconventional naming styles foreign to python's syntax
+  * :confused: = Use appropriate naming styles that are not entirely conventional
   * :neutral_face: = Use inappropriate naming styles that are not prescriptive or
-  descriptive.
+  descriptive
   * :smiley: = Use appropriate naming styles, but is missing syntax used with
-  variables, function, and methods.
+  variables, function, and methods
   * :sunglasses: = Use appropriate naming styles with correct syntax used with
-  variables, functions, and methods.
+  variables, functions, and methods
 * Using exception handling to create a robust Python program
-  * :disappointed: = Code crashes because of no exception handling.
-  * :confused: = Code crashes because of incorrect exception handling.
-  * :neutral_face: = Code does not handle few exceptions.
-  * :smiley: = Code handles most of exceptions.
-  * :sunglasses: = Code handles all exceptions and documents causes.
+  * :disappointed: = Code crashes because of no exception handling
+  * :confused: = Code crashes because of incorrect exception handling
+  * :neutral_face: = Code does not handle few exceptions
+  * :smiley: = Code handles most of exceptions
+  * :sunglasses: = Code handles all exceptions and documents causes
 * Refactoring a Python program to improve its characteristics
-  * :disappointed: = No refactoring done.
-  * :confused: = Little code refactored and no documentation.
-  * :neutral_face: = Some code is refactored and changes documented.
-  * :smiley: = Refactored code contains easy to understand functions and documentation.
-  * :sunglasses: = Refactored code is clean, efficient, well documented, and maintainable.
+  * :disappointed: = No refactoring done
+  * :confused: = Little code refactored and no documentation
+  * :neutral_face: = Some code is refactored and changes documented
+  * :smiley: = Refactored code contains easy to understand functions and documentation
+  * :sunglasses: = Refactored code is clean, efficient, well documented, and maintainable
 * Debugging Python programs using logging and other methods
-  * :disappointed: = No fault-localization and no debugging.
-  * :confused: = Identifies some of the bugs.
+  * :disappointed: = No fault-localization and no debugging
+  * :confused: = Identifies some of the bugs
   * :neutral_face: = Identifies and fixes some of the bugs using logging and other
-  methods.
-  * :smiley: = Identifies and fixes most of the bugs using logging and other methods.
-  * :sunglasses: = Identifies and fixes most of the bugs using logging and other.
-  methods and documents the steps to fix the bug.
+  methods
+  * :smiley: = Identifies and fixes most of the bugs using logging and other methods
+  * :sunglasses: = Identifies and fixes most of the bugs using logging and other
+  methods and documents the steps to fix the bug
 * Adopting and using appropriate Python language constructs
-  * :disappointed: = Does not use Python language constructs.
-  * :confused: = Implements Python language constructs incorrectly.
-  * :neutral_face: = Implements Python language constructs correctly.
-  * :smiley: = Implements Python language constructs correctly and efficiently.
+  * :disappointed: = Does not use Python language constructs
+  * :confused: = Implements Python language constructs incorrectly
+  * :neutral_face: = Implements Python language constructs correctly
+  * :smiley: = Implements Python language constructs correctly and efficiently
   * :sunglasses: = Implements Python language constructs correctly and efficiently
-  and documents the reason.
+  and documents the reason
 * Adopting and using appropriate Python packages
-  * :disappointed: = Does not adopt/use Python packages.
-  * :confused: = Adopts/uses Python packages incorrectly.
-  * :neutral_face: = Adopts/uses Python packages correctly.
-  * :smiley: = Adopts/uses Python packages correctly and efficiently.
+  * :disappointed: = Does not adopt/use Python packages
+  * :confused: = Adopts/uses Python packages incorrectly
+  * :neutral_face: = Adopts/uses Python packages correctly
+  * :smiley: = Adopts/uses Python packages correctly and efficiently
   * :sunglasses: = Adopts/uses Python packages correctly and efficiently
-  and documents the reason.
+  and documents the reason
 * Adhering to industry best practices for programming in Python
   * :disappointed: = Does not follow any of the industry best practices for
-  programming in Python.
+  programming in Python
   * :neutral_face: = Correctly implements some of the industry
-  best practices for programming in Python.
+  best practices for programming in Python
   * :sunglasses: = Correctly and efficiently implements some of the industry
-  best practices for programming in Python.
+  best practices for programming in Python
 
 ### Project Management with GitHub
 

@@ -14,17 +14,18 @@
 
 * Configuring a development environment for Python
   * :disappointed: = Development environment is not set up
-  * :confused: = Development environment configured without all required dependencies
+  * :confused: = Development environment is configured without all required dependencies
   and tools
-  * :neutral_face: = Development environment configured with required dependencies
+  * :neutral_face: = Development environment is configured with required dependencies
   and tools
-  * :smiley: = Development environment configured with requirements plus additional
+  * :smiley: = Development environment is configured with requirements plus additional
   tools
-  * :sunglasses: = Development environment configured with requirements plus additional
-  tools, and assistance to other students with configuration has been provided
+  * :sunglasses: = Development environment is configured with requirements plus
+  additional tools, and assistance to other students with configuration has been
+  provided
 * Running Python programs with `pyenv` and `pipenv`
-  * :disappointed: = `pyenv` and `pipenv` not installed or setup on laptop
-  * :confused: = Program will not run with `pyenv` and `pipenv`
+  * :disappointed: = `pyenv` and `pipenv` are not installed or setup on laptop
+  * :confused: = Program cannot run with `pyenv` and `pipenv`
   * :neutral_face: = Programs are able to run with `pyenv` and `pipenv`
   * :smiley: = Programs are able to run with `pyenv` and `pipenv` and additional
   flags and commands have been incorporated
@@ -32,23 +33,23 @@
   flags and commands to improve testing while also providing assistance to other
   students in their use of `pyenv` and `pipenv`
 * Linting Python programs with `pylint` and `flake8`
-  * :disappointed: = `pylint` and `flake8` not installed or setup
-  * :confused: = `pylint` and `flake8` installed but incorrectly configured and
-  unable to run
-  * :neutral_face: = `pylint` and `flake8` able to lint programs but program returns
-  linting errors
-  * :smiley: = `pyling` and `flake8` able to lint programs successfully, programs
+  * :disappointed: = `pylint` and `flake8` are not installed or setup
+  * :confused: = `pylint` and `flake8` are installed but incorrectly configured
+  and unable to run
+  * :neutral_face: = `pylint` and `flake8` are able to lint programs but program
+  returns linting errors
+  * :smiley: = `pyling` and `flake8` are able to lint programs successfully, programs
   contain no linting errors
-  * :sunglasses: = `pylint` and `flake8` able to lint programs, programs contain
+  * :sunglasses: = `pylint` and `flake8` are able to lint programs, programs contain
   no linting errors, troubleshooting assistance provided for installation and configuring
   of `pylint` and `flake8` to other students
 * Formatting Python programs with `black`
-  * :disappointed: = `black` not installed, setup, or used
-  * :sunglasses: = Ran `black` successfully and file was formatted
+  * :disappointed: = `black` is not installed, setup, or used
+  * :sunglasses: = Runs `black` successfully and file is formatted
 * Basic testing of Python programs with `pytest`
-  * :disappointed: = Did not use `pytest`
-  * :confused: = `pytest` employed, but with inadequate test cases
-  * :neutral_face: = Few test cases were created
+  * :disappointed: = Does not use `pytest`
+  * :confused: = `pytest` employs, but with inadequate test cases
+  * :neutral_face: = Few test cases are created
   * :smiley: = Thorough, adequate test cases
   * :sunglasses: = Thorough, adequate, and documented test cases
 * Calculating code coverage of a `pytest` test suite
@@ -64,7 +65,7 @@
   and documentation provided
 * Using docstrings to document a Python program
   * :disappointed: = Does not use docstrings
-  * :confused: = Incorrect use of docstrings which are unidentifiable to the
+  * :confused: = Incorrectly uses docstrings which are unidentifiable to the
   compiler
   * :neutral_face: = Adds docstrings, but they do not fully describe the
   functions/methods effect as a command
@@ -73,13 +74,13 @@
   * :sunglasses: = Successfully adds docstring with useful description and
   proper syntax
 * Adopting and applying appropriate naming conventions
-  * :disappointed: = Use unconventional naming styles foreign to python's syntax
-  * :confused: = Use appropriate naming styles that are not entirely conventional
-  * :neutral_face: = Use inappropriate naming styles that are not prescriptive or
+  * :disappointed: = Uses unconventional naming styles foreign to python's syntax
+  * :confused: = Uses appropriate naming styles that are not entirely conventional
+  * :neutral_face: = Uses inappropriate naming styles that are not prescriptive or
   descriptive
-  * :smiley: = Use appropriate naming styles, but is missing syntax used with
+  * :smiley: = Uses appropriate naming styles, but is missing syntax used with
   variables, function, and methods
-  * :sunglasses: = Use appropriate naming styles with correct syntax used with
+  * :sunglasses: = Uses appropriate naming styles with correct syntax used with
   variables, functions, and methods
 * Using exception handling to create a robust Python program
   * :disappointed: = Code crashes because of no exception handling
@@ -88,9 +89,9 @@
   * :smiley: = Code handles most of exceptions
   * :sunglasses: = Code handles all exceptions and documents causes
 * Refactoring a Python program to improve its characteristics
-  * :disappointed: = No refactoring done
-  * :confused: = Little code refactored and no documentation
-  * :neutral_face: = Some code is refactored and changes documented
+  * :disappointed: = No refactoring is done
+  * :confused: = Little code is refactored and no documentation
+  * :neutral_face: = Some code is refactored and changes are documented
   * :smiley: = Refactored code contains easy to understand functions and documentation
   * :sunglasses: = Refactored code is clean, efficient, well documented, and maintainable
 * Debugging Python programs using logging and other methods

@@ -58,20 +58,20 @@
   * :smiley: = Checks up to 75% code coverage with `pytest`
   * :sunglasses: = Checks 100% code coverage with `pytest`
 * Reporting code coverage through an online provider
-  * :disappointed: = Does not report or check coverage
-  * :neutral_face: = Checks and reports some code coverage using an online provider
-  * :sunglasses: = Checks and reports code coverage through an online provider
-  and documentation provided
+  * :disappointed: = Does not report or check coverage.
+  * :neutral_face: = Checks and reports some code coverage using an online provider.
+  * :sunglasses: = Checks and reports code coverage through an online provider.
+  and documentation provided.
 * Using docstrings to document a Python program
-  * :disappointed: = Does not use docstrings
+  * :disappointed: = Does not use docstrings.
   * :confused: = Incorrect use of docstrings which are unidentifiable to the
-  compiler
+  compiler.
   * :neutral_face: = Adds docstrings, but they do not fully describe the
   functions/methods effect as a command
   * :smiley: = Successfully adds docstrings with useful description, but they
-  lack some proper syntax
+  lack some proper syntax.
   * :sunglasses: = Successfully adds docstring with useful description and
-  proper syntax
+  proper syntax.
 * Adopting and applying appropriate naming conventions
   * :disappointed: = Use unconventional naming styles foreign to python's syntax.
   * :confused: = Use appropriate naming styles that are not entirely conventional.
@@ -94,34 +94,34 @@
   * :smiley: = Refactored code contains easy to understand functions and documentation.
   * :sunglasses: = Refactored code is clean, efficient, well documented, and maintainable.
 * Debugging Python programs using logging and other methods
-  * :disappointed: = No fault-localization and no debugging
-  * :confused: = Identifies some of the bugs
+  * :disappointed: = No fault-localization and no debugging.
+  * :confused: = Identifies some of the bugs.
   * :neutral_face: = Identifies and fixes some of the bugs using logging and other
-  methods
-  * :smiley: = Identifies and fixes most of the bugs using logging and other methods
-  * :sunglasses: = Identifies and fixes most of the bugs using logging and other
-  methods and documents the steps to fix the bug
+  methods.
+  * :smiley: = Identifies and fixes most of the bugs using logging and other methods.
+  * :sunglasses: = Identifies and fixes most of the bugs using logging and other.
+  methods and documents the steps to fix the bug.
 * Adopting and using appropriate Python language constructs
-  * :disappointed: = Does not use Python language constructs
-  * :confused: = Implements Python language constructs incorrectly
-  * :neutral_face: = Implements Python language constructs correctly
-  * :smiley: = Implements Python language constructs correctly and efficiently
+  * :disappointed: = Does not use Python language constructs.
+  * :confused: = Implements Python language constructs incorrectly.
+  * :neutral_face: = Implements Python language constructs correctly.
+  * :smiley: = Implements Python language constructs correctly and efficiently.
   * :sunglasses: = Implements Python language constructs correctly and efficiently
-  and documents the reason
+  and documents the reason.
 * Adopting and using appropriate Python packages
-  * :disappointed: = Does not adopt/use Python packages
-  * :confused: = Adopts/uses Python packages incorrectly
-  * :neutral_face: = Adopts/uses Python packages correctly
-  * :smiley: = Adopts/uses Python packages correctly and efficiently
+  * :disappointed: = Does not adopt/use Python packages.
+  * :confused: = Adopts/uses Python packages incorrectly.
+  * :neutral_face: = Adopts/uses Python packages correctly.
+  * :smiley: = Adopts/uses Python packages correctly and efficiently.
   * :sunglasses: = Adopts/uses Python packages correctly and efficiently
-  and documents the reason
+  and documents the reason.
 * Adhering to industry best practices for programming in Python
   * :disappointed: = Does not follow any of the industry best practices for
-  programming in Python
+  programming in Python.
   * :neutral_face: = Correctly implements some of the industry
-  best practices for programming in Python
+  best practices for programming in Python.
   * :sunglasses: = Correctly and efficiently implements some of the industry
-  best practices for programming in Python
+  best practices for programming in Python.
 
 ### Project Management with GitHub
 

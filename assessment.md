@@ -119,7 +119,7 @@
   everyone can be well informed
   * :sunglasses: = A very structured and detailed outlining of all of the
   elements in a software system
-  
+
 * Software architecture
   * :disappointed: = No carefully thought-out contribution to the layout of
   the Project
@@ -128,7 +128,7 @@
   * :smiley: = There is a well thought-out plan for the system
   * :sunglasses: = There is a very detailed and complete plan laid out for the
   system
-  
+
 * Software design
   * :disappointed: = No effort to make a design
   * :confused: = Small effort made to put in place a layout of a design system
@@ -138,7 +138,7 @@
   * :sunglasses: = All expectations have been exceeded with a well thought-out
   high level software solution with both extremely detailed algorithmic and
   architectural designs
-  
+
 * Software documentation
   * :disappointed: = No written documentation of how the code works
   * :confused: = Very little or unclear documentation in the code of how the
@@ -149,7 +149,7 @@
   the reasoning behind the code
   * :sunglasses: = Very in-depth detailed explanation of code with use of
   documentation to show and explain how the code will be used
-  
+
 * Programming styles
   * :disappointed: = Program is messy, confusing, and has no organized style
   * :confused: = Programming is easier to read, but still unclear and
@@ -160,7 +160,7 @@
   organization
   * :sunglasses: = Code is easy to read, understand, and organized in a way
   that makes sense
-  
+
 * Managing software complexity
   * :disappointed: = No complexity managements techniques utilized
   * :confused: = Code is frequently non-obvious and complex
@@ -170,7 +170,7 @@
   like abstraction
   * :sunglasses: = Majority of code effectively uses complexity reduction
   techniques such as modular design
-  
+
 * Mitigating software risk
   * :disappointed: = No risk identified
   * :confused: = Minimal risk identified
@@ -178,7 +178,7 @@
   used
   * :smiley: = Most risk identified and some risk mitigation techniques used
   * :sunglasses: = Majority risk identified and mitigation techniques used
-  
+
 * Software testing
   * :disappointed: = No code is tested
   * :confused: = Minimal code is tested
@@ -187,7 +187,7 @@
   * :smiley: = Most of individuals code is tested and changes made to improve
   quality
   * :sunglasses: = Code is tested and changes made to improve overall quality
-  
+
 * Software refactoring
   * :disappointed: = No software refactoring or internal changes take place
   * :confused: = Little to no refactoring is made to make the code organized

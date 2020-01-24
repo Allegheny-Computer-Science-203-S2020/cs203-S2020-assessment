@@ -90,14 +90,6 @@
     group members who need assistance, ensuring that use of branches is
     consistent across team members.
 
-A software engineer demonstrates mastery of this technical skill at the
-:sunglasses: level by communicating with their team to determine a naming scheme
-for branches, and the plan is executed as agreed upon. The branch(es) being used
-should be named according to their role (i.e.
-team2-project-management-with-github), and once that role is complete/no longer
-necessary, a pull request should be created to merge the branch with the main
-branch.
-
 * Creating and using a repository fork
   * 😞 = Didn't create or utilize repository forks.
   * 😕 = Created unclear repository forks.
@@ -142,13 +134,6 @@ branch.
     as well as a brief description or list of changes if a commit contains a
     large volume of changes. Additionally, guidance is provided to the group
     ensuring members are following a consistent and uniform commit structure.
-
-A software engineer demonstrates the mastery of this technical skill at the
-:sunglasses: level by engaging with the team to determine an appropriate commit
-scheme and structure (e.g. action-content-file or equally descriptive format),
-consistently adhering to said structure, and adding commit descriptions if
-deemed necessary (e.g. Adding a list of feature additions / changes / removals
-or rationale for said actions).
 
 ### Continuous Integration with Travis
 

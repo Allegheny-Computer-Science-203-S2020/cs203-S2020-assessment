@@ -103,12 +103,6 @@
   * :sunglasses: = Team member completes work on time and encourages others
     to also complete their work with enough time to test it and fix errors.
 
-A software engineer demonstrates the mastery of this professional skill at the
-:sunglasses: level by completing their assigned work for the project with enough
-time remaining to properly test and document it, and enough time to fix any
-errors. Additionally, they should encourage others to complete their work in a
-similar time frame such that the project flows as smoothly as possible.
-
 * Communication
   * :disappointed: = No communication to group
   * :confused: = Little to none communication
@@ -133,12 +127,6 @@ similar time frame such that the project flows as smoothly as possible.
     fulfilling their role / position and effectively communicates with
     their team. The team member actively seeks to resolve issues and
     guide other team members in matters concerning their role / position.
-
-A software engineer demonstrates the mastery of this professional skill at the
-:sunglasses: level by understanding their role / position within the group and
-handling aspects of the project that concern this role / position. Furthermore,
-they will effectively communicate their intentions and abilities in order to
-maximize productivity.
 
 * Conduct
 

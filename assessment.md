@@ -137,25 +137,160 @@
 
 ### Continuous Integration with Travis
 
-* Setup and config of Travis CI
+* Setup and configuration of Travis CI
+  * :disappointed: = Does not perform any type of setup or configuration of
+   Travis CI
+  * :confused: = Sets up and configures Travis CI, but does not perform any
+   checks
+  * :neutral_face: = Partially sets up and configures Travis CI to a less
+   relevant extent to perform checks
+  * :smiley: = Sufficiently sets up and configures Travis CI to a more
+  sufficient extent to perform checks
+  * :sunglasses: = Correctly performs the setup and configuration of Travis
+   CI to perform checks for all project deliverables
+
 * Performing secure releases of project deliverables
+  * :disappointed: = Does not use Travis CI to perform secure releases of
+   project deliverables
+  * :confused: = Performs unsecured releases of all project deliverables
+   through Travis CI
+  * :neutral_face: = Performs unsecured releases of most project deliverables
+   through Travis CI
+  * :smiley: = Performs secured releases of most project deliverables through
+   Travis CI
+  * :sunglasses: = Performs secured releases of all project deliverables using
+  Travis CI
+
 * Creating third-party integrations with Travis CI (e.g., codecov.io)
+  * :disappointed: = Does not create third-party integrations with Travis CI
+  * :confused: = Creates partially implemented third-party integrations with
+  Travis CI
+  * :neutral_face: = Fully implements some third-party integrations with Travis
+  CI
+  * :smiley: = Fully implements most third-party integrations with Travis CI
+  * :sunglasses: = Fully implements useful and relevant third-party
+  integrations with Travis CI
+
 * Adding README badges that show status of Travis CI builds
+  * :disappointed: = Does not add README status badges to the project
+  * :confused: = Adds README status badges but does not work correctly
+  * :neutral_face: = Adds README status badges but is not appropriately located
+  * :smiley: = Adds README status badges in the correct location but not
+  related to any other badges in the section
+  * :sunglasses: = Adds README status badges in the correct location and in
+  relation to all other status badges
+
 * Adding README badges that show project characteristics (e.g., coverage and
   language)
+  * :disappointed: = Does not add README badges to the project
+  * :confused: = Does not add README badges that show project characteristics
+  * :neutral_face: = Adds improperly located README badges that show project
+  characteristics
+  * :smiley: = Adds properly located README badges that show project
+  characteristics but that are not relevant to the project
+  * :sunglasses: = Adds relevant and properly located README badges that show
+  project characteristics
+
 * Identifying and resolving problems with failing builds in Travis CI
+  * :disappointed: = Does not identify or resolve problems with failing builds
+  in Travis CI
+  * :confused: = Partially identifies problems with failing builds in Travis CI
+  * :neutral_face: = Identifies but does not resolve problems with failing
+  builds in Travis CI
+  * :smiley: = Identifies and partially resolves problems with failing builds
+  in Travis CI
+  * :sunglasses: = Fully identifies and resolves problems with failing builds
+  in Travis CI
 
 ### Foundations of Software Engineering
 
 * Requirements engineering
+  * :disappointed: = No effort to change refine or contribute to documentation
+  * :confused: = Very short or vague description of documentation
+  * :neutral_face: = Conveys information accurately and descriptively enough for
+  everyone to understand
+  * :smiley: = Well thought-out and descriptive documentation and definitions so
+  everyone can be well informed
+  * :sunglasses: = A very structured and detailed outlining of all of the
+  elements in a software system
+
 * Software architecture
+  * :disappointed: = No carefully thought-out contribution to the layout of
+  the Project
+  * :confused: = Very little amount of shape to the architecture to the Project
+  * :neutral_face: = There is some sort of plan for the system
+  * :smiley: = There is a well thought-out plan for the system
+  * :sunglasses: = There is a very detailed and complete plan laid out for the
+  system
+
 * Software design
+  * :disappointed: = No effort to make a design
+  * :confused: = Small effort made to put in place a layout of a design system
+  * :neutral_face: = Some small designs are able to be seen so a solution is
+  visible
+  * :smiley: = A solution that is rich in coding layout and architectural design
+  * :sunglasses: = All expectations have been exceeded with a well thought-out
+  high level software solution with both extremely detailed algorithmic and
+  architectural designs
+
 * Software documentation
+  * :disappointed: = No written documentation of how the code works
+  * :confused: = Very little or unclear documentation in the code of how the
+  code works
+  * :neutral_face: = Software documentation has a decent bit of detail describing
+  the code and how the program will run
+  * :smiley: = In-depth detailed documentation within the project that explain
+  the reasoning behind the code
+  * :sunglasses: = Very in-depth detailed explanation of code with use of
+  documentation to show and explain how the code will be used
+
 * Programming styles
+  * :disappointed: = Program is messy, confusing, and has no organized style
+  * :confused: = Programming is easier to read, but still unclear and
+  disorganized
+  * :neutral_face: = Program is somewhat understandable, but still lacks clarity
+  and organization
+  * :smiley: = Most of program is easy to understand and read, but still lacks
+  organization
+  * :sunglasses: = Code is easy to read, understand, and organized in a way
+  that makes sense
+
 * Managing software complexity
+  * :disappointed: = No complexity managements techniques utilized
+  * :confused: = Code is frequently non-obvious and complex
+  * :neutral_face: = Some basic code management is used such as simplicity or
+  simplification
+  * :smiley: = Most of code is managed using complexity reduction techniques
+  like abstraction
+  * :sunglasses: = Majority of code effectively uses complexity reduction
+  techniques such as modular design
+
 * Mitigating software risk
+  * :disappointed: = No risk identified
+  * :confused: = Minimal risk identified
+  * :neutral_face: = Some risk identified and basic risk mitigation techniques
+  used
+  * :smiley: = Most risk identified and some risk mitigation techniques used
+  * :sunglasses: = Majority risk identified and mitigation techniques used
+
 * Software testing
+  * :disappointed: = No code is tested
+  * :confused: = Minimal code is tested
+  * :neutral_face: = Some individual code is tested and minimal changes made to
+  improve quality
+  * :smiley: = Most of individuals code is tested and changes made to improve
+  quality
+  * :sunglasses: = Code is tested and changes made to improve overall quality
+
 * Software refactoring
+  * :disappointed: = No software refactoring or internal changes take place
+  * :confused: = Little to no refactoring is made to make the code organized
+  * :neutral_face: = Refactoring is done to improve code structure and
+  readability monthly
+  * :smiley: = Some refactoring is made to enhance readability, simplify code
+  structure, and clarify changes biweekly
+  * :sunglasses: = Code is refactored and changes made to enhance the programs
+  readability, simplify code structure, and clarify changes weekly
 
 ## Professional Skills
 
@@ -167,8 +302,49 @@
   * Project management with GitHub
   * Continuous integration with Travis CI
   * Foundations of software engineering
+
+    * :disappointed: = Makes no attempt at learning any of the
+    above material on a consistent basis
+    * :confused: = Attempts to learn some material, but does
+    fully not understand the subject at hand,
+    struggles to be an
+    independent worker
+    * :neutral_face: = Attempts to learn all material, and
+    has a beginner level grasp on the subject at hand
+    * :smiley: = Learns materials and has a solid grasp in
+    the subject at hand
+    * :sunglasses: = Learns the materials, with an excellent
+    knowledge of the subject
+    at hand and contributes to the class by asking
+    intelligent questions or providing assistance
+    to help fellow colleagues learn as well
+
 * Understanding and avoiding red flags
+
+  * :disappointed: = Ignores all red flags in code and does not make
+    attempts to fix them
+  * :confused: = Identifies red flags, but does not attempt to
+    fix them
+  * :neutral_face: = Identifies red flags and fixes some of them
+  * :smiley: = Identifies red flags and fixes the majority of
+    them
+  * :sunglasses: = Identifies red flags, fixes all of them and
+    helps others to fix theirs as well
+
 * Understanding and adopting best practices
+
+  * :disappointed: = Fails to understand and adopt beneficial
+    practices,
+    such as labeling commits, working efficiently and
+    utilizing resources to assist in problem solving
+  * :confused: = Adopts a few good practices, but does not
+    understand why they are beneficial and fails to
+    adopt others
+  * :neutral_face: = Understands all best practices at hand, but
+    struggles to adopt all of them
+  * :smiley: = Understands and adopts all best practices
+  * :sunglasses: = Understands and adopts all best practices,
+    while guiding others to do the same
 
 ### Group
 

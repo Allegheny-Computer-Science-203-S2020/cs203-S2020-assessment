@@ -43,8 +43,8 @@
   no linting errors, student provides assistance for installation and configuration
   of `pylint` and `flake8` to other students
 * Formatting Python programs with `black`
-  * :disappointed: = `black` is not installed, setup, or used
-  * :sunglasses: = Runs `black` successfully and file is formatted
+  * :disappointed: = Does not format programs with `black`
+  * :sunglasses: =  Formats programs with `black`
 * Basic testing of Python programs with `pytest`
   * :disappointed: = Does not use `pytest`
   * :confused: = `pytest` employs, but with inadequate test cases

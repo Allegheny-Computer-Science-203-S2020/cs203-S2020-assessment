@@ -13,16 +13,15 @@
 ### Software Development with Python
 
 * Configuring a development environment for Python
-  * :disappointed: = Development environment is not set up
-  * :confused: = Development environment is configured without all required dependencies
+  * :disappointed: = Does not configure a development environment for Python
+  * :confused: = Configures a development environment, but does not contain all
+  required dependencies and tools
+  * :neutral_face: = Configures a development environment with all required dependencies
   and tools
-  * :neutral_face: = Development environment is configured with required dependencies
-  and tools
-  * :smiley: = Development environment is configured with requirements plus additional
+  * :smiley: = Configures a development environment with all requirements plus additional
   tools
-  * :sunglasses: = Development environment is configured with requirements plus
-  additional tools, and assistance to other students with configuration has been
-  provided
+  * :sunglasses: = Configures a development environment with all requires plus additional
+  tools, and provides assistance to other students with configuration
 * Running Python programs with `pyenv` and `pipenv`
   * :disappointed: = `pyenv` and `pipenv` are not installed or setup on laptop
   * :confused: = Program cannot run with `pyenv` and `pipenv`

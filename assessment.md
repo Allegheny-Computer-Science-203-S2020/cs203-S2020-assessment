@@ -76,11 +76,12 @@
   * :neutral_face: = Uses appropriate naming styles with nondescript names
   * :sunglasses: = Uses appropriate naming styles descriptive names
 * Using exception handling to create a robust Python program
-  * :disappointed: = Code crashes because of no exception handling
-  * :confused: = Code crashes because of incorrect exception handling
-  * :neutral_face: = Code does not handle few exceptions
-  * :smiley: = Code handles most of exceptions
-  * :sunglasses: = Code handles all exceptions and documents causes
+  * :disappointed: = Does not implement any exception handling
+  * :confused: = Implements exception handling incorrectly
+  * :neutral_face: = Implements exception handling correctly
+  * :smiley: = Implements exception handling correctly and efficiently
+  * :sunglasses: = Implements exception handling correctly,efficiently and
+  provides assistance to others
 * Refactoring a Python program to improve its characteristics
   * :disappointed: = No refactoring is done
   * :confused: = Little code is refactored and no documentation

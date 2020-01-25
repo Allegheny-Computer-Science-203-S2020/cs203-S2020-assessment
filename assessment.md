@@ -62,7 +62,7 @@
   * :disappointed: = Does not report or check coverage
   * :neutral_face: = Checks and reports some code coverage using an online provider
   * :sunglasses: = Checks and reports code coverage through an online provider
-  and documentation provided
+  and provides documentation
 * Using docstrings to document a Python program
   * :disappointed: = Does not use docstrings
   * :confused: = Incorrectly uses docstrings which are unidentifiable to the

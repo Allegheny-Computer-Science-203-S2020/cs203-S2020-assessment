@@ -22,6 +22,7 @@
   tools
   * :sunglasses: = Configures a development environment with all requires plus additional
   tools, and provides assistance to other students with configuration
+
 * Running Python programs with `pyenv` and `pipenv`
   * :disappointed: = Does not install `pyenv` and `pipenv` on laptop
   * :confused: = Installs `pyenv` and `pipenv`, but does not execute correctly with
@@ -32,6 +33,7 @@
   * :sunglasses: = Program runs with `pyenv` and `pipenv`, incorporates additional
   flags and commands to improve testing, and student provides assistance to others
   with `pyenv` and `pipenv` usage
+
 * Linting Python programs with `pylint` and `flake8`
   * :disappointed: = Does not install and setup `pylint` and `flake8`
   * :confused: = Installs and configures `pylint` and `flake8` incorrectly
@@ -42,9 +44,11 @@
   * :sunglasses: = `pylint` and `flake8` executes correctly, program contains
   no linting errors, student provides assistance for installation and configuration
   of `pylint` and `flake8` to other students
+
 * Formatting Python programs with `black`
   * :disappointed: = Does not format programs with `black`
   * :sunglasses: =  Formats programs with `black`
+
 * Basic testing of Python programs with `pytest`
   * :disappointed: = Does not use `pytest`
   * :confused: = Uses `pytest` with inadequate test cases
@@ -52,17 +56,20 @@
   * :smiley: = Creates adequate test cases with documentation
   * :sunglasses: = Creates adequate test cases with documentation, and student provides
   assistance to others
+
 * Calculating code coverage of a `pytest` test suite
   * :disappointed: = Does not check code coverage at all, 0%
   * :confused: = Checks up to 25% code coverage with `pytest`
   * :neutral_face: = Checks up to 50% code coverage with `pytest`
   * :smiley: = Checks up to 75% code coverage with `pytest`
   * :sunglasses: = Checks 100% code coverage with `pytest`
+
 * Reporting code coverage through an online provider
   * :disappointed: = Does not report or check coverage
   * :neutral_face: = Checks and reports some code coverage using an online provider
   * :sunglasses: = Checks and reports code coverage through an online provider
   and provides documentation
+
 * Using docstrings to document a Python program
   * :disappointed: = Does not use docstrings
   * :confused: = Uses docstrings with irrelevant documentation and incorrect syntax
@@ -71,10 +78,12 @@
   * :smiley: = Uses docstrings with expansive documentation and correct syntax
   * :sunglasses: = Uses docstring with expansive documentation, correct syntax,
   and students provides assistance to others with docstring
+
 * Adopting and applying appropriate naming conventions
   * :disappointed: = Uses inappropriate naming styles foreign to python's syntax
   * :neutral_face: = Uses appropriate naming styles with nondescript names
   * :sunglasses: = Uses appropriate naming styles descriptive names
+
 * Using exception handling to create a robust Python program
   * :disappointed: = Does not implement any exception handling
   * :confused: = Implements exception handling incorrectly
@@ -82,6 +91,7 @@
   * :smiley: = Implements exception handling correctly and efficiently
   * :sunglasses: = Implements exception handling correctly,efficiently and
   provides assistance to others
+
 * Refactoring a Python program to improve its characteristics
   * :disappointed: = Does not refactor program
   * :confused: = Refactors program with insignificant changes
@@ -89,6 +99,7 @@
   * :smiley: = Refactors program with improved efficiency and clear syntax
   * :sunglasses: = Refactors program with improved efficiency, clear syntax, and
   assists others with program refactoring
+
 * Debugging Python programs using logging and other methods
   * :disappointed: = No fault-localization and no debugging
   * :confused: = Identifies some of the bugs
@@ -97,6 +108,7 @@
   * :smiley: = Identifies and fixes most of the bugs using logging and other methods
   * :sunglasses: = Identifies and fixes most of the bugs using logging and other
   methods and documents the steps to fix the bug
+
 * Adopting and using appropriate Python language constructs
   * :disappointed: = Does not use Python language constructs
   * :confused: = Implements Python language constructs incorrectly
@@ -104,6 +116,7 @@
   * :smiley: = Implements Python language constructs correctly and efficiently
   * :sunglasses: = Implements Python language constructs correctly and efficiently
   and documents the reason
+
 * Adopting and using appropriate Python packages
   * :disappointed: = Does not adopt/use Python packages
   * :confused: = Adopts/uses Python packages incorrectly
@@ -111,6 +124,7 @@
   * :smiley: = Adopts/uses Python packages correctly and efficiently
   * :sunglasses: = Adopts/uses Python packages correctly and efficiently
   and documents the reason
+
 * Adhering to industry best practices for programming in Python
   * :disappointed: = Does not follow any of the industry best practices for
   programming in Python

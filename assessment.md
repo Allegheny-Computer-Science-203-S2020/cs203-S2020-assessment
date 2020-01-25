@@ -23,20 +23,20 @@
   * :sunglasses: = Configures a development environment with all requires plus additional
   tools, and provides assistance to other students with configuration
 * Running Python programs with `pyenv` and `pipenv`
-  * :disappointed: = `pyenv` and `pipenv` are not installed or setup on laptop
-  * :confused: = Program cannot run with `pyenv` and `pipenv`
-  * :neutral_face: = Programs are able to run with `pyenv` and `pipenv`
-  * :smiley: = Programs are able to run with `pyenv` and `pipenv` and additional
-  flags and commands have been incorporated
-  * :sunglasses: = Programs are able to run with `pyenv` and `pipenv` with additional
-  flags and commands to improve testing while also providing assistance to other
-  students in their use of `pyenv` and `pipenv`
+  * :disappointed: = Does not install `pyenv` and `pipenv` on laptop
+  * :confused: = Installs `pyenv` and `pipenv`, but does not execute correctly with
+  programs
+  * :neutral_face: = Program runs correctly using `pyenv` and `pipenv`
+  * :smiley: = Program runs correctly using `pyenv` and `pipenv`, and incorporates
+  additional flags and commands to improve testing
+  * :sunglasses: = Program runs with `pyenv` and `pipenv`, incorporates additional
+  flags and commands to improve testing, and student provides assistance to others
+  with `pyenv` and `pipenv` usage
 * Linting Python programs with `pylint` and `flake8`
-  * :disappointed: = `pylint` and `flake8` are not installed or setup
-  * :confused: = `pylint` and `flake8` are installed but incorrectly configured
-  and unable to run
-  * :neutral_face: = `pylint` and `flake8` are able to lint programs but program
-  returns linting errors
+  * :disappointed: = Does not install and setup `pylint` and `flake8`
+  * :confused: = Installs and configures `pylint` and `flake8` incorrectly
+  * :neutral_face: = Installs and configures `pylint` and `flake8` correctly, but
+  program 
   * :smiley: = `pyling` and `flake8` are able to lint programs successfully, programs
   contain no linting errors
   * :sunglasses: = `pylint` and `flake8` are able to lint programs, programs contain

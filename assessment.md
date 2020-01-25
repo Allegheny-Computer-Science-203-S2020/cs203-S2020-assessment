@@ -419,4 +419,33 @@
 ## Revision of Guides
 
 * Policies for revising the assessment form
+  * :disappointed: = Revision on unassigned and assigned sections of the
+      assessment form are made without approval, do not follow the GitHub Flow
+      model, and lack a Pull request
+  * :confused: = Revision on assigned sections of the assessment form are made
+      with approval and follow the GitHub flow model, but lack a Pull request
+  * :neutral_face: = Revision on assigned sections of the assessment form are
+      made with approval, follow the GitHub flow model, and a Pull request that
+      tags a TL
+  * :smiley: = Revision on assigned sections of the assessment form are made
+      with approval, follow the GitHub flow model, and a Pull request that tags
+      multiple TLs and Project manager
+  * :sunglasses: = Revision on assigned sections of the assessment form are made
+      with approval, follow the GitHub flow model, and a Pull request that tags
+      multiple TLs, a Project manager, and another non Project-manager classmate
+
 * Policies for revising the code of conduct
+  * :disappointed: = Revision on unassigned and assigned sections of the code of
+      conduct are made without approval, do not follow the GitHub Flow model,
+      and lack a Pull request
+  * :confused: = Revision on assigned sections of the code of conduct are made
+      with approval and follow the GitHub flow model, but lack a Pull request
+  * :neutral_face: = Revision on assigned sections of the code of conduct are
+      made with approval, follow the GitHub flow model, and a Pull request that
+      tags a TL
+  * :smiley: = Revision on assigned sections of the code of conduct are made
+      with approval, follow the GitHub flow model, and a Pull request that tags
+      multiple TLs and Project manager
+  * :sunglasses: = Revision on assigned sections of the code of conduct are made
+      with approval, follow the GitHub flow model, and a Pull request that tags
+      multiple TLs, a Project manager, and another non Project-manager classmate

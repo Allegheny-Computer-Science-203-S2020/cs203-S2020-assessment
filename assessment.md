@@ -70,16 +70,11 @@
   syntax
   * :smiley: = Uses docstrings with expansive documentation and correct syntax
   * :sunglasses: = Uses docstring with expansive documentation, correct syntax,
-  and students provides assistance to others with docstrings
+  and students provides assistance to others with docstring
 * Adopting and applying appropriate naming conventions
-  * :disappointed: = Uses unconventional naming styles foreign to python's syntax
-  * :confused: = Uses appropriate naming styles that are not entirely conventional
-  * :neutral_face: = Uses inappropriate naming styles that are not prescriptive or
-  descriptive
-  * :smiley: = Uses appropriate naming styles, but is missing syntax used with
-  variables, function, and methods
-  * :sunglasses: = Uses appropriate naming styles with correct syntax used with
-  variables, functions, and methods
+  * :disappointed: = Uses inappropriate naming styles foreign to python's syntax
+  * :neutral_face: = Uses appropriate naming styles with undescriptive names
+  * :sunglasses: = Uses appropriate naming styles descriptive names
 * Using exception handling to create a robust Python program
   * :disappointed: = Code crashes because of no exception handling
   * :confused: = Code crashes because of incorrect exception handling

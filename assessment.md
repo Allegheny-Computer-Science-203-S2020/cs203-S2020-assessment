@@ -73,7 +73,7 @@
   and students provides assistance to others with docstring
 * Adopting and applying appropriate naming conventions
   * :disappointed: = Uses inappropriate naming styles foreign to python's syntax
-  * :neutral_face: = Uses appropriate naming styles with undescriptive names
+  * :neutral_face: = Uses appropriate naming styles with nondescript names
   * :sunglasses: = Uses appropriate naming styles descriptive names
 * Using exception handling to create a robust Python program
   * :disappointed: = Code crashes because of no exception handling

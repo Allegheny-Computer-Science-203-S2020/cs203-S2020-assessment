@@ -83,11 +83,12 @@
   * :sunglasses: = Implements exception handling correctly,efficiently and
   provides assistance to others
 * Refactoring a Python program to improve its characteristics
-  * :disappointed: = No refactoring is done
-  * :confused: = Little code is refactored and no documentation
-  * :neutral_face: = Some code is refactored and changes are documented
-  * :smiley: = Refactored code contains easy to understand functions and documentation
-  * :sunglasses: = Refactored code is clean, efficient, well documented, and maintainable
+  * :disappointed: = Does not refactor program
+  * :confused: = Refactors program with insignificant changes
+  * :neutral_face: = Refactors program with improved efficiency
+  * :smiley: = Refactors program with improved efficiency and clear syntax
+  * :sunglasses: = Refactors program with improved efficiency, clear syntax, and
+  assists others with program refactoring
 * Debugging Python programs using logging and other methods
   * :disappointed: = No fault-localization and no debugging
   * :confused: = Identifies some of the bugs

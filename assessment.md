@@ -47,10 +47,11 @@
   * :sunglasses: =  Formats programs with `black`
 * Basic testing of Python programs with `pytest`
   * :disappointed: = Does not use `pytest`
-  * :confused: = `pytest` employs, but with inadequate test cases
-  * :neutral_face: = Few test cases are created
-  * :smiley: = Thorough, adequate test cases
-  * :sunglasses: = Thorough, adequate, and documented test cases
+  * :confused: = Uses `pytest` with inadequate test cases
+  * :neutral_face: = Creates adequate test cases for program
+  * :smiley: = Creates adequate test cases with documentation
+  * :sunglasses: = Creates adequate test cases with documentation, and student provides
+  assistance to others
 * Calculating code coverage of a `pytest` test suite
   * :disappointed: = Does not check code coverage at all, 0%
   * :confused: = Checks up to 25% code coverage with `pytest`

@@ -35,12 +35,12 @@
 * Linting Python programs with `pylint` and `flake8`
   * :disappointed: = Does not install and setup `pylint` and `flake8`
   * :confused: = Installs and configures `pylint` and `flake8` incorrectly
-  * :neutral_face: = Installs and configures `pylint` and `flake8` correctly, but
-  program 
-  * :smiley: = `pyling` and `flake8` are able to lint programs successfully, programs
-  contain no linting errors
-  * :sunglasses: = `pylint` and `flake8` are able to lint programs, programs contain
-  no linting errors, troubleshooting assistance provided for installation and configuring
+  * :neutral_face: = `pylint` and `flake8` executes correctly, program
+  contains linting errors
+  * :smiley: = `pylint` and `flake8` executes correctly, program
+  contains no linting errors
+  * :sunglasses: = `pylint` and `flake8` executes correctly, program contains
+  no linting errors, student provides assistance for installation and configuration
   of `pylint` and `flake8` to other students
 * Formatting Python programs with `black`
   * :disappointed: = `black` is not installed, setup, or used

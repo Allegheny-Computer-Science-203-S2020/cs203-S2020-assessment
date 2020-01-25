@@ -65,14 +65,12 @@
   and provides documentation
 * Using docstrings to document a Python program
   * :disappointed: = Does not use docstrings
-  * :confused: = Incorrectly uses docstrings which are unidentifiable to the
-  compiler
-  * :neutral_face: = Adds docstrings, but they do not fully describe the
-  functions/methods effect as a command
-  * :smiley: = Successfully adds docstrings with useful description, but they
-  lack some proper syntax
-  * :sunglasses: = Successfully adds docstring with useful description and
-  proper syntax
+  * :confused: = Uses docstrings with irrelevant documentation and incorrect syntax
+  * :neutral_face: = Uses docstrings with adequate documentation but contains incorrect
+  syntax
+  * :smiley: = Uses docstrings with expansive documentation and correct syntax
+  * :sunglasses: = Uses docstring with expansive documentation, correct syntax,
+  and students provides assistance to others with docstrings
 * Adopting and applying appropriate naming conventions
   * :disappointed: = Uses unconventional naming styles foreign to python's syntax
   * :confused: = Uses appropriate naming styles that are not entirely conventional

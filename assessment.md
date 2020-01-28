@@ -312,7 +312,6 @@
   * Project management with GitHub
   * Continuous integration with Travis CI
   * Foundations of software engineering
-
     * :disappointed: = Makes no attempt at learning any of the
     above material on a consistent basis
     * :confused: = Attempts to learn some material, but does
@@ -330,7 +329,6 @@
     to help fellow colleagues learn as well
 
 * Understanding and avoiding red flags
-
   * :disappointed: = Ignores all red flags in code and does not make
     attempts to fix them
   * :confused: = Identifies red flags, but does not attempt to
@@ -342,7 +340,6 @@
     helps others to fix theirs as well
 
 * Understanding and adopting best practices
-
   * :disappointed: = Fails to understand and adopt beneficial
     practices,
     such as labeling commits, working efficiently and
@@ -359,7 +356,6 @@
 ### Group
 
 * Attendance
-
   * :disappointed: = Team member is never or rarely present
   * :confused: = Team member is occasionally present and rarely engaged
   * :neutral_face: = Team member is frequently present but not always engaged
@@ -369,7 +365,6 @@
     engaged
 
 * Deadlines
-
   * :disappointed: = Team member has poor time management skills and appears
     unaware of deadlines
   * :confused: = Team member demonstrates a lack of urgency as deadline
@@ -391,7 +386,6 @@
   * :sunglasses: = Communication through slack and email and always check up on group
 
 * Participation
-
   * :disappointed: = Team member is completely uninvolved or otherwise
     provides no significant contribution to projects
   * :confused: = Team member is involved and contributes to the project,
@@ -409,7 +403,6 @@
     guide other team members in matters concerning their role / position.
 
 * Conduct
-
   * :disappointed: = Never treats teammates with respect
   * :confused: = Sometimes treats teammates with respect
   * :neutral_face: = Often times treats teammates with respect
@@ -419,7 +412,6 @@
     respect
 
 * Decisions
-
   * :disappointed: = No conclusive thoughts
   * :confused: = Thoughts are final but most members completely disagree and no
     group input was taken.
@@ -432,7 +424,6 @@
 
 * Postmortems
 * Conflicts
-
   * :disappointed: = Never addresses conflicts with anyone
   * :confused: = Sometimes addresses conflicts with teammates
   * :neutral_face: = Addresses conflicts with teammates through communication
@@ -443,7 +434,6 @@
     and referencing conduct guide
 
 * Infractions
-
   * :disappointed: = Never follows the guidelines of the conduct guide.
   * :confused: = Rarely follows the guidelines of the conduct guide.
   * :neutral_face: = Sometimes follows the guidelines of the conduct guide.

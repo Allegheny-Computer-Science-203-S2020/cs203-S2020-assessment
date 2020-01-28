@@ -155,10 +155,10 @@
 * Using the GitHub issue tracker
   * :disappointed: = Do not use the issue tracker
   * :confused: = Occasionally use the issue tracker, issue descriptions are confusing
-  * :neutral_face: = Use the issue tracker, but will still occasionally use slack or
-  other communication, issue descriptions occasionally confusing
+  * :neutral_face: = Use the issue tracker, but will still occasionally use
+    slack or other communication, issue descriptions occasionally confusing
   * :smiley: = Use the issue tracker, issue descriptions not as in depth as they
-  should be
+    should be
   * :sunglasses: = Use the issue tracker, issue descriptions are in depth and clear
 
 * Assigning team members to issues in the GitHub issue tracker
@@ -196,6 +196,7 @@
     consistent across team members
 
 * Creating and using a repository fork
+
   * :disappointed: = Didn't create or utilize repository forks.
   * :confused: = Created unclear repository forks.
   * :neutral_face: = Created poorly named repository forks.
@@ -216,15 +217,17 @@
 
 * Creating and reviewing a pull request
 
-  * :disappointed: = Not creating a pull request
+  * :disappointed: = Not creating and/or not reviewing a pull request
   * :confused: = Does not mention the issues it is trying to close with a subpar
-    description
+    description, only partially reviews before submitting a PR
   * :neutral_face: = Mentions related issues it is trying to close and describes
-    the changes
+    the changes, reviews most of the code before submitting the PR
   * :smiley: = Mentions most related issues it is trying to close, describes
-    most changes and the purpose of the pull request
+    most changes and the purpose of the pull request, fully reviews before
+    submitting a PR
   * :sunglasses: = Mentions all related issues it is trying to close, describes
-    all changes made and passes Travis CI
+    all changes made and passes Travis CI, fully reviews before submitting
+    a PR
 
 * Using appropriate commit messages
 

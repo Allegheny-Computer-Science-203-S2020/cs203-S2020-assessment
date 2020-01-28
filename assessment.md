@@ -312,7 +312,6 @@
   * Project management with GitHub
   * Continuous integration with Travis CI
   * Foundations of software engineering
-
     * :disappointed: = Makes no attempt at learning any of the
     above material on a consistent basis
     * :confused: = Attempts to learn some material, but does
@@ -330,7 +329,6 @@
     to help fellow colleagues learn as well
 
 * Understanding and avoiding red flags
-
   * :disappointed: = Ignores all red flags in code and does not make
     attempts to fix them
   * :confused: = Identifies red flags, but does not attempt to
@@ -342,7 +340,6 @@
     helps others to fix theirs as well
 
 * Understanding and adopting best practices
-
   * :disappointed: = Fails to understand and adopt beneficial
     practices,
     such as labeling commits, working efficiently and
@@ -359,14 +356,90 @@
 ### Group
 
 * Attendance
+  * :disappointed: = Team member is never or rarely present
+  * :confused: = Team member is occasionally present and rarely engaged
+  * :neutral_face: = Team member is frequently present but not always engaged
+  * :smiley: = Team member has two to three unexcused absences and is frequently
+    engaged
+  * :sunglasses: = Team member has zero to one unexcused absence and is always
+    engaged
+
 * Deadlines
+  * :disappointed: = Team member has poor time management skills and appears
+    unaware of deadlines
+  * :confused: = Team member demonstrates a lack of urgency as deadline
+    approaches and misses work as a result
+  * :neutral_face: = Team member completes their required work, but
+    adheres only to technical time constraints and does not leave time for
+    testing or correction of errors
+  * :smiley: = Team member completes their required work with enough
+    time before the deadline to properly test their code/work and enough time to
+    fix any errors that may have arisen
+  * :sunglasses: = Team member completes work on time and encourages others
+    to also complete their work with enough time to test it and fix errors.
+
 * Communication
+  * :disappointed: = No communication to group
+  * :confused: = Little to none communication
+  * :neutral_face: = Communication is low and some questions are asked.
+  * :smiley: = Communication is used; asks questions and checks slack.
+  * :sunglasses: = Communication through slack and email and always check up on group
+
 * Participation
+  * :disappointed: = Team member is completely uninvolved or otherwise
+    provides no significant contribution to projects
+  * :confused: = Team member is involved and contributes to the project,
+    but does not cooperate or communicate with their team and/or
+    fulfill their role
+  * :neutral_face: = Team member actively contributes to the project and
+    effectively communicates with their team
+  * :smiley: = Team member actively contributes to the project by
+    fulfilling their role / position and effectively communicates with
+    their team, especially concerning matters of which their role / position is
+    responsible for
+  * :sunglasses: = Team member actively contributes to the project by
+    fulfilling their role / position and effectively communicates with
+    their team. The team member actively seeks to resolve issues and
+    guide other team members in matters concerning their role / position.
+
 * Conduct
+  * :disappointed: = Never treats teammates with respect
+  * :confused: = Sometimes treats teammates with respect
+  * :neutral_face: = Often times treats teammates with respect
+  * :smiley: = Treats teammates with respect and controls their behavior around
+    others
+  * :sunglasses: = Always acknowledges teammates and treats with the upmost
+    respect
+
 * Decisions
+  * :disappointed: = No conclusive thoughts
+  * :confused: = Thoughts are final but most members completely disagree and no
+    group input was taken.
+  * :neutral_face: = Some members are on page, input was taken, but decision
+    was ineffective.
+  * :smiley: = Most members are on page, input was taken, and decision was
+    effective.
+  * :sunglasses: = All member are on page, input was taken, and decision was
+    effective and beneficial.
+
 * Postmortems
 * Conflicts
+  * :disappointed: = Never addresses conflicts with anyone
+  * :confused: = Sometimes addresses conflicts with teammates
+  * :neutral_face: = Addresses conflicts with teammates through communication
+  * :smiley: = Addresses conflicts with teammates through mature communication
+    while involving leaders
+  * :sunglasses: = Addresses conflicts with teammates through mature
+    communication (slack or the issue tracker in GitHub) while involving leaders
+    and referencing conduct guide
+
 * Infractions
+  * :disappointed: = Never follows the guidelines of the conduct guide.
+  * :confused: = Rarely follows the guidelines of the conduct guide.
+  * :neutral_face: = Sometimes follows the guidelines of the conduct guide.
+  * :smiley: = Always follow the guidelines of the conduct guide.
+  * :sunglasses: = Always follow the guidelines of the conduct guide, but also
+    makes sure that team members are also following the guidelines.
 
 ### Interactions
 

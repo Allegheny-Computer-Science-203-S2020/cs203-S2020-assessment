@@ -136,74 +136,75 @@
 ### Project Management with GitHub
 
 * Using the GitHub Flow model
-  * Students should receive an '😞' if any work is done in the master branch
+  * :disappointed: = If any work is done in the master branch
   instead of the team branch, and/or if there is no discussion or review of the
   code with the team, and/or if no relevant commit messages are used
-  * Students should receive an '😕' if all work is done in the team branch but
+  * :confused: = If all work is done in the team branch but
   no relevant commit messages are used, and/or if there is no collaborative
   discussion and review.
-  * Students should receive an '😐' if all work is done in the team branch,
+  * :neutral_face: = If all work is done in the team branch,
   commit messages are relevant but not sufficiently descriptive and/or are
   confusing, and engage somewhat in a team review and discussion session.
-  * Students should receive a '😃'if all work is done in the team branch, commit
+  * :smiley: = If all work is done in the team branch, commit
   messages provide more detail but still may leave room for confusion, and the
   student engages in a team review and discussion session.
-  * Students should receive an '😎' if all work is done in the team branch,
+  * :sunglasses: = If all work is done in the team branch,
   commit messages provide extensive depth regarding changes, and the student
   actively engages in and/or initiates a team review and discussion.
 
 * Using the GitHub issue tracker
-  * 😞 = do not use the issue tracker
-  * 😕 = occasionally use the issue tracker, issue descriptions are confusing
-  * 😐 = use the issue tracker, but will still occasionally use slack or
+  * :disappointed: = Do not use the issue tracker
+  * :confused: = Occasionally use the issue tracker, issue descriptions are confusing
+  * :neutral_face: = Use the issue tracker, but will still occasionally use slack or
   other communication, issue descriptions occasionally confusing
-  * 😃 = use the issue tracker, issue descriptions not as in depth as they
+  * :smiley: = Use the issue tracker, issue descriptions not as in depth as they
   should be
-  * 😎 = use the issue tracker, issue descriptions are in depth and clear
+  * :sunglasses: = Use the issue tracker, issue descriptions are in depth and clear
 
 * Assigning team members to issues in the GitHub issue tracker
 
-  * :disappointed: = No team member was assigned to issue.
-  * :confused: = Team member was assigned to issue but no response was given.
+  * :disappointed: = No team member was assigned to issue
+  * :confused: = Team member was assigned to issue but no response was given
   * :neutral_face: = Team member was assigned to issue and team member tried to
-    assist but no change was made.
-  * :smiley: = Team member was assigned to issue and issue was resolved.
+    assist but no change was made
+  * :smiley: = Team member was assigned to issue and issue was resolved
   * :sunglasses: = Team member was assigned to issue and issue was resolved and
-    understood.
+    understood
 
 * Creating and assigning labels to issues in the GitHub issue tracker
-  * :disappointed: = Doing nothing.
-  * :confused:= Assigning but not clarifying tasks.
-  * :neutral_face: = Assigned tasks that are clear but are useless.
-  * :smiley: = Assigning tasks that are clear and beneficial to the group.
+  * :disappointed: = Not creating and assigning labels to issues in the GitHub
+    issue tracker
+  * :confused:= Assigning but not clarifying tasks
+  * :neutral_face: = Assigning tasks that are clear but are useless
+  * :smiley: = Assigning tasks that are clear and beneficial to the group
   * :sunglasses: = Assigning tasks that are clear, beneficial and given in a
-     timely manner.
+     timely manner
 
 * Creating and using a repository branch
 
   * :disappointed: = No branches (other than master) are used, and commits
-    are made directly to the master branch.
+    are made directly to the master branch
   * :confused: = A branch is used, but its name is not relevant to its
-    purpose or its function is unnecessary.
+    purpose or its function is unnecessary
   * :neutral_face: = Branch name is relevant to its function and its
-    function is necessary.
+    function is necessary
   * :smiley: = Branch is properly created and necessary, and a pull
-    request is created once work is completed on the branch.
+    request is created once work is completed on the branch
   * :sunglasses: = Branch is properly created, and a pull request is
     created once work is completed on the branch. Guidance is provided to
     group members who need assistance, ensuring that use of branches is
-    consistent across team members.
+    consistent across team members
 
 * Creating and using a repository fork
-  * 😞 = Didn't create or utilize repository forks.
-  * 😕 = Created unclear repository forks.
-  * 😐 = Created poorly named repository forks.
-  * 😃 = Created useful named repository forks
-  * 😎 = Created useful and descriptive repository forks
+  * :disappointed: = Didn't create or utilize repository forks.
+  * :confused: = Created unclear repository forks.
+  * :neutral_face: = Created poorly named repository forks.
+  * :smiley: = Created useful named repository forks
+  * :sunglasses: = Created useful and descriptive repository forks
 
 * Merging a branch or a fork to another branch or fork
 
-  * :disappointed: = Not making a branch when it your job
+  * :disappointed: = Not making a branch when it's your job to do so
   * :confused: = when merging a branch or a fork to another branch or fork does
     not work
   * :neutral_face: = when merging a branch or a fork to another branch or fork

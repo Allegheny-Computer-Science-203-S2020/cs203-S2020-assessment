@@ -162,7 +162,6 @@
   * :sunglasses: = Use the issue tracker, issue descriptions are in depth and clear
 
 * Assigning team members to issues in the GitHub issue tracker
-
   * :disappointed: = No team member was assigned to issue
   * :confused: = Team member was assigned to issue but no response was given
   * :neutral_face: = Team member was assigned to issue and team member tried to

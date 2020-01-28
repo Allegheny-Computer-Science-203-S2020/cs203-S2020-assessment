@@ -197,11 +197,11 @@
 
 * Creating and using a repository fork
 
-  * :disappointed: = Didn't create or utilize repository forks.
-  * :confused: = Created unclear repository forks.
-  * :neutral_face: = Created poorly named repository forks.
-  * :smiley: = Created useful named repository forks
-  * :sunglasses: = Created useful and descriptive repository forks
+  * :disappointed: = Does not create or utilize repository forks.
+  * :confused: = Creates unclear repository forks.
+  * :neutral_face: = Creates poorly named repository forks.
+  * :smiley: = Creates useful named repository forks
+  * :sunglasses: = Creates useful and descriptive repository forks
 
 * Merging a branch or a fork to another branch or fork
 

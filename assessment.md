@@ -181,7 +181,6 @@
      timely manner
 
 * Creating and using a repository branch
-
   * :disappointed: = No branches (other than master) are used, and commits
     are made directly to the master branch
   * :confused: = A branch is used, but its name is not relevant to its
@@ -196,7 +195,6 @@
     consistent across team members
 
 * Creating and using a repository fork
-
   * :disappointed: = Does not create or utilize repository forks.
   * :confused: = Creates unclear repository forks.
   * :neutral_face: = Creates poorly named repository forks.
@@ -204,7 +202,6 @@
   * :sunglasses: = Creates useful and descriptive repository forks
 
 * Merging a branch or a fork to another branch or fork
-
   * :disappointed: = Not making a branch when it's your job to do so
   * :confused: = when merging a branch or a fork to another branch or fork does
     not work
@@ -216,7 +213,6 @@
     works all the time
 
 * Creating and reviewing a pull request
-
   * :disappointed: = Not creating and/or not reviewing a pull request
   * :confused: = Does not mention the issues it is trying to close with a subpar
     description, only partially reviews before submitting a PR
@@ -230,7 +226,6 @@
     a PR
 
 * Using appropriate commit messages
-
   * :disappointed: = No commits are made or commit messages are blank
   * :confused: = Commit messages are arbitrary and/or vague
   * :neutral_face: = Commit messages contain relevant actions and

@@ -13,21 +13,125 @@
 ### Software Development with Python
 
 * Configuring a development environment for Python
+  * :disappointed: = Does not configure a development environment for Python
+  * :confused: = Configures a development environment, but does not contain all
+  required dependencies and tools
+  * :neutral_face: = Configures a development environment with all required dependencies
+  and tools
+  * :smiley: = Configures a development environment with all requirements plus additional
+  tools
+  * :sunglasses: = Configures a development environment with all requires plus additional
+  tools, and provides assistance to other students with configuration
+
 * Running Python programs with `pyenv` and `pipenv`
+  * :disappointed: = Does not install `pyenv` and `pipenv` on laptop
+  * :confused: = Installs `pyenv` and `pipenv`, but does not execute correctly with
+  programs
+  * :neutral_face: = Program runs correctly using `pyenv` and `pipenv`
+  * :smiley: = Program runs correctly using `pyenv` and `pipenv`, and incorporates
+  additional flags and commands to improve testing
+  * :sunglasses: = Program runs with `pyenv` and `pipenv`, incorporates additional
+  flags and commands to improve testing, and student provides assistance to others
+  with `pyenv` and `pipenv` usage
+
 * Linting Python programs with `pylint` and `flake8`
+  * :disappointed: = Does not install and setup `pylint` and `flake8`
+  * :confused: = Installs and configures `pylint` and `flake8` incorrectly
+  * :neutral_face: = `pylint` and `flake8` executes correctly, program
+  contains linting errors
+  * :smiley: = `pylint` and `flake8` executes correctly, program
+  contains no linting errors
+  * :sunglasses: = `pylint` and `flake8` executes correctly, program contains
+  no linting errors, student provides assistance for installation and configuration
+  of `pylint` and `flake8` to other students
+
 * Formatting Python programs with `black`
+  * :disappointed: = Does not format programs with `black`
+  * :sunglasses: =  Formats programs with `black`
+
 * Basic testing of Python programs with `pytest`
-* Advanced testing of Python programs with `pytest`
+  * :disappointed: = Does not use `pytest`
+  * :confused: = Uses `pytest` with inadequate test cases
+  * :neutral_face: = Creates adequate test cases for program
+  * :smiley: = Creates adequate test cases with documentation
+  * :sunglasses: = Creates adequate test cases with documentation, and student provides
+  assistance to others
+
 * Calculating code coverage of a `pytest` test suite
+  * :disappointed: = Does not check code coverage at all, 0%
+  * :confused: = Checks up to 25% code coverage with `pytest`
+  * :neutral_face: = Checks up to 50% code coverage with `pytest`
+  * :smiley: = Checks up to 75% code coverage with `pytest`
+  * :sunglasses: = Checks 100% code coverage with `pytest`
+
 * Reporting code coverage through an online provider
+  * :disappointed: = Does not report or check coverage
+  * :neutral_face: = Checks and reports some code coverage using an online provider
+  * :sunglasses: = Checks and reports code coverage through an online provider
+  and provides documentation
+
 * Using docstrings to document a Python program
+  * :disappointed: = Does not use docstrings
+  * :confused: = Uses docstrings with irrelevant documentation and incorrect syntax
+  * :neutral_face: = Uses docstrings with adequate documentation but contains incorrect
+  syntax
+  * :smiley: = Uses docstrings with expansive documentation and correct syntax
+  * :sunglasses: = Uses docstring with expansive documentation, correct syntax,
+  and students provides assistance to others with docstring
+
 * Adopting and applying appropriate naming conventions
+  * :disappointed: = Uses inappropriate naming styles foreign to python's syntax
+  * :neutral_face: = Uses appropriate naming styles with nondescript names
+  * :sunglasses: = Uses appropriate naming styles descriptive names
+
 * Using exception handling to create a robust Python program
+  * :disappointed: = Does not implement any exception handling
+  * :confused: = Implements exception handling incorrectly
+  * :neutral_face: = Implements exception handling correctly
+  * :smiley: = Implements exception handling correctly and efficiently
+  * :sunglasses: = Implements exception handling correctly,efficiently and
+  provides assistance to others
+
 * Refactoring a Python program to improve its characteristics
+  * :disappointed: = Does not refactor program
+  * :confused: = Refactors program with insignificant changes
+  * :neutral_face: = Refactors program with improved efficiency
+  * :smiley: = Refactors program with improved efficiency and clear syntax
+  * :sunglasses: = Refactors program with improved efficiency, clear syntax, and
+  assists others with program refactoring
+
 * Debugging Python programs using logging and other methods
+  * :disappointed: = No fault-localization and no debugging
+  * :confused: = Identifies some of the bugs
+  * :neutral_face: = Identifies and fixes some of the bugs using logging and other
+  methods
+  * :smiley: = Identifies and fixes most of the bugs using logging and other methods
+  * :sunglasses: = Identifies and fixes most of the bugs using logging and other
+  methods and documents the steps to fix the bug
+
 * Adopting and using appropriate Python language constructs
+  * :disappointed: = Does not use Python language constructs
+  * :confused: = Implements Python language constructs incorrectly
+  * :neutral_face: = Implements Python language constructs correctly
+  * :smiley: = Implements Python language constructs correctly and efficiently
+  * :sunglasses: = Implements Python language constructs correctly and efficiently
+  and documents the reason
+
 * Adopting and using appropriate Python packages
+  * :disappointed: = Does not adopt/use Python packages
+  * :confused: = Adopts/uses Python packages incorrectly
+  * :neutral_face: = Adopts/uses Python packages correctly
+  * :smiley: = Adopts/uses Python packages correctly and efficiently
+  * :sunglasses: = Adopts/uses Python packages correctly and efficiently
+  and documents the reason
+
 * Adhering to industry best practices for programming in Python
+  * :disappointed: = Does not follow any of the industry best practices for
+  programming in Python
+  * :neutral_face: = Correctly implements some of the industry
+  best practices for programming in Python
+  * :sunglasses: = Correctly and efficiently implements some of the industry
+  best practices for programming in Python
 
 ### Project Management with GitHub
 
@@ -302,7 +406,6 @@
   * Project management with GitHub
   * Continuous integration with Travis CI
   * Foundations of software engineering
-
     * :disappointed: = Makes no attempt at learning any of the
     above material on a consistent basis
     * :confused: = Attempts to learn some material, but does
@@ -320,7 +423,6 @@
     to help fellow colleagues learn as well
 
 * Understanding and avoiding red flags
-
   * :disappointed: = Ignores all red flags in code and does not make
     attempts to fix them
   * :confused: = Identifies red flags, but does not attempt to
@@ -332,7 +434,6 @@
     helps others to fix theirs as well
 
 * Understanding and adopting best practices
-
   * :disappointed: = Fails to understand and adopt beneficial
     practices,
     such as labeling commits, working efficiently and
@@ -349,14 +450,90 @@
 ### Group
 
 * Attendance
+  * :disappointed: = Team member is never or rarely present
+  * :confused: = Team member is occasionally present and rarely engaged
+  * :neutral_face: = Team member is frequently present but not always engaged
+  * :smiley: = Team member has two to three unexcused absences and is frequently
+    engaged
+  * :sunglasses: = Team member has zero to one unexcused absence and is always
+    engaged
+
 * Deadlines
+  * :disappointed: = Team member has poor time management skills and appears
+    unaware of deadlines
+  * :confused: = Team member demonstrates a lack of urgency as deadline
+    approaches and misses work as a result
+  * :neutral_face: = Team member completes their required work, but
+    adheres only to technical time constraints and does not leave time for
+    testing or correction of errors
+  * :smiley: = Team member completes their required work with enough
+    time before the deadline to properly test their code/work and enough time to
+    fix any errors that may have arisen
+  * :sunglasses: = Team member completes work on time and encourages others
+    to also complete their work with enough time to test it and fix errors.
+
 * Communication
+  * :disappointed: = No communication to group
+  * :confused: = Little to none communication
+  * :neutral_face: = Communication is low and some questions are asked.
+  * :smiley: = Communication is used; asks questions and checks slack.
+  * :sunglasses: = Communication through slack and email and always check up on group
+
 * Participation
+  * :disappointed: = Team member is completely uninvolved or otherwise
+    provides no significant contribution to projects
+  * :confused: = Team member is involved and contributes to the project,
+    but does not cooperate or communicate with their team and/or
+    fulfill their role
+  * :neutral_face: = Team member actively contributes to the project and
+    effectively communicates with their team
+  * :smiley: = Team member actively contributes to the project by
+    fulfilling their role / position and effectively communicates with
+    their team, especially concerning matters of which their role / position is
+    responsible for
+  * :sunglasses: = Team member actively contributes to the project by
+    fulfilling their role / position and effectively communicates with
+    their team. The team member actively seeks to resolve issues and
+    guide other team members in matters concerning their role / position.
+
 * Conduct
+  * :disappointed: = Never treats teammates with respect
+  * :confused: = Sometimes treats teammates with respect
+  * :neutral_face: = Often times treats teammates with respect
+  * :smiley: = Treats teammates with respect and controls their behavior around
+    others
+  * :sunglasses: = Always acknowledges teammates and treats with the upmost
+    respect
+
 * Decisions
+  * :disappointed: = No conclusive thoughts
+  * :confused: = Thoughts are final but most members completely disagree and no
+    group input was taken.
+  * :neutral_face: = Some members are on page, input was taken, but decision
+    was ineffective.
+  * :smiley: = Most members are on page, input was taken, and decision was
+    effective.
+  * :sunglasses: = All member are on page, input was taken, and decision was
+    effective and beneficial.
+
 * Postmortems
 * Conflicts
+  * :disappointed: = Never addresses conflicts with anyone
+  * :confused: = Sometimes addresses conflicts with teammates
+  * :neutral_face: = Addresses conflicts with teammates through communication
+  * :smiley: = Addresses conflicts with teammates through mature communication
+    while involving leaders
+  * :sunglasses: = Addresses conflicts with teammates through mature
+    communication (slack or the issue tracker in GitHub) while involving leaders
+    and referencing conduct guide
+
 * Infractions
+  * :disappointed: = Never follows the guidelines of the conduct guide.
+  * :confused: = Rarely follows the guidelines of the conduct guide.
+  * :neutral_face: = Sometimes follows the guidelines of the conduct guide.
+  * :smiley: = Always follow the guidelines of the conduct guide.
+  * :sunglasses: = Always follow the guidelines of the conduct guide, but also
+    makes sure that team members are also following the guidelines.
 
 ### Interactions
 
@@ -409,4 +586,33 @@
 ## Revision of Guides
 
 * Policies for revising the assessment form
+  * :disappointed: = Revision on unassigned and assigned sections of the
+      assessment form are made without approval, do not follow the GitHub Flow
+      model, and lack a Pull request
+  * :confused: = Revision on assigned sections of the assessment form are made
+      with approval and follow the GitHub flow model, but lack a Pull request
+  * :neutral_face: = Revision on assigned sections of the assessment form are
+      made with approval, follow the GitHub flow model, and a Pull request that
+      tags a TL
+  * :smiley: = Revision on assigned sections of the assessment form are made
+      with approval, follow the GitHub flow model, and a Pull request that tags
+      multiple TLs and Project manager
+  * :sunglasses: = Revision on assigned sections of the assessment form are made
+      with approval, follow the GitHub flow model, and a Pull request that tags
+      multiple TLs, a Project manager, and another non Project-manager classmate
+
 * Policies for revising the code of conduct
+  * :disappointed: = Revision on unassigned and assigned sections of the code of
+      conduct are made without approval, do not follow the GitHub Flow model,
+      and lack a Pull request
+  * :confused: = Revision on assigned sections of the code of conduct are made
+      with approval and follow the GitHub flow model, but lack a Pull request
+  * :neutral_face: = Revision on assigned sections of the code of conduct are
+      made with approval, follow the GitHub flow model, and a Pull request that
+      tags a TL
+  * :smiley: = Revision on assigned sections of the code of conduct are made
+      with approval, follow the GitHub flow model, and a Pull request that tags
+      multiple TLs and Project manager
+  * :sunglasses: = Revision on assigned sections of the code of conduct are made
+      with approval, follow the GitHub flow model, and a Pull request that tags
+      multiple TLs, a Project manager, and another non Project-manager classmate
